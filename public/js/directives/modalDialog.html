@@ -1,0 +1,34 @@
+<div class='ng-modal' ng-show='modalShown'>
+	<div class='ng-modal-overlay' ng-click='hideModal()'></div>
+	<div class='ng-modal-dialog'>
+		<div class='ng-modal-dialog-content flippable'
+			ng-class="{flip: flipToggle}"
+			ng-click="flipCard()"
+			ng-style="currCard.style"
+		>
+			<div class="flip-modal-dialog">
+				<h1 class="flip-modal__title">{{ currCard.title }}</h1>
+				<p class="flip-modal__summary">{{ currCard.summary }}</p>
+				<p class="flip-modal__politician-name">Politician: {{ currCard.name }}</p>
+				<p class="flip-modal__content"> 
+					<q> {{ currCard.content }} </q> 
+					<span class="flip-modal__source">{{ currCard.source }}</span>
+				</p>
+				
+			</div>
+			<div class="homepage__pager">
+				<div ng-class="{'disabled': cards.indexOf(currCard) === 0}" 
+					class="homepage__prev-btn btn btn-default" 
+					ng-click="changeCard('prev')"
+					stop-event='click'> <span>Previous</span> 
+				</div>
+				<div ng-class="{'disabled': cards.indexOf(currCard) === cards.length - 1}"
+					class="homepage__next-btn btn btn-default"
+					ng-click="changeCard('next')"
+					stop-event='click'
+					> <span>Next</span> 
+				</div>
+			</div>	
+		</div>
+	</div>
+</div>
