@@ -17,8 +17,8 @@ class CreateFlipflopsTable extends Migration
             $table->increments('id');
             $table->string('title');
             $table->string('summary');
-            $table->string('flip');
-            $table->string('flop');
+            $table->longText('flip');
+            $table->longText('flop');
             $table->string('source_type');
             $table->string('flip_source');
             $table->string('flop_source');

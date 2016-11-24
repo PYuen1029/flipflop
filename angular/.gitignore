@@ -1,7 +1,0 @@
-node_modules/
-app/bower_components/
-npm-debug.log
-.DS_Store
-dist
-app/js/bundled.js
-/trademark-layout

@@ -14,8 +14,3 @@
 Route::get('/', function () {
     return view('index');
 });
-
-Route::get('api/index', [
-	'as' => 'foo',
-	'uses' => 'FlipflopController@index'
-]);

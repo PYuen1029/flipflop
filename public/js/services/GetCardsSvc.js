@@ -4,9 +4,7 @@ module.exports = function($http, CardFcty) {
 		var cards = [];
 		
 		// it needs to get the data
-		$http.get('/api/index').success(function(data) {
-			console.log('GetCardsSvc.js: Line 8 -- data:');
-			console.dir(data);
+		$http.get('/api/flipflop').success(function(data) {
 
 			for(var i = 0; i < data.length; i++) {
 				cards.push(CardFcty.create(data[i]));

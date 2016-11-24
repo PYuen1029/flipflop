@@ -23,4 +23,11 @@ class Flipflop extends Model
 	{
 		return $this->belongsTo('App\Politician', 'politician_id');
 	}
+
+	public static function selfCreate($request)
+	{
+		$flipflop = new Flipflop([
+			
+		]);
+	}
 }

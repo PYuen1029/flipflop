@@ -64,13 +64,14 @@ html, body {
 	font-size: 16px;
 }
 
-.main__navigation-link a:hover, .main__navigation-link a:active {
-	color: #45BA01;
-}
-
 .main__navigation-link a:visited {
 	color: #c3bfb8;
 }
+
+.main__navigation-link a:hover, .main__navigation-link a:visited:hover, .main__navigation-link a:active {
+	color: #45BA01;
+}
+
 
 .main__navigation-link a {
 	text-decoration: none;
@@ -87,4 +88,8 @@ html, body {
 	margin: 0 auto;
 	padding-bottom: 200px;
 	overflow: normal;
+}
+
+.content {
+	margin-top: 50px;
 }

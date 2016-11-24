@@ -3,12 +3,9 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Flipflop;
-use App\Politician;
 
-class FlipflopController extends Controller
+class FooController extends Controller
 {
-
     /**
      * Display a listing of the resource.
      *
@@ -16,18 +13,17 @@ class FlipflopController extends Controller
      */
     public function index()
     {
-    	$flipflops = Flipflop::get()
-        ->map(function($val) {
-           $pol = $val->politicians;
-           $newArr = $val->toArray();
-           $newArr['flipBackground'] = $pol->flip_background; 
-           $newArr['flopBackground'] = $pol->flop_background;
-           $newArr['name'] = $pol->getFullName();
+        //
+    }
 
-           return $newArr;
-       });
-
-        return $flipflops->toJson();
+    /**
+     * Show the form for creating a new resource.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function create()
+    {
+        //
     }
 
     /**
@@ -38,12 +34,7 @@ class FlipflopController extends Controller
      */
     public function store(Request $request)
     {
-        $this->validate($request, [
-            'title' => 'required|max:255',
-            'content' => 'required',
-        ]);
-
-        $flipflop = FlipFlop::selfCreate($request);
+        //
     }
 
     /**

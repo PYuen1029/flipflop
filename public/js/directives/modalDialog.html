@@ -10,10 +10,12 @@
 				<h1 class="flip-modal__title">{{ currCard.title }}</h1>
 				<p class="flip-modal__summary">{{ currCard.summary }}</p>
 				<p class="flip-modal__politician-name">Politician: {{ currCard.name }}</p>
-				<p class="flip-modal__content"> 
-					<q> {{ currCard.content }} </q> 
-					<span class="flip-modal__source">{{ currCard.source }}</span>
-				</p>
+				<div class="flip-modal__content"> 
+					<p class="flip-modal__quote" ng-bind-html="currCard.content"></p> 
+					<span class="flip-modal__source" 
+						ng-bind-html="currCard.source"
+						stop-event='click'></span>
+				</div>
 				
 			</div>
 			<div class="homepage__pager">

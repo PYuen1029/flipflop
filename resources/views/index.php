@@ -24,13 +24,13 @@
         </div>
         <div class="main__navigation">
           <div class="main__navigation-home main__navigation-link"> 
-            <a href="#">Home</a>
+            <a href="#!/">Home</a>
           </div>
           <div class="main__navigation-about main__navigation-link"> 
             <a href="#"> About</a> 
           </div>
           <div class="main__navigation-submit main__navigation-link"> 
-            <a href="#"> Submit</a>
+            <a href="#!/submit"> Submit</a>
           </div>
         </div>
       </nav>
@@ -42,6 +42,7 @@
     <!-- scripts -->
     <script src="/bower_components/jquery/dist/jquery.js"></script>
     <script src="/bower_components/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-sanitize/1.5.8/angular-sanitize.js"></script>
     <script src="/js/bundled.js" type="text/javascript"></script>
   </body>
 </html>

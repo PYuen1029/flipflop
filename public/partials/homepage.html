@@ -1,11 +1,13 @@
 <div class="container">
-	<div class="homepage__cardstack">
-		<div class="homepage__card" ng-repeat="card in cards" ng-click="toggleModal(cards.indexOf(card))" ng-style="card.style">
-			<span class="homepage__card-title">
-				{{card.title}}
-			</span>
+	<div class="content">
+		<div class="homepage__cardstack">
+			<div class="homepage__card" ng-repeat="card in cards" ng-click="toggleModal(cards.indexOf(card))" ng-style="card.style">
+				<span class="homepage__card-title">
+					{{card.title}}
+				</span>
+			</div>
 		</div>
+		<modal-dialog>
+		</modal-dialog>
 	</div>
-	<modal-dialog>
-	</modal-dialog>
 </div>

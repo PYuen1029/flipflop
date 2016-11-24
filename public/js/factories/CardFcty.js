@@ -58,7 +58,7 @@ module.exports = function(IMGSRC) {
 	TextContentStrategy.prototype
 		.flipCard = function() {
 			this.content = (this.flipped) ? this.flip : this.flop;
-
+			this.source = (this.flipped) ? this.flipSource : this.flopSource;
 			this.flipped = !this.flipped;
 
 			return this.content;
@@ -79,6 +79,7 @@ module.exports = function(IMGSRC) {
 	AudioContentStrategy.prototype
 		.flipCard =	function() {
 			this.content = (this.flipped) ? 'Audio ' + this.flip : 'Audio ' + this.flop;
+			this.source = (this.flipped) ? this.flipSource : this.flopSource;
 
 			this.flipped = !this.flipped;
 
@@ -94,6 +95,7 @@ module.exports = function(IMGSRC) {
 		this.setContentStrategy(this.source_type);
 
 		this.content = this.contentStrategy.content;
+		this.source = this.contentStrategy.source;
 
 		this.background = this.flipBackground;
 
@@ -117,6 +119,7 @@ module.exports = function(IMGSRC) {
 
 		flipCard: function() {
 			this.content = this.contentStrategy.flipCard();
+			this.source = this.contentStrategy.source;
 			this.background = (this.contentStrategy.flipped) ? this.flopBackground : this.flipBackground;
 			this.style = {
 				backgroundImage: 'url( ' + IMGSRC.imgSrc + this.background + ')',
@@ -129,6 +132,7 @@ module.exports = function(IMGSRC) {
 		return new Card(data);
 	};
 
+	// this actually returns the method that will be attached to CardFcty.
 	return {
 		create: create
 	};
