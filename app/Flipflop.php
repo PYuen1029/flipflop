@@ -26,8 +26,21 @@ class Flipflop extends Model
 
 	public static function selfCreate($request)
 	{
+		$pol = Politician::findOrFail($request['politician']);
+
 		$flipflop = new Flipflop([
-			
+			'title' => $request['title'],
+			'summary' => $request['summary'],
+			'flip' => $request['flip'],
+			'flip_source' => $request['flip_source'],
+			'flop' => $request['flop'],
+			'flop_source' => $request['flop_source'],
 		]);
+
+		// attach politician to the flipflop
+		if($flipflop->politicians()->associate($pol)) {
+			$flipflop->save();
+		}
+
 	}
 }

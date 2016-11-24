@@ -44,19 +44,17 @@
 				</div>
 			</div>
 <!-- POLITICIAN (DROP-DOWN, IN TIME I SHOULD INTEGRATE A POLITICIAN DATABASE) -->
-			
-
-
-
-
-
-
-
-
-
-
-
-			<button class="btn btn-default col-sm-offset-1 submit__button" type="submit" ng-click="flipflopCreate()">Submit</button>
+			<div class="form-group">
+				<label for="submit__politician-select" class="col-sm-1 control-label">Politician: </label>
+				<div class="col-sm-11">
+					<select id="submit__politician-select" class="form-control">
+						<option disabled>Select an Option</option>
+						<option ng-repeat="politician in politicians" value="{{politician['id']}}"> {{getFullName(politician)}} </option>
+					</select>
+				</div>
+			</div>
+	 		
+	 		<button class="btn btn-default col-sm-offset-1 submit__button" type="submit" ng-click="flipflopCreate()">Submit</button>
 			
 		</form>
 	</div>

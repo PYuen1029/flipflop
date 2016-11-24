@@ -19,7 +19,7 @@ class CreateFlipflopsTable extends Migration
             $table->string('summary');
             $table->longText('flip');
             $table->longText('flop');
-            $table->string('source_type');
+            $table->string('source_type')->default('text');
             $table->string('flip_source');
             $table->string('flop_source');
             $table->timestamps();

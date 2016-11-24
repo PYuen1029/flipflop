@@ -11,14 +11,7 @@
 	var homepageCtrl = require('./controllers/HomepageCtrl');
 	var submitCtrl = require('./controllers/SubmitCtrl');
 	var GetCardsSvc = require('./services/GetCardsSvc');
-
-
-// NEEDS GetPoliticiansSvc for SubmitCtrl.js to get list of politicians to include in dropdown
-
-
-
-
-
+	var GetPoliticiansSvc = require('./services/GetPoliticiansSvc');
 	var FlipFlopsApiSvc = require('./services/FlipFlopsApiSvc');
 	var CardFcty = require('./factories/CardFcty');
 	var imgSrc = {
@@ -57,12 +50,13 @@
 	// services
 	.constant('IMGSRC', imgSrc)
 	.factory('CardFcty', ['IMGSRC', CardFcty])
-	.factory('FlipFlopsApiSvc', ['$http', FlipFlopsApiSvc])
+	.factory('FlipFlopsApiSvc', ['$http', '$location', FlipFlopsApiSvc])
 	.service('GetCardsSvc', ['$http', 'CardFcty', GetCardsSvc])
+	.factory('GetPoliticiansSvc', ['$http', GetPoliticiansSvc])
 	
 	//controllers
 	.controller('HomepageController', ['$scope', '$http', 'GetCardsSvc', homepageCtrl])
-	.controller('SubmitController', ['$scope', '$http', 'FlipFlopsApiSvc', submitCtrl])
+	.controller('SubmitController', ['$scope', '$http', 'FlipFlopsApiSvc', 'GetPoliticiansSvc', '$location', submitCtrl])
 	
 	// directives
 	.directive('modalDialog', ModalDialog)

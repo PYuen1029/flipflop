@@ -18,3 +18,5 @@ use Illuminate\Http\Request;
 // })->middleware('auth:api');
 // 
 Route::resource('flipflop', 'FlipflopController');
+
+Route::resource('politician', 'PoliticianController');

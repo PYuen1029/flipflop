@@ -1,19 +1,33 @@
-module.exports = function($scope, $http, FlipFlopsApiSvc) {
+module.exports = function($scope, $http, FlipFlopsApiSvc, GetPoliticiansSvc, $location) {
 	
-
+	var politiciansPromise = GetPoliticiansSvc.get();
+	
+	politiciansPromise.then(function(data) {
+		$scope.politicians = data.data;
+	});
 
 	$scope.flipflopCreate = function() {
 		// get data
 		var data = {
 			title: $('#submit__title').val(),
-			content: $('#submit__content').val()
+			summary: $('#submit__summary').val(),
+			flip: $('#submit__flip').val(),
+			flip_source: $('#submit__flip-source').val(),
+			flop: $('#submit__flop').val(),
+			flop_source: $('#submit__flop-source').val(),
+			politician: $('#submit__politician-select').val()
 		};
-		
-		// pass data as a param to FlipFlopsApiSvc
-		console.log('SubmitCtrl.js: Line 10 -- FlipFlopsApiSvc:');
-		console.dir(FlipFlopsApiSvc);
 
-		FlipFlopsApiSvc.post(data);
+		FlipFlopsApiSvc.post(data).then(function(data){
+			if (data) {
+				$location.path('/');
+				$scope.$apply();
+			}
+		});
+	};
+
+	$scope.getFullName = function(politician) {
+		return politician.first_name + ' ' + politician.last_name;
 	};
 	
 	// $scope.flipflopDestroy = function(id) {

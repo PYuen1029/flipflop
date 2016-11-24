@@ -1,13 +1,8 @@
-module.exports = function($http) {
+module.exports = function($http, $location) {
 	var FlipFlopsApiSvc = function() {
 		var post = function(data) {
-			// $.ajax to post data to api/store
-			$.ajax('api/flipflop', {
-				method: 'POST',
-				data: data
-			}).then(function(data) {
-				console.log(data);
-			});
+			// $http to post data to api/store
+			return $http.post('api/flipflop', data);
 		};
 
 		var destroy = function() {

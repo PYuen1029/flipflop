@@ -75,6 +75,11 @@ gulp.task('browserifyDist', function() {
   .pipe(gulp.dest('./dist/js'));
 });
 
+// *** watch task *** //
+gulp.task('watch', function () {
+  gulp.watch(["./js/**/*.js", "./partials/**/*.html", "!**/bundled.js"], ['clean', 'browserify']);
+});
+
 // *** default task *** //
 gulp.task('default', function() {
   runSequence(
