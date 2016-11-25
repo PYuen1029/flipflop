@@ -29,6 +29,11 @@ module.exports = function($scope, $http, FlipFlopsApiSvc, GetPoliticiansSvc, $lo
 	$scope.getFullName = function(politician) {
 		return politician.first_name + ' ' + politician.last_name;
 	};
+
+	// 	$(window).resize(function() {
+	// 		setHeight();
+	// 	});
+	// });
 	
 	// $scope.flipflopDestroy = function(id) {
 		

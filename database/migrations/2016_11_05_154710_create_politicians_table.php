@@ -17,8 +17,8 @@ class CreatePoliticiansTable extends Migration
             $table->increments('id');
             $table->string('first_name');
             $table->string('last_name');
-            $table->string('flip_background');
-            $table->string('flop_background');
+            $table->string('flip_background')->default('default_red.png');
+            $table->string('flop_background')->default('default_blue.png');
             $table->timestamps();
         });        
     }
