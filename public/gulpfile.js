@@ -18,16 +18,19 @@ gulp.task('lint', function() {
     .pipe(jshint.reporter('default'))
     .pipe(jshint.reporter('fail'));
 });
+
 gulp.task('clean', function() {
-    gulp.src('./js/bundled.js')
+    gulp.src('./build/js/bundled.js')
       .pipe(clean({force: true}));
 });
+
 gulp.task('minify-css', function() {
   var opts = {comments:true,spare:true};
   gulp.src(['./**/*.css', '!./bower_components/**'])
     .pipe(minifyCSS(opts))
     .pipe(gulp.dest('./dist/'));
 });
+
 gulp.task('minify-js', function() {
   gulp.src(['./**/*.js', '!./bower_components/**'])
     .pipe(uglify({
@@ -36,26 +39,31 @@ gulp.task('minify-js', function() {
     }))
     .pipe(gulp.dest('./dist/'));
 });
+
 gulp.task('copy-bower-components', function () {
   gulp.src('./bower_components/**')
     .pipe(gulp.dest('dist/bower_components'));
 });
+
 gulp.task('copy-html-files', function () {
   gulp.src('./**/*.html')
     .pipe(gulp.dest('dist/'));
 });
+
 gulp.task('connect', function () {
   connect.server({
     root: './',
     port: 8888
   });
 });
+
 gulp.task('connectDist', function () {
   connect.server({
     root: 'dist/',
     port: 9999
   });
 });
+
 gulp.task('browserify', function() {
   gulp.src(['js/main.js'])
   .pipe(browserify({
@@ -63,8 +71,9 @@ gulp.task('browserify', function() {
     debug: true
   }))
   .pipe(concat('bundled.js'))
-  .pipe(gulp.dest('./js'));
+  .pipe(gulp.dest('./build/js'));
 });
+
 gulp.task('browserifyDist', function() {
   gulp.src(['js/main.js'])
   .pipe(browserify({
@@ -75,9 +84,17 @@ gulp.task('browserifyDist', function() {
   .pipe(gulp.dest('./dist/js'));
 });
 
+// put this in a DIST folder so the watch task won't endlessly run
+gulp.task("build-js", function() {
+    return gulp.src('./js/main.js')
+        .pipe(browserify())
+        .pipe(concat('bundled.js'))
+        .pipe(gulp.dest('./build/js'));
+});
+
 // *** watch task *** //
 gulp.task('watch', function () {
-  gulp.watch(["./js/**/*.js", "./partials/**/*.html", "!**/bundled.js"], ['clean', 'browserify']);
+  gulp.watch(["./js/**/*.js", "!**/bundled.js"], ["build-js"]);
 });
 
 // *** default task *** //

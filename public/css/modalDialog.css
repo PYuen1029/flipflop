@@ -149,7 +149,7 @@
   background-color:#59A3FF;
 }
 
-.flip-modal p, .flip-modal h1, .flip-modal span, .flip-modal .homepage__pager{
+.flip-modal p, .flip-modal .flip-modal__quote, .flip-modal h1, .flip-modal span, .flip-modal .homepage__pager{
   perspective: 500;
   -webkit-perspective: 500;
   -moz-perspective: 500;
@@ -167,7 +167,7 @@
   transition:0.8s; text-align:left;
 }
 
-.flip p, .flip h1, .flip span, .flip .homepage__pager{
+.flip p, .flip-modal .flip-modal__quote, .flip h1, .flip span, .flip .homepage__pager{
   -moz-transform: scaleX(-1);    /* Gecko */
   -o-transform: scaleX(-1);      /* Opera */
   -webkit-transform: scaleX(-1); /* Webkit */

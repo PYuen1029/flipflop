@@ -27,6 +27,8 @@ module.exports = function(IMGSRC) {
 			this.flop = card.flop;
 			this.source = this.flipSource = card.flip_source;
 			this.flopSource = card.flop_source;
+			this.sourceDate = this.flipSourceDate = card.flip_source_date;
+			this.flopSourceDate = card.flop_source_date;
 
 			this.flipped = false;
 		},
@@ -59,6 +61,7 @@ module.exports = function(IMGSRC) {
 		.flipCard = function() {
 			this.content = (this.flipped) ? this.flip : this.flop;
 			this.source = (this.flipped) ? this.flipSource : this.flopSource;
+			this.sourceDate = (this.flipped) ? this.flipSourceDate : this.flopSourceDate;
 			this.flipped = !this.flipped;
 
 			return this.content;
@@ -73,14 +76,33 @@ module.exports = function(IMGSRC) {
 	
 	AudioContentStrategy.prototype
 		.getInitialContent = function(card) {
-			return 'Audio: ' + this.flip;
+			var content = [
+				'<audio controls>',
+				// '<source src="' + this.flip + '" type="audio/mpeg">',
+				'<source src="https://www.youtube.com/watch?v=UEpmpt4wYok" type="audio/mpeg">',
+				'</audio>'
+				].join('');
+
+			return content;
 		};
 
 	AudioContentStrategy.prototype
 		.flipCard =	function() {
-			this.content = (this.flipped) ? 'Audio ' + this.flip : 'Audio ' + this.flop;
-			this.source = (this.flipped) ? this.flipSource : this.flopSource;
 
+			// returns it so it will be an audio feed
+			this.content =
+				[
+				'<audio controls>',
+				// '<source src="' + (this.flipped) ? this.flop : this.flip + '" type="audio/mpeg">',
+				'<source src="https://www.youtube.com/watch?v=UEpmpt4wYok" type="audio/mpeg">',
+				'</audio>'
+				].join('');
+
+			console.log('CardFcty.js: Line 94 -- check of audio:');
+			console.dir(this.content);
+
+			this.source = (this.flipped) ? this.flipSource : this.flopSource;
+			this.sourceDate = (this.flipped) ? this.flipSourceDate : this.flopSourceDate;
 			this.flipped = !this.flipped;
 
 			return this.content;
@@ -96,6 +118,7 @@ module.exports = function(IMGSRC) {
 
 		this.content = this.contentStrategy.content;
 		this.source = this.contentStrategy.source;
+		this.sourceDate = this.contentStrategy.sourceDate;
 
 		this.background = this.flipBackground;
 
@@ -111,7 +134,7 @@ module.exports = function(IMGSRC) {
 				case 'text':
 					this.contentStrategy = new TextContentStrategy(this);
 					break;
-				case 'audio':
+				case 'audio_url':
 					this.contentStrategy = new AudioContentStrategy(this);
 					break;
 			}
@@ -120,6 +143,7 @@ module.exports = function(IMGSRC) {
 		flipCard: function() {
 			this.content = this.contentStrategy.flipCard();
 			this.source = this.contentStrategy.source;
+			this.sourceDate = this.contentStrategy.sourceDate;
 			this.background = (this.contentStrategy.flipped) ? this.flopBackground : this.flipBackground;
 			this.style = {
 				backgroundImage: 'url( ' + IMGSRC.imgSrc + this.background + ')',

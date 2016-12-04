@@ -11,17 +11,25 @@ module.exports = function($scope, $http, FlipFlopsApiSvc, GetPoliticiansSvc, $lo
 		var data = {
 			title: $('#submit__title').val(),
 			summary: $('#submit__summary').val(),
-			flip: $('#submit__flip').val(),
-			flip_source: $('#submit__flip-source').val(),
-			flop: $('#submit__flop').val(),
-			flop_source: $('#submit__flop-source').val(),
+			sourceType: $('input[name="submit__source-type"]:checked').val(),
+			flip: $('input[name="submit__flip"]').val(),
+			flop: $('input[name="submit__flop"]').val(),
 			politician: $('#submit__politician-select').val()
 		};
+
+		// if type is text, also include flipText and flopText
+		if(data.sourceType == 'text') {
+			data.push({
+				flip_source: $('#submit__flip-source').val(),
+				flop_source: $('#submit__flop-source').val()
+			});
+		}
+
+		console.dir(data);
 
 		FlipFlopsApiSvc.post(data).then(function(data){
 			if (data) {
 				$location.path('/');
-				$scope.$apply();
 			}
 		});
 	};
@@ -30,12 +38,24 @@ module.exports = function($scope, $http, FlipFlopsApiSvc, GetPoliticiansSvc, $lo
 		return politician.first_name + ' ' + politician.last_name;
 	};
 
-	// 	$(window).resize(function() {
-	// 		setHeight();
-	// 	});
-	// });
+	// handle sourceType radio buttons on change
+	$scope.type = '';
+	$scope.typeText = 'Text';
 	
-	// $scope.flipflopDestroy = function(id) {
+	$scope.changeForm = function(type) {
+		switch (type) {
+			case 'text':
+				$scope.typeText = 'Text';
+				break;
+			case 'audio_url':
+				$scope.typeText = 'Audio';
+				break;
+			case 'video_url':
+				$scope.typeText = 'Video';
+				break;
+			default:
+				// default code block
+		}
 		
-	// };
+	};
 };

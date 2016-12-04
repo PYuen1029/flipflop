@@ -3,11 +3,14 @@ module.exports = function($scope, $http, GetCardsSvc) {
 	// use GetCardsSvc to get the cards
 	$scope.cards = GetCardsSvc.getCards();
 
+	$scope.sourceType = 'text';
+
 	$scope.changeCard = function(direction) {
 		
 		var currIndex = $scope.cards.indexOf($scope.currCard);
 		if(direction === 'prev') {
 			$scope.currCard = $scope.cards[currIndex - 1];
+			$scope.sourceType = $scope.currCard.sourceType;
 		}
 		if(direction === 'next') {
 			$scope.currCard = $scope.cards[currIndex + 1];

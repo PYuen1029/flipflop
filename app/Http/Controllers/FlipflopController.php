@@ -39,13 +39,14 @@ class FlipflopController extends Controller
 	public function store(Request $request)
 	{
 		$this->validate($request, [
-			'title'						=> 'required|max:255',
-			'politician'				=> 'required',
-			'summary'					=> 'required',
-			'flip'						=> 'required',
-			'flip_source'				=> 'required',
-			'flop'						=> 'required',
-			'flop_source'				=> 'required'
+			'title'						=> 'required | string |max:255',
+			'politician'				=> 'required | string ',
+			'summary'					=> 'required | string ',
+			'sourceType'				=> 'required | string ',
+			'flip'						=> 'required | string ',
+			'flip_source'				=> 'string',
+			'flop'						=> 'required | string ',
+			'flop_source'				=> 'string'
 		]);
 
 		$flipflop = FlipFlop::selfCreate($request);

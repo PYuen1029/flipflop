@@ -1,0 +1,17 @@
+@media screen and (min-width: 768px)  {
+	.percent-13 {
+		width: 13%;
+	}
+}
+
+@media screen and (min-width: 768px)  {
+	.percent-52 {
+		width: 52%;
+	}
+}
+
+.col-sm-11.input-group {
+	font-size: 15px;
+	text-align: end;
+    padding-top: 12px;
+}

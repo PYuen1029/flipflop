@@ -1,46 +1,88 @@
 <div class="container">
 	<div class="content">
 		<form class="form-horizontal">
+<!-- TITLE -->
 			<div class="form-group">
 				<label for="submit__title" class="col-sm-1 control-label">Title</label>
 				<div class="col-sm-11">
 					<input type="text" class="form-control" id="submit__title" placeholder="Enter Title">
 				</div>
 			</div>
-
+<!-- SUMMARY -->
 			<div class="form-group">
 				<label for="submit__content" class="col-sm-1 control-label"> Summary </label>
 				<div class="col-sm-11">
 					<textarea rows="5" class="form-control" id="submit__summary" placeholder="Summary"></textarea>
 				</div>
 			</div>
-<!-- SOURCE_TYPE (AND CONSEQUENTLY VIDEO/AUDIO SUPPORT) WILL BE ADDED LATER -->
-<!-- FLIP -->
+<!-- SOURCE_TYPE -->
 			<div class="form-group">
-				<label for="submit__flip" class="col-sm-1 control-label"> Flip Text </label>
+				<label for="submit__source-type" class="col-sm-1 control-label">Type of Evidence</label>
 				<div class="col-sm-11">
-					<textarea rows="5" class="form-control" id="submit__flip" placeholder="Flip Text"></textarea>
+					<label class="radio-inline">
+						<input type="radio" class="submit__source-type"
+							ng-model="type" id="submit__source-type-text" 
+							value="text" checked="checked" name="submit__source-type"
+							ng-change="changeForm('text')"> Text 
+					</label>
+					<label class="radio-inline">
+						<input type="radio" class="submit__source-type" 
+							ng-model="type" id="submit__source-type-audio" 
+							value="audio_url" ng-change="changeForm('audio_url')"
+							name="submit__source-type"> Audio (URL) 
+					</label>
+					<label class="radio-inline">
+						<input type="radio" class="submit__source-type" 
+							ng-model="type" id="submit__source-type-video" 
+							value="video_url" ng-change="changeForm('video_url')"
+							name="submit__source-type"> Video (URL) 
+					</label>
+				</div>
+			</div>
+<!-- FLIP -->
+			<div ng-switch="type" class="form-group">
+				<label for="submit__flip" class="col-sm-1 control-label"> Flip {{typeText}} </label>
+				<div class="col-sm-11 submit__flip-text" ng-switch-default="text" id="submit__flip-wrapper">
+					<textarea rows="5" class="form-control" name="submit__flip" placeholder="Text"></textarea>
+				</div>
+				<div class="col-sm-11 submit__flip-text" ng-switch-when="audio_url" id="submit__flip-wrapper">
+					<input class="form-control" name="submit__flip" placeholder="Audio Source (URL)" type="text">
+				</div>
+				<div class="col-sm-11 submit__flip-text" ng-switch-when="video_url" id="submit__flip-wrapper">
+					<input class="form-control" name="submit__flip" placeholder="Video Source (URL)" type="text">
 				</div>
 			</div>
 <!-- FLIP_SOURCE -->
-			<div class="form-group">
+			<div ng-if="type == text" class="form-group">
 				<label for="submit__flip-source" class="col-sm-1 control-label">Flip Source</label>
-				<div class="col-sm-11">
-					<input type="text" class="form-control" id="submit__flip-source" placeholder="Flip Source">
+				<div class="col-sm-11 input-group" id="submit__flip-source-wrapper">
+					<span class="col-xs-4 col-sm-1">Source</span> 
+					<input type="text" class="col-xs-8 col-sm-6 percent-52" id="submit__flip-source" placeholder="e.g., www.example.com/example" aria-describedby="Flip Source">
+					<span class="col-xs-4 col-sm-2 percent-13">Date (Optional)</span> 
+					<input type="text" class="col-xs-8 col-sm-3" id="submit__flip-source-date" placeholder="e.g., 11/08/2016" aria-describedby="Flip Source Date">
 				</div>
 			</div>
 <!-- FLOP -->
-			<div class="form-group">
-				<label for="submit__flop" class="col-sm-1 control-label"> Flop Text </label>
-				<div class="col-sm-11">
-					<textarea rows="5" class="form-control" id="submit__flop" placeholder="Flop Text"></textarea>
+			<div ng-switch="type" class="form-group">
+				<label for="submit__flop" class="col-sm-1 control-label"> Flop {{typeText}} </label>
+				<div class="col-sm-11 submit__flop-text" ng-switch-default="text" id="submit__flip-wrapper">
+					<textarea rows="5" class="form-control" name="submit__flop" placeholder="Text"></textarea>
+				</div>
+				<div class="col-sm-11 submit__flop-audio-url" ng-switch-when="audio_url" id="submit__flip-wrapper">
+					<input class="form-control" name="submit__flop" placeholder="Audio Source (URL)" type="text">
+				</div>
+				<div class="col-sm-11 submit__flop-video-url" ng-switch-when="video_url" id="submit__flip-wrapper">
+					<input class="form-control" name="submit__flop" placeholder="Video Source (URL)" type="text">
 				</div>
 			</div>
 <!-- FLOP_SOURCE -->
-			<div class="form-group">
+			<div ng-if="type == text" class="form-group">
 				<label for="submit__flop-source" class="col-sm-1 control-label">Flop Source</label>
-				<div class="col-sm-11">
-					<input type="text" class="form-control" id="submit__flop-source" placeholder="Flop Source">
+				<div class="col-sm-11 input-group" id="submit__flop-source-wrapper">
+					<span class="col-xs-4 col-sm-1">Source</span> 
+					<input type="text" class="col-xs-8 col-sm-6 percent-52" id="submit__flop-source" placeholder="e.g., www.example.com/example" aria-describedby="Flop Source">
+					<span class="col-xs-4 col-sm-2 percent-13">Date (Optional)</span> 
+					<input type="text" class="col-xs-8 col-sm-3" id="submit__flop-source-date" placeholder="e.g., 11/08/2016" aria-describedby="Flop Source Date">
 				</div>
 			</div>
 <!-- POLITICIAN (DROP-DOWN, IN TIME I SHOULD INTEGRATE A POLITICIAN DATABASE) -->
@@ -53,8 +95,8 @@
 					</select>
 				</div>
 			</div>
-	 		
-	 		<button class="btn btn-default col-sm-offset-1 submit__button" type="submit" ng-click="flipflopCreate()">Submit</button>
+			
+			<button class="btn btn-default col-sm-offset-1 submit__button" type="submit" ng-click="flipflopCreate()">Submit</button>
 			
 		</form>
 	</div>

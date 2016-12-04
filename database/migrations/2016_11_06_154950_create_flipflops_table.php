@@ -21,7 +21,9 @@ class CreateFlipflopsTable extends Migration
             $table->longText('flop');
             $table->string('source_type')->default('text');
             $table->string('flip_source');
+            $table->date('flip_source_date')->nullable();
             $table->string('flop_source');
+            $table->date('flop_source_date')->nullable();
             $table->timestamps();
             
             //  FOREIGN KEYS

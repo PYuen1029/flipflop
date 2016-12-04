@@ -31,10 +31,11 @@ class Flipflop extends Model
 		$flipflop = new Flipflop([
 			'title' => $request['title'],
 			'summary' => $request['summary'],
+			'source_type' => $request['sourceType'],
 			'flip' => $request['flip'],
-			'flip_source' => $request['flip_source'],
+			'flip_source' => ($request['flip_source']) ? $request['flip_source'] : $request['flip'],
 			'flop' => $request['flop'],
-			'flop_source' => $request['flop_source'],
+			'flop_source' => ($request['flop_source']) ? $request['flop_source'] : $request['flop'],
 		]);
 
 		// attach politician to the flipflop
