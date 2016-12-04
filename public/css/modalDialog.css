@@ -167,7 +167,7 @@
   transition:0.8s; text-align:left;
 }
 
-.flip p, .flip-modal .flip-modal__quote, .flip h1, .flip span, .flip .homepage__pager{
+.flip p, .flip .flip-modal__quote, .flip h1, .flip span, .flip .homepage__pager{
   -moz-transform: scaleX(-1);    /* Gecko */
   -o-transform: scaleX(-1);      /* Opera */
   -webkit-transform: scaleX(-1); /* Webkit */
