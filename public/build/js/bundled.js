@@ -2,7 +2,7 @@
 module.exports = function($scope, $http, GetCardsSvc) {
 	$scope.flipToggle = false;
 	
-	$scope.currentVideo = 'https://www.youtube.com/watch?v=I7ZUkd44-Co';
+	$scope.currentVideo = '';
 
 	// use GetCardsSvc to get the cards
 	$scope.cards = GetCardsSvc.getCards();
@@ -27,6 +27,7 @@ module.exports = function($scope, $http, GetCardsSvc) {
 	$scope.toggleModal = function(cardIndex) {
 		$scope.currCard = $scope.cards[cardIndex];
 		$scope.modalShown = !$scope.modalShown;
+		$scope.currentVideo = $scope.currCard.content;
 	};
 
 	$scope.hideModal = function() {
@@ -38,8 +39,7 @@ module.exports = function($scope, $http, GetCardsSvc) {
 		
 		$scope.currCard.flipCard();	
 
-		var currentVideo = $scope.currCard.content;
-	
+		$scope.currentVideo = $scope.currCard.content;	
 		// $scope.config.sources = [
 		// 	{src: currentVideo}
 		// ];
