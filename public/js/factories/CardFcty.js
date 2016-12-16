@@ -1,7 +1,7 @@
 module.exports = function(IMGSRC) {
 	// CONTENT STRATEGIES PROTOTYPES
 	/**	
-	 * Abstract Class that is extended by TextContentStrategy, AudioContentStrategy, etc.
+	 * Abstract Class that is extended by TextContentStrategy, YoutubeContentStrategy, etc.
 	 * @param {Card} card 
 	 */	
 	var ContentStrategy = function(card) {
@@ -67,38 +67,27 @@ module.exports = function(IMGSRC) {
 			return this.content;
 		};
 
-	var AudioContentStrategy = function(card) {
+	var YoutubeContentStrategy = function(card) {
 		ContentStrategy.apply(this, arguments);
 	};
 		
-	AudioContentStrategy.prototype = Object.create(ContentStrategy.prototype);
-	AudioContentStrategy.prototype.constructor = AudioContentStrategy;
+	YoutubeContentStrategy.prototype = Object.create(ContentStrategy.prototype);
+	YoutubeContentStrategy.prototype.constructor = YoutubeContentStrategy;
 	
-	AudioContentStrategy.prototype
+	YoutubeContentStrategy.prototype
 		.getInitialContent = function(card) {
-			var content = [
-				'<audio controls>',
-				// '<source src="' + this.flip + '" type="audio/mpeg">',
-				'<source src="https://www.youtube.com/watch?v=UEpmpt4wYok" type="audio/mpeg">',
-				'</audio>'
-				].join('');
+			var content = this.flip;
 
 			return content;
 		};
 
-	AudioContentStrategy.prototype
+	YoutubeContentStrategy.prototype
 		.flipCard =	function() {
 
-			// returns it so it will be an audio feed
-			this.content =
-				[
-				'<audio controls>',
-				// '<source src="' + (this.flipped) ? this.flop : this.flip + '" type="audio/mpeg">',
-				'<source src="https://www.youtube.com/watch?v=UEpmpt4wYok" type="audio/mpeg">',
-				'</audio>'
-				].join('');
+			// returns it so it will be an Youtube feed
+			this.content = (this.flipped) ? this.flip : this.flop;
 
-			console.log('CardFcty.js: Line 94 -- check of audio:');
+			console.log('CardFcty.js: Line 94 -- check of Youtube:');
 			console.dir(this.content);
 
 			this.source = (this.flipped) ? this.flipSource : this.flopSource;
@@ -116,6 +105,7 @@ module.exports = function(IMGSRC) {
 	
 		this.setContentStrategy(this.source_type);
 
+		this.sourceType = this.source_type;
 		this.content = this.contentStrategy.content;
 		this.source = this.contentStrategy.source;
 		this.sourceDate = this.contentStrategy.sourceDate;
@@ -134,8 +124,8 @@ module.exports = function(IMGSRC) {
 				case 'text':
 					this.contentStrategy = new TextContentStrategy(this);
 					break;
-				case 'audio_url':
-					this.contentStrategy = new AudioContentStrategy(this);
+				case 'youtube':
+					this.contentStrategy = new YoutubeContentStrategy(this);
 					break;
 			}
 		},

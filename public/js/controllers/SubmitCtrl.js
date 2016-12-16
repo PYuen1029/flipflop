@@ -47,8 +47,8 @@ module.exports = function($scope, $http, FlipFlopsApiSvc, GetPoliticiansSvc, $lo
 			case 'text':
 				$scope.typeText = 'Text';
 				break;
-			case 'audio_url':
-				$scope.typeText = 'Audio';
+			case 'youtube':
+				$scope.typeText = 'Youtube';
 				break;
 			case 'video_url':
 				$scope.typeText = 'Video';

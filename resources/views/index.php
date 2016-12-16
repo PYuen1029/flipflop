@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html ng-app="SampleApp">
+<html ng-app="FlipFlopApp">
   <head lang="en">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -41,6 +41,7 @@
       </div>
     </div>
     <!-- scripts -->
+    <script src="https://www.youtube.com/iframe_api"></script>
     <script src="/bower_components/jquery/dist/jquery.js"></script>
     <script src="/bower_components/bootstrap/dist/js/bootstrap.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-sanitize/1.5.8/angular-sanitize.js"></script>

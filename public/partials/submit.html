@@ -27,9 +27,9 @@
 					</label>
 					<label class="radio-inline">
 						<input type="radio" class="submit__source-type" 
-							ng-model="type" id="submit__source-type-audio" 
-							value="audio_url" ng-change="changeForm('audio_url')"
-							name="submit__source-type"> Audio (URL) 
+							ng-model="type" id="submit__source-type-youtube" 
+							value="youtube" ng-change="changeForm('youtube')"
+							name="submit__source-type"> Youtube (URL) 
 					</label>
 					<label class="radio-inline">
 						<input type="radio" class="submit__source-type" 
@@ -45,8 +45,8 @@
 				<div class="col-sm-11 submit__flip-text" ng-switch-default="text" id="submit__flip-wrapper">
 					<textarea rows="5" class="form-control" name="submit__flip" placeholder="Text"></textarea>
 				</div>
-				<div class="col-sm-11 submit__flip-text" ng-switch-when="audio_url" id="submit__flip-wrapper">
-					<input class="form-control" name="submit__flip" placeholder="Audio Source (URL)" type="text">
+				<div class="col-sm-11 submit__flip-text" ng-switch-when="youtube" id="submit__flip-wrapper">
+					<input class="form-control" name="submit__flip" placeholder="Youtube Source (URL)" type="text">
 				</div>
 				<div class="col-sm-11 submit__flip-text" ng-switch-when="video_url" id="submit__flip-wrapper">
 					<input class="form-control" name="submit__flip" placeholder="Video Source (URL)" type="text">
@@ -68,8 +68,8 @@
 				<div class="col-sm-11 submit__flop-text" ng-switch-default="text" id="submit__flip-wrapper">
 					<textarea rows="5" class="form-control" name="submit__flop" placeholder="Text"></textarea>
 				</div>
-				<div class="col-sm-11 submit__flop-audio-url" ng-switch-when="audio_url" id="submit__flip-wrapper">
-					<input class="form-control" name="submit__flop" placeholder="Audio Source (URL)" type="text">
+				<div class="col-sm-11 submit__flop-youtube" ng-switch-when="youtube" id="submit__flip-wrapper">
+					<input class="form-control" name="submit__flop" placeholder="Youtube Source (URL)" type="text">
 				</div>
 				<div class="col-sm-11 submit__flop-video-url" ng-switch-when="video_url" id="submit__flip-wrapper">
 					<input class="form-control" name="submit__flop" placeholder="Video Source (URL)" type="text">

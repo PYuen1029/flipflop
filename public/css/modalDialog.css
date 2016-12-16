@@ -70,7 +70,7 @@
 .flip-modal__summary {
   margin: 20px;
   font-size: 18px;
-  padding: 20px;
+  padding: 8px;
   background-color: rgba(73, 73, 73, 0.72); 
 }
 
@@ -93,12 +93,12 @@
 }
 
 .flip-modal__content {
-  margin: 20px;
+  margin: 15px;
   font-size: 18px;
-  padding: 20px;
+  padding: 8px;
   background-color: rgba(73, 73, 73, 0.72);
   font-style: italic;
-  max-height: 150px;
+  max-height: 300px;
   overflow-y: auto;
 }
 
@@ -107,7 +107,7 @@
   font-size: 14px;
   font-style: normal;
   font-weight: 500;
-  margin-top: 20px;
+  margin: 20px;
 }
 
 .flippable{
@@ -173,4 +173,8 @@
   -webkit-transform: scaleX(-1); /* Webkit */
   transform: scaleX(-1);         /* Standard */
   filter: FlipH;                 /* IE 6/7/8 */
+}
+
+.video-container {
+  width: 95%;
 }

@@ -7,6 +7,8 @@
 	require('angular-route');
 	require('angular-animate');
 	require('angular-sanitize');
+	require('angular-youtube-embed');
+
 	var ModalDialog = require('./directives/ModalDialogDir');
 	var homepageCtrl = require('./controllers/HomepageCtrl');
 	var submitCtrl = require('./controllers/SubmitCtrl');
@@ -21,7 +23,7 @@
 
 
 	// angular begins
-	angular.module('SampleApp', ['ngRoute', 'ngAnimate', 'ngSanitize'])
+	angular.module('FlipFlopApp', ['ngRoute', 'ngAnimate', 'ngSanitize', 'youtube-embed'])
 	// configs
 	.config([
 		'$locationProvider',
