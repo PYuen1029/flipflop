@@ -39,7 +39,7 @@ module.exports = function($scope, $http, FlipFlopsApiSvc, GetPoliticiansSvc, $lo
 	};
 
 	// handle sourceType radio buttons on change
-	$scope.type = '';
+	$scope.type = 'text';
 	$scope.typeText = 'Text';
 	
 	$scope.changeForm = function(type) {

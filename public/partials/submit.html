@@ -31,12 +31,6 @@
 							value="youtube" ng-change="changeForm('youtube')"
 							name="submit__source-type"> Youtube (URL) 
 					</label>
-					<label class="radio-inline">
-						<input type="radio" class="submit__source-type" 
-							ng-model="type" id="submit__source-type-video" 
-							value="video_url" ng-change="changeForm('video_url')"
-							name="submit__source-type"> Video (URL) 
-					</label>
 				</div>
 			</div>
 <!-- FLIP -->
@@ -48,12 +42,9 @@
 				<div class="col-sm-11 submit__flip-text" ng-switch-when="youtube" id="submit__flip-wrapper">
 					<input class="form-control" name="submit__flip" placeholder="Youtube Source (URL)" type="text">
 				</div>
-				<div class="col-sm-11 submit__flip-text" ng-switch-when="video_url" id="submit__flip-wrapper">
-					<input class="form-control" name="submit__flip" placeholder="Video Source (URL)" type="text">
-				</div>
 			</div>
 <!-- FLIP_SOURCE -->
-			<div ng-if="type == text" class="form-group">
+			<div ng-if='type == "text"' class="form-group">
 				<label for="submit__flip-source" class="col-sm-1 control-label">Flip Source</label>
 				<div class="col-sm-11 input-group" id="submit__flip-source-wrapper">
 					<span class="col-xs-4 col-sm-1">Source</span> 
@@ -71,12 +62,9 @@
 				<div class="col-sm-11 submit__flop-youtube" ng-switch-when="youtube" id="submit__flip-wrapper">
 					<input class="form-control" name="submit__flop" placeholder="Youtube Source (URL)" type="text">
 				</div>
-				<div class="col-sm-11 submit__flop-video-url" ng-switch-when="video_url" id="submit__flip-wrapper">
-					<input class="form-control" name="submit__flop" placeholder="Video Source (URL)" type="text">
-				</div>
 			</div>
 <!-- FLOP_SOURCE -->
-			<div ng-if="type == text" class="form-group">
+			<div ng-if='type == "text"' class="form-group">
 				<label for="submit__flop-source" class="col-sm-1 control-label">Flop Source</label>
 				<div class="col-sm-11 input-group" id="submit__flop-source-wrapper">
 					<span class="col-xs-4 col-sm-1">Source</span> 

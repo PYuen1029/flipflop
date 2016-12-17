@@ -19,8 +19,8 @@
   <body>
     <div class="container-fluid">
       <nav class="main__nav">
-        <div class1="main__header">
-          <h1> FLIP FLOPS </h1>
+        <div class="main__header">
+          <h1> <a href="/">FLIP FLOPS</a> </h1>
           <p> A NobisNews Section </p>
         </div>
         <div class="main__navigation">

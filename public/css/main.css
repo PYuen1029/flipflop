@@ -28,8 +28,16 @@ html, body {
 	margin-left: 20px;
 }
 
-.main__header h1 {
+.main__header a{
 	font: normal normal normal 28px/1.1em 'open sans',sans-serif;
+	text-decoration: none;
+	color: #333333;
+}
+
+.main__header h1 a:hover, .main__header h1 a:link, .main__header h1 a:visited, .main__header h1 a:active {
+	font: normal normal normal 28px/1.1em 'open sans',sans-serif;
+	text-decoration: none;
+	color: #333333;
 }
 
 .main__header p {

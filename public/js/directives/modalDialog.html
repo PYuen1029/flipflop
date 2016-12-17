@@ -14,14 +14,14 @@
 					<div class="flip-modal__quote">
 						{{currCard.content}}
 					</div>
+
+					<span class="flip-modal__source" stop-event='click'> {{currCard.sourceDate}} - <a href="{{currCard.source}}"> SOURCE </a> </span>
 				</div>
 				
 				<!-- for youtube -->
 				<div class="center-block video-container">
 					<youtube-video video-url="currentVideo" player-width="'100%'" player-height="'290px'" ng-switch-when="youtube"></youtube-video>
 				</div>
-
-				<span class="flip-modal__source" stop-event='click'> {{currCard.sourceDate}} - <a href="{{currCard.source}}"> SOURCE </a> </span>
 				
 			</div>
 			<div class="homepage__pager">
