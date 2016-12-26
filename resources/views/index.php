@@ -9,6 +9,7 @@
     <!-- styles -->
     <link rel="stylesheet" href="/bower_components/fontawesome/css/font-awesome.css"/>
     <link rel="stylesheet" href="/bower_components/animate.css/animate.css"/>
+    <link rel="stylesheet" href="/bower_components/bootstrap/dist/css/bootstrap.css">
     <link rel="stylesheet" href="/css/main.css"/>
     <link rel="stylesheet" href="/css/homepage.css"/>
     <link rel="stylesheet" href="/css/modalDialog.css"/>
@@ -42,6 +43,7 @@
     <!-- scripts -->
     <script src="https://www.youtube.com/iframe_api"></script>
     <script src="/bower_components/jquery/dist/jquery.js"></script>
+    <script src="/bower_components/bootstrap/dist/js/bootstrap.js" type="text/javascript"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-sanitize/1.5.8/angular-sanitize.js"></script>
     <script src="/build/js/bundled.js" type="text/javascript"></script>
   </body>
