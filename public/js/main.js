@@ -20,6 +20,7 @@
 		imgSrc: '/images/'
 	};
 	var BackImage = require('./directives/BackImageDir');
+	var ReadMore = require('./directives/ReadMoreDir');
 
 
 	// angular begins
@@ -62,6 +63,7 @@
 	
 	// directives
 	.directive('modalDialog', ModalDialog)
+	.directive('readMore', ReadMore)
 	.directive('stopEvent', function () {
         return {
             restrict: 'A',

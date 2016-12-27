@@ -1,4 +1,49 @@
-<div class="container">
+<div class="projects-holder-3">
+	<!-- <div class="filter-categories">
+		<ul class="project-filter">
+			<li class="filter" data-filter="all"><span>All</span></li>
+			<li class="filter" data-filter="buildings"><span>Buildings</span></li>
+			<li class="filter" data-filter="design"><span>Design</span></li>
+			<li class="filter" data-filter="architecture"><span>Architecture</span></li>
+			<li class="filter" data-filter="nature"><span>Nature</span></li>
+		</ul>
+	</div> -->
+	<div class="projects-holder">
+		<div class="row">
+			<!-- <div class="homepage__card" ng-repeat="card in cards" ng-click="toggleModal(cards.indexOf(card))" ng-style="card.style">
+				<span class="homepage__card-title">
+					{{card.title}}
+				</span>
+			</div> -->
+
+
+
+			<div class="col-md-4 project-item design"
+			ng-repeat="card in cards"
+			ng-click="toggleModal(cards.indexOf(card))"
+			>
+				<div class="project-thumb">
+					<img ng-src="/images/{{card.background}}" alt="">
+					<div class="overlay-b">
+						<div class="overlay-inner">
+						</div>
+					</div>
+				</div>
+				<div class="box-content project-detail">
+					<h2><a href="project-details.html"> {{card.title}} </a></h2>
+					<p read-more content="{{card.summary}}"
+					ellipsis="..."
+					more-text=""
+					words
+					limit="15"></p>
+				</div>
+			</div> <!-- /.project-item -->
+		</div> <!-- /.row -->
+	</div> <!-- /.projects-holder -->
+</div> <!-- /.projects-holder-2 -->
+<modal-dialog></modal-dialog>
+
+<!-- <div class="container">
 	<div class="content">
 		<div class="homepage__cardstack">
 			<div class="homepage__card" ng-repeat="card in cards" ng-click="toggleModal(cards.indexOf(card))" ng-style="card.style">
@@ -7,7 +52,6 @@
 				</span>
 			</div>
 		</div>
-		<modal-dialog>
-		</modal-dialog>
+		
 	</div>
-</div>
+</div> -->

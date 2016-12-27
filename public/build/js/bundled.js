@@ -136,6 +136,88 @@ module.exports = function() {
 	};
 };
 },{}],5:[function(require,module,exports){
+module.exports = function() {
+  return {
+    restrict: 'A',
+    transclude: true,
+    replace: true,
+    template: '<p></p>',
+    scope: {
+      moreText: '@',
+      lessText: '@',
+      words: '@',
+      ellipsis: '@',
+      char: '@',
+      limit: '@',
+      content: '@'
+    },
+    link: function(scope, elem, attr, ctrl, transclude) {
+      var moreText = angular.isUndefined(scope.moreText) ? ' <a class="read-more">Read More...</a>' : ' <a class="read-more">' + scope.moreText + '</a>',
+        lessText = angular.isUndefined(scope.lessText) ? ' <a class="read-less">Less ^</a>' : ' <a class="read-less">' + scope.lessText + '</a>',
+        ellipsis = angular.isUndefined(scope.ellipsis) ? '' : scope.ellipsis,
+        limit = angular.isUndefined(scope.limit) ? 30 : scope.limit;
+
+      attr.$observe('content', function(str) {
+        readmore(str);
+      });
+
+      transclude(scope.$parent, function(clone, scope) {
+        readmore(clone.text().trim());
+      });
+
+      function readmore(text) {
+
+        var text = text,
+          orig = text,
+          regex = /\s+/gi,
+          charCount = text.length,
+          wordCount = text.trim().replace(regex, ' ').split(' ').length,
+          countBy = 'char',
+          count = charCount,
+          foundWords = [],
+          markup = text,
+          more = '';
+
+        if (!angular.isUndefined(attr.words)) {
+          countBy = 'words';
+          count = wordCount;
+        }
+
+        if (countBy === 'words') { // Count words
+
+          foundWords = text.split(/\s+/);
+
+          if (foundWords.length > limit) {
+            text = foundWords.slice(0, limit).join(' ') + ellipsis;
+            more = foundWords.slice(limit, count).join(' ');
+            markup = text + moreText + '<span class="more-text">' + more + lessText + '</span>';
+          }
+
+        } else { // Count characters
+
+          if (count > limit) {
+            text = orig.slice(0, limit) + ellipsis;
+            more = orig.slice(limit, count);
+            markup = text + moreText + '<span class="more-text">' + more + lessText + '</span>';
+          }
+
+        }
+
+        elem.append(markup);
+        elem.find('.read-more').on('click', function() {
+          $(this).hide();
+          elem.find('.more-text').addClass('show').slideDown();
+        });
+        elem.find('.read-less').on('click', function() {
+          elem.find('.read-more').show();
+          elem.find('.more-text').hide().removeClass('show');
+        });
+
+      }
+    }
+  };
+};
+},{}],6:[function(require,module,exports){
 module.exports = function(IMGSRC) {
 	// CONTENT STRATEGIES PROTOTYPES
 	/**	
@@ -289,7 +371,7 @@ module.exports = function(IMGSRC) {
 		create: create
 	};
 };
-},{}],6:[function(require,module,exports){
+},{}],7:[function(require,module,exports){
 (function () {
 
 	'use strict';
@@ -312,6 +394,7 @@ module.exports = function(IMGSRC) {
 		imgSrc: '/images/'
 	};
 	var BackImage = require('./directives/BackImageDir');
+	var ReadMore = require('./directives/ReadMoreDir');
 
 
 	// angular begins
@@ -354,6 +437,7 @@ module.exports = function(IMGSRC) {
 	
 	// directives
 	.directive('modalDialog', ModalDialog)
+	.directive('readMore', ReadMore)
 	.directive('stopEvent', function () {
         return {
             restrict: 'A',
@@ -366,7 +450,7 @@ module.exports = function(IMGSRC) {
         };
      });
 }());
-},{"./controllers/HomepageCtrl":1,"./controllers/SubmitCtrl":2,"./directives/BackImageDir":3,"./directives/ModalDialogDir":4,"./factories/CardFcty":5,"./services/FlipFlopsApiSvc":7,"./services/GetCardsSvc":8,"./services/GetPoliticiansSvc":9,"angular":19,"angular-animate":11,"angular-route":13,"angular-sanitize":15,"angular-youtube-embed":16}],7:[function(require,module,exports){
+},{"./controllers/HomepageCtrl":1,"./controllers/SubmitCtrl":2,"./directives/BackImageDir":3,"./directives/ModalDialogDir":4,"./directives/ReadMoreDir":5,"./factories/CardFcty":6,"./services/FlipFlopsApiSvc":8,"./services/GetCardsSvc":9,"./services/GetPoliticiansSvc":10,"angular":20,"angular-animate":12,"angular-route":14,"angular-sanitize":16,"angular-youtube-embed":17}],8:[function(require,module,exports){
 module.exports = function($http, $location) {
 	var FlipFlopsApiSvc = function() {
 		var post = function(data) {
@@ -388,7 +472,7 @@ module.exports = function($http, $location) {
 
 	return new FlipFlopsApiSvc();
 };
-},{}],8:[function(require,module,exports){
+},{}],9:[function(require,module,exports){
 // GetCardsSvc will create all the cards
 module.exports = function($http, CardFcty) {
 	var getCards = function() {
@@ -418,7 +502,7 @@ module.exports = function($http, CardFcty) {
 		getCards: getCards
 	};
 };
-},{}],9:[function(require,module,exports){
+},{}],10:[function(require,module,exports){
 module.exports = function($http) {
 	var get = function() {
 		return $http.get('/api/politician');
@@ -429,7 +513,7 @@ module.exports = function($http) {
 		get: get
 	};
 };
-},{}],10:[function(require,module,exports){
+},{}],11:[function(require,module,exports){
 /**
  * @license AngularJS v1.6.0
  * (c) 2010-2016 Google, Inc. http://angularjs.org
@@ -4585,11 +4669,11 @@ angular.module('ngAnimate', [], function initAngularHelpers() {
 
 })(window, window.angular);
 
-},{}],11:[function(require,module,exports){
+},{}],12:[function(require,module,exports){
 require('./angular-animate');
 module.exports = 'ngAnimate';
 
-},{"./angular-animate":10}],12:[function(require,module,exports){
+},{"./angular-animate":11}],13:[function(require,module,exports){
 /**
  * @license AngularJS v1.6.0
  * (c) 2010-2016 Google, Inc. http://angularjs.org
@@ -5807,11 +5891,11 @@ function ngViewFillContentFactory($compile, $controller, $route) {
 
 })(window, window.angular);
 
-},{}],13:[function(require,module,exports){
+},{}],14:[function(require,module,exports){
 require('./angular-route');
 module.exports = 'ngRoute';
 
-},{"./angular-route":12}],14:[function(require,module,exports){
+},{"./angular-route":13}],15:[function(require,module,exports){
 /**
  * @license AngularJS v1.6.0
  * (c) 2010-2016 Google, Inc. http://angularjs.org
@@ -6552,15 +6636,15 @@ angular.module('ngSanitize').filter('linky', ['$sanitize', function($sanitize) {
 
 })(window, window.angular);
 
-},{}],15:[function(require,module,exports){
+},{}],16:[function(require,module,exports){
 require('./angular-sanitize');
 module.exports = 'ngSanitize';
 
-},{"./angular-sanitize":14}],16:[function(require,module,exports){
+},{"./angular-sanitize":15}],17:[function(require,module,exports){
 require('./src/angular-youtube-embed');
 module.exports = 'youtube-embed';
 
-},{"./src/angular-youtube-embed":17}],17:[function(require,module,exports){
+},{"./src/angular-youtube-embed":18}],18:[function(require,module,exports){
 /* global YT */
 angular.module('youtube-embed', [])
 .service ('youtubeEmbedUtils', ['$window', '$rootScope', function ($window, $rootScope) {
@@ -6814,7 +6898,7 @@ angular.module('youtube-embed', [])
     };
 }]);
 
-},{}],18:[function(require,module,exports){
+},{}],19:[function(require,module,exports){
 /**
  * @license AngularJS v1.6.0
  * (c) 2010-2016 Google, Inc. http://angularjs.org
@@ -39710,8 +39794,8 @@ $provide.value("$locale", {
 })(window);
 
 !window.angular.$$csp().noInlineStyle && window.angular.element(document.head).prepend('<style type="text/css">@charset "UTF-8";[ng\\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>');
-},{}],19:[function(require,module,exports){
+},{}],20:[function(require,module,exports){
 require('./angular');
 module.exports = angular;
 
-},{"./angular":18}]},{},[6])
+},{"./angular":19}]},{},[7])

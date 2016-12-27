@@ -100,6 +100,13 @@
   font-style: italic;
   max-height: 300px;
   overflow-y: auto;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.homepage__pager {
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .flip-modal__source {
@@ -186,3 +193,4 @@
 .video-container {
   width: 95%;
 }
+
