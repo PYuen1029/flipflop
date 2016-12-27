@@ -11,8 +11,7 @@
 				<p class="flip-modal__summary">{{ currCard.summary }}</p>
 				<!-- for text -->
 				<div class="flip-modal__content" ng-switch-when="text">
-					<div class="flip-modal__quote">
-						{{currCard.content}}
+					<div class="flip-modal__quote" ng-bind-html="currCard.content">
 					</div>
 
 					<span class="flip-modal__source" stop-event='click'> {{currCard.sourceDate}} - <a href="{{currCard.source}}"> SOURCE </a> </span>
