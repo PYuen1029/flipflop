@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="">
 	<meta name="author" content="">
-	<title>Angular-Gulp-Browserify-Starter</title>
+	<title>FlipFlops - NobisNews</title>
 	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300,100">
         <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:400,400italic,300italic,300,500,500italic,700,900">
 
@@ -32,6 +32,10 @@
 		<header class="site-header container-fluid">
 			<div class="main-header">
 				<div class="row">
+					<div class="logo col-md-3 col-sm 6 col-xs 8">
+						<h1><a href="#!/"><em>Nobis</em>News</a></h1>
+						<span>A NobisNews Project</span>
+					</div>
 					<div class="menu-wrapper col-md-9 col-sm-6 col-xs-4">
 						<a href="#" class="toggle-menu visible-sm visible-xs"><i class="fa fa-bars"></i></a>
 						<ul class="sf-menu hidden-xs hidden-sm">
@@ -43,43 +47,16 @@
 				</div> <!-- /.row -->
 			</div> <!-- /.main-header -->
 			<div id="responsive-menu">
-				<ul>
-					<li><a href="index.html">Home</a></li>
-					<li><a href="services.html">Services</a></li>
-					<li><a href="#">Projects</a>
-						<ul>
-							<li><a href="projects-2.html">Two Columns</a></li>
-							<li><a href="projects-3.html">Three Columns</a></li>
-							<li><a href="project-details.html">Project Single</a></li>
-						</ul>
-					</li>
-					<li><a href="#">Blog</a>
-						<ul>
-							<li><a href="blog.html">Blog Masonry</a></li>
-							<li><a href="blog-single.html">Post Single</a></li>
-						</ul>
-					</li>
-					<li><a href="#">Pages</a>
-						<ul>
-							<li><a href="our-team.html">Our Team</a></li>
-							<li><a href="archives.html">Archives</a></li>
-							<li><a href="grids.html">Columns</a></li>
-							<li><a href="404.html">404 Page</a></li>
-						</ul>
-					</li>
-					<li><a href="contact.html">Contact</a></li>
+				<ul class="sf-menu hidden-xs hidden-sm">
+					<li><a href="#!/">Home</a></li>
+					<li><a href="#!/submit">Submit</a></li>
+					<li><a href="#!/about">About</a></li>
 				</ul>
 			</div>
 		</header> <!-- /.site-header -->
 		<!-- views -->
 		<div class="main__view-container content-wrapper">
 			<div class="inner-container container">
-				<div class="row">
-					<div class="section-header col-md-12">
-						<h2>Flip Flops</h2>
-						<span>A NobisNews Project</span>
-					</div> <!-- /.section-header -->
-				</div> <!-- /.row -->
 				<div class="main__view" ng-view>
 				</div>
 			</div>

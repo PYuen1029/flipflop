@@ -1,3 +1,32 @@
 .more-text {
 	display: none;
 }
+
+.logo > h1 a {
+	font-family: "Roboto Slab", serif;
+	color: #2C2C2C;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 2em;
+	text-transform: uppercase;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+
+.logo > h1 em {
+	font-style: normal;
+	color: #BE1919;
+	margin-right: 5px;
+	-webkit-transition: all 550ms ease-in-out;
+	-moz-transition: all 550ms ease-in-out;
+	transition: all 550ms ease-in-out;
+}
+
+.logo > h1:hover em {
+	color: #1546B5;
+
+}
+
+div.inner-container {
+	margin-top: 50px;
+}

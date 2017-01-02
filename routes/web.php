@@ -14,3 +14,8 @@
 Route::get('/', function () {
     return view('index');
 });
+
+Route::get('/geQcspecial', [
+	'as' => 'csv-import',
+	'uses' => 'SuperAdminController@csv']
+);
