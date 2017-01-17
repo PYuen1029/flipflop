@@ -1,4 +1,4 @@
-module.exports = function(IMGSRC) {
+module.exports = function($http, IMGSRC) {
 	// CONTENT STRATEGIES PROTOTYPES
 	/**	
 	 * Abstract Class that is extended by TextContentStrategy, YoutubeContentStrategy, etc.
@@ -7,7 +7,7 @@ module.exports = function(IMGSRC) {
 	var ContentStrategy = function(card) {
 		if(this.constructor == ContentStrategy) {
 			throw new Error("Can't instantiate abstract class!");
-		}
+		};
 		
 		this.init(card);
 
@@ -112,10 +112,27 @@ module.exports = function(IMGSRC) {
 
 		this.background = this.flipBackground;
 
-		this.style = {
-			backgroundImage: 'url( ' + IMGSRC.imgSrc + this.background + ')',
-			backgroundSize: 'cover'
-		};
+		var imgPromise = $http.get(IMGSRC.imgSrc + this.background);
+
+		imgPromise.then(
+			// success
+			function(data) {
+				this.style = {
+					backgroundImage: 'url( ' + IMGSRC.imgSrc + this.background + ')',
+					backgroundSize: 'cover'
+				};
+			}.bind(this),
+			// failure
+			function(data){
+				this.background = IMGSRC.defaultFlip
+
+				this.style = {
+					backgroundImage: 'url( ' + IMGSRC.imgSrc + this.background + ')',
+					backgroundSize: 'cover'
+				};
+			}.bind(this)
+		);
+
 	};
 
 	Card.prototype = {
@@ -135,10 +152,26 @@ module.exports = function(IMGSRC) {
 			this.source = this.contentStrategy.source;
 			this.sourceDate = this.contentStrategy.sourceDate;
 			this.background = (this.contentStrategy.flipped) ? this.flopBackground : this.flipBackground;
-			this.style = {
-				backgroundImage: 'url( ' + IMGSRC.imgSrc + this.background + ')',
-				backgroundSize: 'cover'
-			};
+			var imgPromise = $http.get(IMGSRC.imgSrc + this.background);
+
+			imgPromise.then(
+				// success
+				function(data) {
+					this.style = {
+						backgroundImage: 'url( ' + IMGSRC.imgSrc + this.background + ')',
+						backgroundSize: 'cover'
+					};					
+				}.bind(this),
+				// failure
+				function(data){
+					this.background = (this.contentStrategy.flipped) ? IMGSRC.defaultFlop : IMGSRC.defaultFlip;
+
+					this.style = {
+						backgroundImage: 'url( ' + IMGSRC.imgSrc + this.background + ')',
+						backgroundSize: 'cover'
+					};					
+				}.bind(this)
+			);
 		}
 	};
 

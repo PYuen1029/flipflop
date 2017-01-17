@@ -17,7 +17,9 @@
 	var FlipFlopsApiSvc = require('./services/FlipFlopsApiSvc');
 	var CardFcty = require('./factories/CardFcty');
 	var imgSrc = {
-		imgSrc: '/images/'
+		imgSrc: '/images/',
+		defaultFlip: 'default_red.png',
+		defaultFlop: 'default_blue.png'
 	};
 	var BackImage = require('./directives/BackImageDir');
 	var ReadMore = require('./directives/ReadMoreDir');
@@ -52,7 +54,7 @@
 
 	// services
 	.constant('IMGSRC', imgSrc)
-	.factory('CardFcty', ['IMGSRC', CardFcty])
+	.factory('CardFcty', ['$http', 'IMGSRC', CardFcty])
 	.factory('FlipFlopsApiSvc', ['$http', '$location', FlipFlopsApiSvc])
 	.service('GetCardsSvc', ['$http', 'CardFcty', GetCardsSvc])
 	.factory('GetPoliticiansSvc', ['$http', GetPoliticiansSvc])
