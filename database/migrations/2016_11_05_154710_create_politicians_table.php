@@ -15,7 +15,7 @@ class CreatePoliticiansTable extends Migration
     {
         Schema::create('politicians', function (Blueprint $table) {
             $table->increments('id');
-            $table->string('legal_name')->nullable();
+            $table->string('legal_name');
             $table->string('first_name');
             $table->string('last_name');
             $table->string('flip_background')->default('default_red.png');

@@ -21,7 +21,7 @@ class FlipflopsTableSeeder extends Seeder
 			'source_type' => "text",
 			'flip_source' => "08/11/2012 - <a href='http://www.state.gov/secretary/20092013clinton/rm/2012/11/200565.htm'> state.gov transcript  </a>",
 			'flop_source' => "07/12/2016 - <a href ='http://time.com/4403264/bernie-sanders-hillary-clinton-endorsement-full-transcript/'> Full transcript of Bernie Sanders' endorsement of Hillary Clinton </a>",
-			'politician_id' => 2
+			'politician_id' => 1
 		]);
 
 		DB::table('flipflops')->insert([
@@ -32,7 +32,7 @@ class FlipflopsTableSeeder extends Seeder
 			'source_type' => "text",
 			'flip_source' => "09/26/2016 - <a href='https://www.youtube.com/watch?v=ZEHPrYUcoi0'> First Presidential Debate </a>",
 			'flop_source' => "10/19/2016 - <a href='https://www.youtube.com/watch?v=cP0G4vJ5OMw'> Third Presidential Debate </a>",
-			'politician_id' => 1
+			'politician_id' => 2
 		]);
 
 		DB::table('flipflops')->insert([
@@ -43,7 +43,7 @@ class FlipflopsTableSeeder extends Seeder
 			'source_type' => "text",
 			'flip_source' => "10/25/1994 - <a href='https://www.youtube.com/watch?v=ECVyuz5iNyQ'> 1994 Senatorial Debate between Mitt Romney and Edward Kennedy",
 			'flop_source' => "06/18/2011 - <a href='http://www.nationalreview.com/corner/269984/my-pro-life-pledge-mitt-romney'> Mitt Romney op-ed about his pro-life position for National Review </a>",
-			'politician_id' => 3
+			'politician_id' => 26
 		]);
 	}
 }

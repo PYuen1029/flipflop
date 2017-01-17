@@ -1,39 +1,23 @@
 <?php
 
-use Illuminate\Database\Seeder;
+use Flynsarmy\CsvSeeder\CsvSeeder;
 
-class PoliticiansTableSeeder extends Seeder
+class PoliticiansTableSeeder extends CsvSeeder
 {
-    /**
-     * Run the database seeds.
-     *
-     * @return void
-     */
-    public function run()
-    {
-		DB::table('politicians')->insert([
-			'first_name' => "Donald",
-			'last_name' => "Trump",
-			'flip_background' => "donald_trump_red.png",
-			'flop_background' => "donald_trump_blue.png",
-			'tags' => 'Republican Party, Presidential Candidate, 2016, Outsider'
-		]);
+	public function __construct()
+	{
+		$this->table = 'politicians';
+		$this->filename = base_path().'/database/seeds/csvs/politicians.csv';
+	}
 
-		DB::table('politicians')->insert([
-			'first_name' => "Hillary Rodham",
-			'last_name' => "Clinton",
-			'flip_background' => "hillary_clinton_red.png",
-			'flop_background' => "hillary_clinton_blue.png",
-			'tags'	=> 'Democratic Party, Presidential Candidate, 2016, 2008, Senator, New York'
-		]);
-		
-		DB::table('politicians')->insert([
-			'first_name' => "Mitt",
-			'last_name' => "Romney",
-			'flip_background' => "mitt_romney_red.png",
-			'flop_background' => "mitt_romney_blue.png",
-			'tags' => 'Republican Party, Presidential Candidate, 2012, 2008, Governor, Massachusetts'
-		]);
+	public function run()
+	{
+		// Recommended when importing larger CSVs
+		DB::disableQueryLog();
 
-    }
+		// Uncomment the below to wipe the table clean before populating
+		// DB::table($this->table)->truncate();
+
+		parent::run();
+	}
 }
