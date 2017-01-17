@@ -43,7 +43,7 @@ class FlipflopsTableSeeder extends Seeder
 			'source_type' => "text",
 			'flip_source' => "10/25/1994 - <a href='https://www.youtube.com/watch?v=ECVyuz5iNyQ'> 1994 Senatorial Debate between Mitt Romney and Edward Kennedy",
 			'flop_source' => "06/18/2011 - <a href='http://www.nationalreview.com/corner/269984/my-pro-life-pledge-mitt-romney'> Mitt Romney op-ed about his pro-life position for National Review </a>",
-			'politician_id' => 26
+			'politician_id' => 27
 		]);
 	}
 }
