@@ -21,8 +21,7 @@ class CreatePoliticiansTable extends Migration
             $table->string('flip_background')->default('default_red.png');
             $table->string('flop_background')->default('default_blue.png');
             $table->string('tags')->nullable();
-            $table->timestamp('created_at')->default(DB::raw('CURRENT_TIMESTAMP'));
-            $table->timestamp('updated_at')->default(DB::raw('CURRENT_TIMESTAMP'));
+            $table->timestamps();
 
             $table->engine = 'InnoDB';
         });        
