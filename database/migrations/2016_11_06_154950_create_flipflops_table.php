@@ -31,6 +31,8 @@ class CreateFlipflopsTable extends Migration
             $table->foreign('politician_id')
               ->references('id')->on('politicians')
               ->onDelete('cascade');
+
+            $table->engine = 'InnoDB';
         });
     }
 
