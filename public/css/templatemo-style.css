@@ -749,8 +749,9 @@ a.btn-left:hover, .top-header .social-top ul li a:hover, .main-header .menu-wrap
 
 .box-content {
   background: white;
-  padding: 15px;
+  padding: 10px;
   overflow: hidden;
+  height: 120px;
 }
 
 .intro-header {
@@ -1477,4 +1478,8 @@ ul.archive-list li h3 a:hover {
   object-fit: cover;
   width: 360px;
   height: 216px;
+}
+
+h4.homepage__title {
+  text-decoration: underline;
 }

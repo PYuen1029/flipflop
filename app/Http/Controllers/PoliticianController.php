@@ -14,7 +14,7 @@ class PoliticianController extends Controller
      */
     public function index()
     {
-        return Politician::all();
+        return Politician::orderBy('first_name')->get();
     }
 
     /**

@@ -19,13 +19,15 @@ module.exports = function($scope, $http, FlipFlopsApiSvc, GetPoliticiansSvc, $lo
 
 		// if type is text, also include flipText and flopText
 		if(data.sourceType == 'text') {
-			data.push({
-				flip_source: $('#submit__flip-source').val(),
-				flop_source: $('#submit__flop-source').val()
-			});
-		}
+			data.flip_source = $('#submit__flip-source').val();
+			data.flop_source = $('#submit__flop-source').val();
+			data.flip = $('textarea[name="submit__flip"]').val();
+			data.flop = $('textarea[name="submit__flop"]').val();
+			data.flop_source = $('#submit__flop-source').val();
 
-		console.dir(data);
+			console.log('SubmitCtrl.js: Line 24 -- data:');
+			console.dir(data);
+		}
 
 		FlipFlopsApiSvc.post(data).then(function(data){
 			if (data) {

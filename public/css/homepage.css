@@ -38,3 +38,7 @@
 body{
 	position: relative;
 }
+
+h4.homepage__title {
+	text-decoration: underline;
+}
