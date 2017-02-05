@@ -27,8 +27,6 @@ module.exports = function($http, IMGSRC) {
 			this.flop = card.flop;
 			this.source = this.flipSource = card.flip_source;
 			this.flopSource = card.flop_source;
-			this.sourceDate = this.flipSourceDate = card.flip_source_date;
-			this.flopSourceDate = card.flop_source_date;
 
 			this.flipped = false;
 		},

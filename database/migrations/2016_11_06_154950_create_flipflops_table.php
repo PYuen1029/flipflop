@@ -21,13 +21,11 @@ class CreateFlipflopsTable extends Migration
             $table->longText('flop');
             $table->string('source_type')->default('text');
             $table->string('flip_source');
-            $table->date('flip_source_date')->nullable();
             $table->string('flop_source');
-            $table->date('flop_source_date')->nullable();
             $table->timestamps();
             
             //  FOREIGN KEYS
-            $table->integer('politician_id')->unsigned();
+            $table->integer('politician_id')->unsigned()->nullable();
             $table->foreign('politician_id')
               ->references('id')->on('politicians')
               ->onDelete('cascade');
