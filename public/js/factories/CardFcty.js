@@ -7,7 +7,7 @@ module.exports = function($http, IMGSRC) {
 	var ContentStrategy = function(card) {
 		if(this.constructor == ContentStrategy) {
 			throw new Error("Can't instantiate abstract class!");
-		};
+		}
 		
 		this.init(card);
 
@@ -124,7 +124,7 @@ module.exports = function($http, IMGSRC) {
 			}.bind(this),
 			// failure
 			function(data){
-				this.background = IMGSRC.defaultFlip
+				this.background = IMGSRC.defaultFlip;
 
 				this.style = {
 					backgroundImage: 'url( ' + IMGSRC.imgSrc + this.background + ')',

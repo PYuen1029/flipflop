@@ -13,7 +13,7 @@ var runSequence = require('run-sequence');
 
 // tasks
 gulp.task('lint', function() {
-  gulp.src(['./**/*.js', '!./bower_components/**/*.js', '!./node_modules/**/*.js'])
+  gulp.src(['./**/*.js', '!./bower_components/**/*.js', '!./app/bower_components/**/*.js', '!./node_modules/**/*.js'])
     .pipe(jshint())
     .pipe(jshint.reporter('default'))
     .pipe(jshint.reporter('fail'));
@@ -101,7 +101,7 @@ gulp.task('watch', function () {
 gulp.task('default', function() {
   runSequence(
     ['clean'],
-    ['browserify', 'lint']
+    ['browserify', 'build-js', 'lint']
   );
 });
 

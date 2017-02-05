@@ -14,7 +14,7 @@ module.exports = function($scope, $http, FlipFlopsApiSvc, GetPoliticiansSvc, $lo
 			sourceType: $('input[name="submit__source-type"]:checked').val(),
 			flip: $('input[name="submit__flip"]').val(),
 			flop: $('input[name="submit__flop"]').val(),
-			politician: $('#submit__politician-select').val()
+			politician: $scope.selectedPolitician.id
 		};
 
 		// if type is text, also include flipText and flopText
@@ -24,9 +24,6 @@ module.exports = function($scope, $http, FlipFlopsApiSvc, GetPoliticiansSvc, $lo
 			data.flip = $('textarea[name="submit__flip"]').val();
 			data.flop = $('textarea[name="submit__flop"]').val();
 			data.flop_source = $('#submit__flop-source').val();
-
-			console.log('SubmitCtrl.js: Line 24 -- data:');
-			console.dir(data);
 		}
 
 		FlipFlopsApiSvc.post(data).then(function(data){
@@ -34,10 +31,6 @@ module.exports = function($scope, $http, FlipFlopsApiSvc, GetPoliticiansSvc, $lo
 				$location.path('/');
 			}
 		});
-	};
-
-	$scope.getFullName = function(politician) {
-		return politician.first_name + ' ' + politician.last_name;
 	};
 
 	// handle sourceType radio buttons on change
@@ -60,4 +53,7 @@ module.exports = function($scope, $http, FlipFlopsApiSvc, GetPoliticiansSvc, $lo
 		}
 		
 	};
+
+	// for ui-bootstrap typeahead, uib-typeahead checks if selected Politician is null (politicians aren't loaded yet), and gives an empty space if it is
+	$scope.selectedPolitician = null;
 };

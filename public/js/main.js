@@ -8,6 +8,8 @@
 	require('angular-animate');
 	require('angular-sanitize');
 	require('angular-youtube-embed');
+	require('angular-aria');
+	require('angular-ui-bootstrap');
 
 	var ModalDialog = require('./directives/ModalDialogDir');
 	var homepageCtrl = require('./controllers/HomepageCtrl');
@@ -26,7 +28,8 @@
 
 
 	// angular begins
-	angular.module('FlipFlopApp', ['ngRoute', 'ngAnimate', 'ngSanitize', 'youtube-embed'])
+	angular.module('FlipFlopApp', ['ngRoute', 'ngAnimate', 'ngSanitize', 'youtube-embed', 'ui.bootstrap'])
+
 	// configs
 	.config([
 		'$locationProvider',
@@ -48,9 +51,6 @@
 				});
 		}
 	])
-
-
-
 
 	// services
 	.constant('IMGSRC', imgSrc)

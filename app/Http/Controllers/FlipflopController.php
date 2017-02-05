@@ -40,7 +40,7 @@ class FlipflopController extends Controller
 	{
 		$this->validate($request, [
 			'title'						=> 'required | string |max:255',
-			'politician'				=> 'required | string ',
+			'politician'				=> 'required | integer',
 			'summary'					=> 'required | string ',
 			'sourceType'				=> 'required | string ',
 			'flip'						=> 'required | string ',

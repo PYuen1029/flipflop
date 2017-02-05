@@ -29,8 +29,7 @@ module.exports = function() {
 
       function readmore(text) {
 
-        var text = text,
-          orig = text,
+        var orig = text,
           regex = /\s+/gi,
           charCount = text.length,
           wordCount = text.trim().replace(regex, ' ').split(' ').length,
