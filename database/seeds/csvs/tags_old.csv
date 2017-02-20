@@ -1,0 +1,2897 @@
+tag,taggable_id,taggable_type
+Democratic Party,1,politician
+Presidential Candidate 2016,1,politician
+New York,1,politician
+Senator,1,politician
+Secretary of State,1,politician
+Republican Party,2,politician
+Presidential Candidate 2016,2,politician
+President,2,politician
+Democratic Party,3,politician
+Presidential Candidate 2016,3,politician
+Vermont,3,politician
+Senator,3,politician
+Republican Party,4,politician
+Presidential Candidate 2016,4,politician
+Texas,4,politician
+Senator,4,politician
+Republican Party,5,politician
+Presidential Candidate 2016,5,politician
+Republican Party,6,politician
+Presidential Candidate 2016,6,politician
+Florida,6,politician
+Senator,6,politician
+Republican Party,7,politician
+Presidential Candidate 2016,7,politician
+Florida,7,politician
+Governor,7,politician
+Republican Party,8,politician
+Presidential Candidate 2016,8,politician
+Ohio,8,politician
+Governor,8,politician
+Republican Party,9,politician
+Presidential Candidate 2016,9,politician
+Kentucky,9,politician
+Senator,9,politician
+Republican Party,10,politician
+Presidential Candidate 2016,10,politician
+Libertarian Party,11,politician
+Presidential Candidate 2016,11,politician
+New Mexico,11,politician
+Governor,11,politician
+Republican Party,12,politician
+Presidential Candidate 2016,12,politician
+Wisconsin,12,politician
+Governor,12,politician
+Republican Party,13,politician
+Presidential Candidate 2016,13,politician
+New Jersey,13,politician
+Governor,13,politician
+Republican Party,14,politician
+Presidential Candidate 2016,14,politician
+South Carolina,14,politician
+Senator,14,politician
+Democratic Party,15,politician
+Presidential Candidate 2016,15,politician
+Maryland,15,politician
+Governor,15,politician
+Republican Party,16,politician
+Presidential Candidate 2016,16,politician
+Arkansas,16,politician
+Governor,16,politician
+Independent,17,politician
+Presidential Candidate 2016,17,politician
+Republican Party,18,politician
+Presidential Candidate 2016,18,politician
+Pennsylvania,18,politician
+Senator,18,politician
+Independent,19,politician
+Presidential Candidate 2016,19,politician
+Republican Party,20,politician
+Presidential Candidate 2016,20,politician
+Louisiana,20,politician
+Governor,20,politician
+US Representative,20,politician
+Republican Party,21,politician
+Presidential Candidate 2016,21,politician
+Texas,21,politician
+Governor,21,politician
+Democratic Party,22,politician
+Presidential Candidate 2016,22,politician
+Democratic Party,23,politician
+Presidential Candidate 2016,23,politician
+Virginia,23,politician
+Senator,23,politician
+Republican Party,24,politician
+Presidential Candidate 2016,24,politician
+New York,24,politician
+Governor,24,politician
+Democratic Party,25,politician
+Presidential Candidate 2016,25,politician
+Rhode Island,25,politician
+Governor,25,politician
+Republican Party,26,politician
+Presidential Candidate 2016,26,politician
+Virginia,26,politician
+Governor,26,politician
+Republican Party,27,politician
+Presidential Candidate 2016,27,politician
+Presidential Candidate 2008,27,politician
+Republican Party,28,politician
+Presidential Candidate 2012,28,politician
+Republican Party,29,politician
+Presidential Candidate 2012,29,politician
+Republican Party,30,politician
+Presidential Candidate 2012,30,politician
+Republican Party,31,politician
+Presidential Candidate 2012,31,politician
+Democratic Party,32,politician
+Presidential Candidate 2012,32,politician
+Republican Party,33,politician
+Presidential Candidate 2012,33,politician
+Republican Party,34,politician
+Presidential Candidate 2012,34,politician
+Democratic Party,35,politician
+Hawaii,35,politician
+US Representative,35,politician
+Democratic Party,36,politician
+New York,36,politician
+US Representative,36,politician
+Republican Party,37,politician
+Alabama,37,politician
+US Representative,37,politician
+Democratic Party,38,politician
+Hawaii,38,politician
+Senator,38,politician
+Republican Party,39,politician
+Colorado,39,politician
+Senator,39,politician
+Democratic Party,40,politician
+New Jersey,40,politician
+US Representative,40,politician
+Democratic Party,41,politician
+Maine,41,politician
+US Representative,41,politician
+Republican Party,42,politician
+Missouri,42,politician
+US Representative,42,politician
+Republican Party,43,politician
+Tennessee,43,politician
+Senator,43,politician
+Republican Party,44,politician
+Louisiana,44,politician
+US Representative,44,politician
+Democratic Party,45,politician
+Pennsylvania,45,politician
+US Representative,45,politician
+Democratic Party,46,politician
+New York,46,politician
+US Representative,46,politician
+Democratic Party,47,politician
+New Jersey,47,politician
+US Representative,47,politician
+Republican Party,48,politician
+Ohio,48,politician
+US Representative,48,politician
+Republican Party,49,politician
+Florida,49,politician
+US Representative,49,politician
+Republican Party,50,politician
+Michigan,50,politician
+US Representative,50,politician
+Republican Party,51,politician
+New Hampshire,51,politician
+Senator,51,politician
+Republican Party,52,politician
+Nevada,52,politician
+US Representative,52,politician
+Democratic Party,53,politician
+North Carolina,53,politician
+US Representative,53,politician
+Democratic Party,54,politician
+California,54,politician
+US Representative,54,politician
+Republican Party,55,politician
+Georgia,55,politician
+US Representative,55,politician
+Republican Party,56,politician
+Louisiana,56,politician
+US Representative,56,politician
+Republican Party,57,politician
+Texas,57,politician
+US Representative,57,politician
+Republican Party,58,politician
+Alabama,58,politician
+US Representative,58,politician
+Republican Party,59,politician
+Louisiana,59,politician
+US Representative,59,politician
+Republican Party,60,politician
+Maryland,60,politician
+US Representative,60,politician
+Republican Party,61,politician
+Texas,61,politician
+US Representative,61,politician
+Republican Party,62,politician
+New Hampshire,62,politician
+US Representative,62,politician
+Democratic Party,63,politician
+Montana,63,politician
+Senator,63,politician
+Democratic Party,64,politician
+California,64,politician
+US Representative,64,politician
+Republican Party,65,politician
+Utah,65,politician
+Senator,65,politician
+Democratic Party,66,politician
+California,66,politician
+US Representative,66,politician
+Democratic Party,67,politician
+Arkansas,67,politician
+US Representative,67,politician
+Democratic Party,68,politician
+Delaware,68,politician
+Senator,68,politician
+Republican Party,69,politician
+California,69,politician
+US Representative,69,politician
+Democratic Party,70,politician
+New Mexico,70,politician
+Senator,70,politician
+Democratic Party,71,politician
+Georgia,71,politician
+US Representative,71,politician
+Democratic Party,72,politician
+Oregon,72,politician
+US Representative,72,politician
+Republican Party,73,politician
+Missouri,73,politician
+Senator,73,politician
+Republican Party,74,politician
+Ohio,74,politician
+US Representative,74,politician
+Republican Party,75,politician
+Missouri,75,politician
+Senator,75,politician
+Democratic Party,76,politician
+Iowa,76,politician
+US Representative,76,politician
+Democratic Party,77,politician
+Virginia,77,politician
+US Representative,77,politician
+Democratic Party,78,politician
+California,78,politician
+Senator,78,politician
+Democratic Party,79,politician
+Florida,79,politician
+US Representative,79,politician
+Republican Party,80,politician
+Texas,80,politician
+US Representative,80,politician
+Democratic Party,81,politician
+Florida,81,politician
+US Representative,81,politician
+Democratic Party,82,politician
+Ohio,82,politician
+Senator,82,politician
+Republican Party,83,politician
+Kansas,83,politician
+Senator,83,politician
+Republican Party,84,politician
+Kentucky,84,politician
+Senator,84,politician
+Republican Party,85,politician
+North Carolina,85,politician
+Senator,85,politician
+Republican Party,86,politician
+Indiana,86,politician
+US Representative,86,politician
+Republican Party,87,politician
+Indiana,87,politician
+US Representative,87,politician
+Democratic Party,88,politician
+West Virginia,88,politician
+Senator,88,politician
+Democratic Party,89,politician
+Pennsylvania,89,politician
+US Representative,89,politician
+Republican Party,90,politician
+California,90,politician
+US Representative,90,politician
+Democratic Party,91,politician
+Washington,91,politician
+US Representative,91,politician
+Democratic Party,92,politician
+Wisconsin,92,politician
+Senator,92,politician
+Democratic Party,93,politician
+Nevada,93,politician
+US Representative,93,politician
+Republican Party,94,politician
+Illinois,94,politician
+US Representative,94,politician
+Democratic Party,95,politician
+Indiana,95,politician
+Senator,95,politician
+Democratic Party,96,politician
+California,96,politician
+US Representative,96,politician
+Republican Party,97,politician
+South Carolina,97,politician
+US Representative,97,politician
+Republican Party,98,politician
+Arkansas,98,politician
+Senator,98,politician
+Republican Party,99,politician
+South Carolina,99,politician
+US Representative,99,politician
+Democratic Party,100,politician
+New York,100,politician
+US Representative,100,politician
+Republican Party,101,politician
+Tennessee,101,politician
+US Representative,101,politician
+Republican Party,102,politician
+Alabama,102,politician
+US Representative,102,politician
+Republican Party,103,politician
+Florida,103,politician
+US Representative,103,politician
+Republican Party,104,politician
+Texas,104,politician
+US Representative,104,politician
+Republican Party,105,politician
+Utah,105,politician
+US Representative,105,politician
+Democratic Party,106,politician
+North Carolina,106,politician
+US Representative,106,politician
+Democratic Party,107,politician
+Georgia,107,politician
+US Representative,107,politician
+Democratic Party,108,politician
+Illinois,108,politician
+US Representative,108,politician
+Democratic Party,109,politician
+Oklahoma,109,politician
+US Representative,109,politician
+Republican Party,110,politician
+Louisiana,110,politician
+US Representative,110,politician
+Republican Party,111,politician
+Minnesota,111,politician
+US Representative,111,politician
+Republican Party,112,politician
+Florida,112,politician
+US Representative,112,politician
+Democratic Party,113,politician
+Kansas,113,politician
+US Representative,113,politician
+Democratic Party,114,politician
+Iowa,114,politician
+US Representative,114,politician
+Republican Party,115,politician
+Florida,115,politician
+US Representative,115,politician
+Republican Party,116,politician
+Wyoming,116,politician
+Senator,116,politician
+Republican Party,117,politician
+Georgia,117,politician
+US Representative,117,politician
+Democratic Party,118,politician
+Ohio,118,politician
+US Representative,118,politician
+Democratic Party,119,politician
+Alabama,119,politician
+US Representative,119,politician
+Democratic Party,120,politician
+Alaska,120,politician
+Senator,120,politician
+Democratic Party,121,politician
+Illinois,121,politician
+Senator,121,politician
+Democratic Party,122,politician
+Colorado,122,politician
+Senator,122,politician
+Republican Party,123,politician
+Massachusetts,123,politician
+Senator,123,politician
+Republican Party,124,politician
+Pennsylvania,124,politician
+US Representative,124,politician
+Democratic Party,125,politician
+California,125,politician
+US Representative,125,politician
+Republican Party,126,politician
+Michigan,126,politician
+US Representative,126,politician
+Republican Party,127,politician
+North Dakota,127,politician
+US Representative,127,politician
+Republican Party,128,politician
+Tennessee,128,politician
+US Representative,128,politician
+Republican Party,129,politician
+Alabama,129,politician
+US Representative,129,politician
+Republican Party,130,politician
+Indiana,130,politician
+US Representative,130,politician
+Republican Party,131,politician
+New York,131,politician
+US Representative,131,politician
+Democratic Party,132,politician
+Connecticut,132,politician
+Senator,132,politician
+Democratic Party,133,politician
+Oregon,133,politician
+US Representative,133,politician
+Democratic Party,134,politician
+Arizona,134,politician
+US Representative,134,politician
+Democratic Party,135,politician
+Ohio,135,politician
+US Representative,135,politician
+Republican Party,136,politician
+Kentucky,136,politician
+US Representative,136,politician
+Republican Party,137,politician
+Oklahoma,137,politician
+US Representative,137,politician
+Republican Party,138,politician
+Indiana,138,politician
+US Representative,138,politician
+Democratic Party,139,politician
+California,139,politician
+US Representative,139,politician
+Democratic Party,140,politician
+Illinois,140,politician
+US Representative,140,politician
+Democratic Party,141,politician
+California,141,politician
+US Representative,141,politician
+Democratic Party,142,politician
+New Jersey,142,politician
+Senator,142,politician
+Republican Party,143,politician
+Alabama,143,politician
+US Representative,143,politician
+Republican Party,144,politician
+Virginia,144,politician
+US Representative,144,politician
+Republican Party,145,politician
+Texas,145,politician
+US Representative,145,politician
+Democratic Party,146,politician
+Virginia,146,politician
+US Representative,146,politician
+Republican Party,147,politician
+Michigan,147,politician
+US Representative,147,politician
+Republican Party,148,politician
+Iowa,148,politician
+US Representative,148,politician
+Republican Party,149,politician
+Illinois,149,politician
+US Representative,149,politician
+Democratic Party,150,politician
+Pennsylvania,150,politician
+US Representative,150,politician
+Republican Party,151,politician
+Colorado,151,politician
+US Representative,151,politician
+Republican Party,152,politician
+Nebraska,152,politician
+US Representative,152,politician
+Republican Party,153,politician
+Indiana,153,politician
+US Representative,153,politician
+Democratic Party,154,politician
+California,154,politician
+US Representative,154,politician
+Republican Party,155,politician
+Michigan,155,politician
+US Representative,155,politician
+Republican Party,156,politician
+Arizona,156,politician
+US Representative,156,politician
+Democratic Party,157,politician
+Delaware,157,politician
+US Representative,157,politician
+Democratic Party,158,politician
+Maryland,158,politician
+US Representative,158,politician
+Republican Party,159,politician
+North Carolina,159,politician
+US Representative,159,politician
+Republican Party,160,politician
+California,160,politician
+US Representative,160,politician
+Republican Party,161,politician
+Michigan,161,politician
+US Representative,161,politician
+Republican Party,162,politician
+Utah,162,politician
+US Representative,162,politician
+Democratic Party,163,politician
+Washington,163,politician
+Senator,163,politician
+Democratic Party,164,politician
+Maryland,164,politician
+Senator,164,politician
+Democratic Party,165,politician
+Delaware,165,politician
+Senator,165,politician
+Democratic Party,166,politician
+Indiana,166,politician
+US Representative,166,politician
+Republican Party,167,politician
+Delaware,167,politician
+US Representative,167,politician
+Republican Party,168,politician
+Ohio,168,politician
+US Representative,168,politician
+Republican Party,169,politician
+Georgia,169,politician
+Senator,169,politician
+Democratic Party,170,politician
+South Carolina,170,politician
+US Representative,170,politician
+Republican Party,171,politician
+Indiana,171,politician
+Senator,171,politician
+Republican Party,172,politician
+North Carolina,172,politician
+US Representative,172,politician
+Republican Party,173,politician
+Oklahoma,173,politician
+Senator,173,politician
+Republican Party,174,politician
+Mississippi,174,politician
+Senator,174,politician
+Democratic Party,175,politician
+North Dakota,175,politician
+Senator,175,politician
+Democratic Party,176,politician
+Michigan,176,politician
+US Representative,176,politician
+Democratic Party,177,politician
+Tennessee,177,politician
+US Representative,177,politician
+Democratic Party,178,politician
+Illinois,178,politician
+US Representative,178,politician
+Republican Party,179,politician
+Idaho,179,politician
+Senator,179,politician
+Democratic Party,180,politician
+Alabama,180,politician
+US Representative,180,politician
+Republican Party,181,politician
+Idaho,181,politician
+Senator,181,politician
+Republican Party,182,politician
+Wyoming,182,politician
+US Representative,182,politician
+Democratic Party,183,politician
+Maryland,183,politician
+US Representative,183,politician
+Republican Party,184,politician
+Maine,184,politician
+Senator,184,politician
+Democratic Party,185,politician
+California,185,politician
+US Representative,185,politician
+Democratic Party,186,politician
+Massachusetts,186,politician
+US Representative,186,politician
+Democratic Party,187,politician
+New York,187,politician
+US Representative,187,politician
+Republican Party,188,politician
+Florida,188,politician
+US Representative,188,politician
+Republican Party,189,politician
+Virginia,189,politician
+US Representative,189,politician
+Republican Party,190,politician
+West Virginia,190,politician
+Senator,190,politician
+Republican Party,191,politician
+Texas,191,politician
+US Representative,191,politician
+Democratic Party,192,politician
+Missouri,192,politician
+US Representative,192,politician
+Democratic Party,193,politician
+California,193,politician
+US Representative,193,politician
+Republican Party,194,politician
+Texas,194,politician
+US Representative,194,politician
+Republican Party,195,politician
+Oklahoma,195,politician
+US Representative,195,politician
+Republican Party,196,politician
+Texas,196,politician
+Senator,196,politician
+Republican Party,197,politician
+Minnesota,197,politician
+Senator,197,politician
+Democratic Party,198,politician
+Kentucky,198,politician
+US Representative,198,politician
+Democratic Party,199,politician
+California,199,politician
+US Representative,199,politician
+Democratic Party,200,politician
+Missouri,200,politician
+US Representative,200,politician
+Democratic Party,201,politician
+Missouri,201,politician
+US Representative,201,politician
+Republican Party,202,politician
+Texas,202,politician
+US Representative,202,politician
+Democratic Party,203,politician
+Texas,203,politician
+US Representative,203,politician
+Republican Party,204,politician
+California,204,politician
+US Representative,204,politician
+Democratic Party,205,politician
+Pennsylvania,205,politician
+US Representative,205,politician
+Democratic Party,206,politician
+Florida,206,politician
+US Representative,206,politician
+Democratic Party,207,politician
+New York,207,politician
+US Representative,207,politician
+Democratic Party,208,politician
+Tennessee,208,politician
+US Representative,208,politician
+Democratic Party,209,politician
+Connecticut,209,politician
+US Representative,209,politician
+Democratic Party,210,politician
+Pennsylvania,210,politician
+Senator,210,politician
+Republican Party,211,politician
+Tennessee,211,politician
+Senator,211,politician
+Democratic Party,212,politician
+Indiana,212,politician
+US Representative,212,politician
+Democratic Party,213,politician
+Louisiana,213,politician
+US Representative,213,politician
+Democratic Party,214,politician
+Mississippi,214,politician
+US Representative,214,politician
+Republican Party,215,politician
+Louisiana,215,politician
+Senator,215,politician
+Republican Party,216,politician
+Utah,216,politician
+US Representative,216,politician
+Republican Party,217,politician
+Colorado,217,politician
+US Representative,217,politician
+Democratic Party,218,politician
+Virginia,218,politician
+US Representative,218,politician
+Republican Party,219,politician
+Louisiana,219,politician
+US Representative,219,politician
+Democratic Party,220,politician
+California,220,politician
+US Representative,220,politician
+Democratic Party,221,politician
+Pennsylvania,221,politician
+US Representative,221,politician
+Republican Party,222,politician
+Texas,222,politician
+US Representative,222,politician
+Democratic Party,223,politician
+Delaware,223,politician
+US Representative,223,politician
+Democratic Party,224,politician
+Rhode Island,224,politician
+US Representative,224,politician
+Democratic Party,225,politician
+Michigan,225,politician
+US Representative,225,politician
+Republican Party,226,politician
+Minnesota,226,politician
+US Representative,226,politician
+Republican Party,227,politician
+Arkansas,227,politician
+US Representative,227,politician
+Democratic Party,228,politician
+Delaware,228,politician
+Senator,228,politician
+Democratic Party,229,politician
+Pennsylvania,229,politician
+US Representative,229,politician
+Democratic Party,230,politician
+Texas,230,politician
+US Representative,230,politician
+Republican Party,231,politician
+New York,231,politician
+US Representative,231,politician
+Republican Party,232,politician
+Georgia,232,politician
+US Representative,232,politician
+Republican Party,233,politician
+California,233,politician
+US Representative,233,politician
+Republican Party,234,politician
+Arkansas,234,politician
+Senator,234,politician
+Republican Party,235,politician
+North Dakota,235,politician
+US Representative,235,politician
+Democratic Party,236,politician
+California,236,politician
+US Representative,236,politician
+Democratic Party,237,politician
+Massachusetts,237,politician
+US Representative,237,politician
+Republican Party,238,politician
+Georgia,238,politician
+US Representative,238,politician
+Republican Party,239,politician
+Virginia,239,politician
+US Representative,239,politician
+Republican Party,240,politician
+Pennsylvania,240,politician
+US Representative,240,politician
+Republican Party,241,politician
+Florida,241,politician
+US Representative,241,politician
+Republican Party,242,politician
+Kentucky,242,politician
+US Representative,242,politician
+Republican Party,243,politician
+Wyoming,243,politician
+US Representative,243,politician
+Democratic Party,244,politician
+California,244,politician
+US Representative,244,politician
+Democratic Party,245,politician
+Florida,245,politician
+US Representative,245,politician
+Democratic Party,246,politician
+California,246,politician
+US Representative,246,politician
+Democratic Party,247,politician
+Nevada,247,politician
+Senator,247,politician
+Democratic Party,248,politician
+Illinois,248,politician
+US Representative,248,politician
+Republican Party,249,politician
+Virginia,249,politician
+US Representative,249,politician
+Republican Party,250,politician
+Georgia,250,politician
+US Representative,250,politician
+Democratic Party,251,politician
+Oregon,251,politician
+US Representative,251,politician
+Democratic Party,252,politician
+Colorado,252,politician
+US Representative,252,politician
+Democratic Party,253,politician
+Massachusetts,253,politician
+US Representative,253,politician
+Democratic Party,254,politician
+Connecticut,254,politician
+US Representative,254,politician
+Republican Party,255,politician
+Florida,255,politician
+US Representative,255,politician
+Democratic Party,256,politician
+Washington,256,politician
+US Representative,256,politician
+Democratic Party,257,politician
+Michigan,257,politician
+US Representative,257,politician
+Democratic Party,258,politician
+Connecticut,258,politician
+Senator,258,politician
+Democratic Party,259,politician
+Texas,259,politician
+US Representative,259,politician
+Republican Party,260,politician
+New Mexico,260,politician
+Senator,260,politician
+Republican Party,261,politician
+California,261,politician
+US Representative,261,politician
+Democratic Party,262,politician
+North Dakota,262,politician
+Senator,262,politician
+Democratic Party,263,politician
+Pennsylvania,263,politician
+US Representative,263,politician
+Republican Party,264,politician
+California,264,politician
+US Representative,264,politician
+Republican Party,265,politician
+Tennessee,265,politician
+US Representative,265,politician
+Democratic Party,266,politician
+Illinois,266,politician
+Senator,266,politician
+Republican Party,267,politician
+South Carolina,267,politician
+Senator,267,politician
+Republican Party,268,politician
+Virginia,268,politician
+US Representative,268,politician
+Democratic Party,269,politician
+California,269,politician
+US Representative,269,politician
+Democratic Party,270,politician
+Tennessee,270,politician
+US Representative,270,politician
+Republican Party,271,politician
+Florida,271,politician
+US Representative,271,politician
+Republican Party,272,politician
+North Carolina,272,politician
+Senator,272,politician
+Democratic Party,273,politician
+Alabama,273,politician
+US Representative,273,politician
+Republican Party,274,politician
+Kentucky,274,politician
+US Representative,274,politician
+Republican Party,275,politician
+Pennsylvania,275,politician
+US Representative,275,politician
+Republican Party,276,politician
+Virginia,276,politician
+US Representative,276,politician
+Republican Party,277,politician
+Tennessee,277,politician
+US Representative,277,politician
+Democratic Party,278,politician
+Indiana,278,politician
+Senator,278,politician
+Democratic Party,279,politician
+Pennsylvania,279,politician
+US Representative,279,politician
+Democratic Party,280,politician
+Ohio,280,politician
+US Representative,280,politician
+Democratic Party,281,politician
+Florida,281,politician
+US Representative,281,politician
+Republican Party,282,politician
+Hawaii,282,politician
+US Representative,282,politician
+Republican Party,283,politician
+California,283,politician
+US Representative,283,politician
+Republican Party,284,politician
+Illinois,284,politician
+US Representative,284,politician
+Republican Party,285,politician
+Wisconsin,285,politician
+US Representative,285,politician
+Republican Party,286,politician
+South Carolina,286,politician
+US Representative,286,politician
+Republican Party,287,politician
+Tennessee,287,politician
+US Representative,287,politician
+Democratic Party,288,politician
+Washington,288,politician
+US Representative,288,politician
+Republican Party,289,politician
+Montana,289,politician
+Senator,289,politician
+Republican Party,290,politician
+Illinois,290,politician
+US Representative,290,politician
+Democratic Party,291,politician
+Maryland,291,politician
+US Representative,291,politician
+Republican Party,292,politician
+Florida,292,politician
+US Representative,292,politician
+Democratic Party,293,politician
+Illinois,293,politician
+Senator,293,politician
+Democratic Party,294,politician
+California,294,politician
+US Representative,294,politician
+Democratic Party,295,politician
+Michigan,295,politician
+US Representative,295,politician
+Republican Party,296,politician
+New York,296,politician
+US Representative,296,politician
+Republican Party,297,politician
+Ohio,297,politician
+US Representative,297,politician
+Democratic Party,298,politician
+Florida,298,politician
+US Representative,298,politician
+Republican Party,299,politician
+Florida,299,politician
+US Representative,299,politician
+Democratic Party,300,politician
+Texas,300,politician
+US Representative,300,politician
+Republican Party,301,politician
+Michigan,301,politician
+US Representative,301,politician
+Republican Party,302,politician
+Missouri,302,politician
+US Representative,302,politician
+Democratic Party,303,politician
+New York,303,politician
+US Representative,303,politician
+Republican Party,304,politician
+Pennsylvania,304,politician
+US Representative,304,politician
+Republican Party,305,politician
+Nevada,305,politician
+Senator,305,politician
+Democratic Party,306,politician
+California,306,politician
+US Representative,306,politician
+Democratic Party,307,politician
+North Carolina,307,politician
+US Representative,307,politician
+Republican Party,308,politician
+Alabama,308,politician
+US Representative,308,politician
+Republican Party,309,politician
+Wyoming,309,politician
+Senator,309,politician
+Democratic Party,310,politician
+Illinois,310,politician
+US Representative,310,politician
+Democratic Party,311,politician
+Minnesota,311,politician
+US Representative,311,politician
+Democratic Party,312,politician
+Indiana,312,politician
+US Representative,312,politician
+Democratic Party,313,politician
+Maryland,313,politician
+US Representative,313,politician
+Republican Party,314,politician
+North Carolina,314,politician
+US Representative,314,politician
+Democratic Party,315,politician
+Connecticut,315,politician
+US Representative,315,politician
+Republican Party,316,politician
+Minnesota,316,politician
+US Representative,316,politician
+Republican Party,317,politician
+Iowa,317,politician
+Senator,317,politician
+Democratic Party,318,politician
+Pennsylvania,318,politician
+US Representative,318,politician
+Democratic Party,319,politician
+New York,319,politician
+US Representative,319,politician
+Democratic Party,320,politician
+California,320,politician
+US Representative,320,politician
+Democratic Party,321,politician
+Pennsylvania,321,politician
+US Representative,321,politician
+Democratic Party,322,politician
+Wisconsin,322,politician
+Senator,322,politician
+Democratic Party,323,politician
+California,323,politician
+Senator,323,politician
+Democratic Party,324,politician
+California,324,politician
+US Representative,324,politician
+Democratic Party,325,politician
+Massachusetts,325,politician
+US Representative,325,politician
+Republican Party,326,politician
+New Jersey,326,politician
+US Representative,326,politician
+Republican Party,327,politician
+New York,327,politician
+US Representative,327,politician
+Republican Party,328,politician
+New Jersey,328,politician
+US Representative,328,politician
+Republican Party,329,politician
+Arizona,329,politician
+Senator,329,politician
+Republican Party,330,politician
+Virginia,330,politician
+US Representative,330,politician
+Republican Party,331,politician
+Florida,331,politician
+US Representative,331,politician
+Republican Party,332,politician
+Arizona,332,politician
+US Representative,332,politician
+Republican Party,333,politician
+Nebraska,333,politician
+US Representative,333,politician
+Republican Party,334,politician
+North Carolina,334,politician
+US Representative,334,politician
+Republican Party,335,politician
+Pennsylvania,335,politician
+US Representative,335,politician
+Republican Party,336,politician
+Oklahoma,336,politician
+US Representative,336,politician
+Democratic Party,337,politician
+Illinois,337,politician
+US Representative,337,politician
+Democratic Party,338,politician
+Ohio,338,politician
+US Representative,338,politician
+Republican Party,339,politician
+Louisiana,339,politician
+US Representative,339,politician
+Democratic Party,340,politician
+Minnesota,340,politician
+Senator,340,politician
+Republican Party,341,politician
+Tennessee,341,politician
+US Representative,341,politician
+Republican Party,342,politician
+Tennessee,342,politician
+US Representative,342,politician
+Republican Party,343,politician
+Texas,343,politician
+US Representative,343,politician
+Republican Party,344,politician
+Texas,344,politician
+US Representative,344,politician
+Democratic Party,345,politician
+Florida,345,politician
+US Representative,345,politician
+Republican Party,346,politician
+Nebraska,346,politician
+Senator,346,politician
+Republican Party,347,politician
+New York,347,politician
+US Representative,347,politician
+Republican Party,348,politician
+Georgia,348,politician
+US Representative,348,politician
+Republican Party,349,politician
+Pennsylvania,349,politician
+US Representative,349,politician
+Republican Party,350,politician
+California,350,politician
+US Representative,350,politician
+Republican Party,351,politician
+Maryland,351,politician
+US Representative,351,politician
+Republican Party,352,politician
+Ohio,352,politician
+US Representative,352,politician
+Republican Party,353,politician
+Virginia,353,politician
+US Representative,353,politician
+Republican Party,354,politician
+Virginia,354,politician
+US Representative,354,politician
+Democratic Party,355,politician
+Tennessee,355,politician
+US Representative,355,politician
+Republican Party,356,politician
+Texas,356,politician
+US Representative,356,politician
+Republican Party,357,politician
+Iowa,357,politician
+Senator,357,politician
+Democratic Party,358,politician
+Texas,358,politician
+US Representative,358,politician
+Republican Party,359,politician
+New Hampshire,359,politician
+Senator,359,politician
+Democratic Party,360,politician
+Illinois,360,politician
+US Representative,360,politician
+Democratic Party,361,politician
+Texas,361,politician
+US Representative,361,politician
+Republican Party,362,politician
+Missouri,362,politician
+US Representative,362,politician
+Republican Party,363,politician
+New Jersey,363,politician
+US Representative,363,politician
+Republican Party,364,politician
+Pennsylvania,364,politician
+US Representative,364,politician
+Republican Party,365,politician
+Georgia,365,politician
+US Representative,365,politician
+Democratic Party,366,politician
+Arizona,366,politician
+US Representative,366,politician
+Republican Party,367,politician
+Texas,367,politician
+US Representative,367,politician
+Democratic Party,368,politician
+Texas,368,politician
+US Representative,368,politician
+Democratic Party,369,politician
+Arizona,369,politician
+US Representative,369,politician
+Democratic Party,370,politician
+New York,370,politician
+Senator,370,politician
+Democratic Party,371,politician
+Florida,371,politician
+US Representative,371,politician
+Republican Party,372,politician
+Alabama,372,politician
+US Representative,372,politician
+Republican Party,373,politician
+Kentucky,373,politician
+US Representative,373,politician
+Democratic Party,374,politician
+California,374,politician
+US Representative,374,politician
+Republican Party,375,politician
+Georgia,375,politician
+US Representative,375,politician
+Democratic Party,376,politician
+West Virginia,376,politician
+Senator,376,politician
+Republican Party,377,politician
+Colorado,377,politician
+Senator,377,politician
+Republican Party,378,politician
+Ohio,378,politician
+US Representative,378,politician
+Republican Party,379,politician
+New York,379,politician
+US Representative,379,politician
+Republican Party,380,politician
+Arizona,380,politician
+US Representative,380,politician
+Republican Party,381,politician
+South Carolina,381,politician
+US Representative,381,politician
+Republican Party,382,politician
+Arkansas,382,politician
+US Representative,382,politician
+Republican Party,383,politician
+Virginia,383,politician
+US Representative,383,politician
+Republican Party,384,politician
+New York,384,politician
+US Representative,384,politician
+Republican Party,385,politician
+New Hampshire,385,politician
+US Representative,385,politician
+Democratic Party,386,politician
+Hawaii,386,politician
+US Representative,386,politician
+Democratic Party,387,politician
+Arizona,387,politician
+US Representative,387,politician
+Republican Party,388,politician
+Wisconsin,388,politician
+US Representative,388,politician
+Republican Party,389,politician
+Louisiana,389,politician
+US Representative,389,politician
+Republican Party,390,politician
+Florida,390,politician
+US Representative,390,politician
+Republican Party,391,politician
+Wisconsin,391,politician
+US Representative,391,politician
+Republican Party,392,politician
+Virginia,392,politician
+US Representative,392,politician
+Democratic Party,393,politician
+Texas,393,politician
+US Representative,393,politician
+Democratic Party,394,politician
+New Jersey,394,politician
+US Representative,394,politician
+Republican Party,395,politician
+Texas,395,politician
+US Representative,395,politician
+Democratic Party,396,politician
+Iowa,396,politician
+Senator,396,politician
+Democratic Party,397,politician
+California,397,politician
+US Representative,397,politician
+Republican Party,398,politician
+Illinois,398,politician
+US Representative,398,politician
+Democratic Party,399,politician
+Florida,399,politician
+US Representative,399,politician
+Republican Party,400,politician
+Washington,400,politician
+US Representative,400,politician
+Republican Party,401,politician
+Utah,401,politician
+Senator,401,politician
+Republican Party,402,politician
+California,402,politician
+US Representative,402,politician
+Democratic Party,403,politician
+New York,403,politician
+US Representative,403,politician
+Democratic Party,404,politician
+Texas,404,politician
+US Representative,404,politician
+Republican Party,405,politician
+Ohio,405,politician
+US Representative,405,politician
+Republican Party,406,politician
+Michigan,406,politician
+US Representative,406,politician
+Democratic Party,407,politician
+Pennsylvania,407,politician
+US Representative,407,politician
+Democratic Party,408,politician
+Oregon,408,politician
+US Representative,408,politician
+Democratic Party,409,politician
+Maryland,409,politician
+US Representative,409,politician
+Republican Party,410,politician
+Missouri,410,politician
+US Representative,410,politician
+Republican Party,411,politician
+California,411,politician
+US Representative,411,politician
+Republican Party,412,politician
+Texas,412,politician
+Senator,412,politician
+Republican Party,413,politician
+Nebraska,413,politician
+Senator,413,politician
+Republican Party,414,politician
+North Carolina,414,politician
+US Representative,414,politician
+Democratic Party,415,politician
+Indiana,415,politician
+US Representative,415,politician
+Democratic Party,416,politician
+New Jersey,416,politician
+US Representative,416,politician
+Democratic Party,417,politician
+California,417,politician
+US Representative,417,politician
+Republican Party,418,politician
+Texas,418,politician
+US Representative,418,politician
+Democratic Party,419,politician
+South Dakota,419,politician
+US Representative,419,politician
+Democratic Party,420,politician
+New York,420,politician
+US Representative,420,politician
+Democratic Party,421,politician
+New York,421,politician
+US Representative,421,politician
+Democratic Party,422,politician
+Illinois,422,politician
+US Representative,422,politician
+Republican Party,423,politician
+Nevada,423,politician
+Senator,423,politician
+Democratic Party,424,politician
+Hawaii,424,politician
+Senator,424,politician
+Democratic Party,425,politician
+New Hampshire,425,politician
+US Representative,425,politician
+Democratic Party,426,politician
+Illinois,426,politician
+US Representative,426,politician
+Republican Party,427,politician
+Mississippi,427,politician
+US Representative,427,politician
+Democratic Party,428,politician
+New Mexico,428,politician
+Senator,428,politician
+Democratic Party,429,politician
+Connecticut,429,politician
+US Representative,429,politician
+Republican Party,430,politician
+California,430,politician
+US Representative,430,politician
+Democratic Party,431,politician
+North Carolina,431,politician
+Senator,431,politician
+Democratic Party,432,politician
+Hawaii,432,politician
+US Representative,432,politician
+Republican Party,433,politician
+New York,433,politician
+US Representative,433,politician
+Republican Party,434,politician
+Maryland,434,politician
+US Representative,434,politician
+Republican Party,435,politician
+Missouri,435,politician
+US Representative,435,politician
+Republican Party,436,politician
+New York,436,politician
+US Representative,436,politician
+Republican Party,437,politician
+Nevada,437,politician
+US Representative,437,politician
+Republican Party,438,politician
+Washington,438,politician
+US Representative,438,politician
+Republican Party,439,politician
+Kansas,439,politician
+US Representative,439,politician
+Republican Party,440,politician
+Michigan,440,politician
+US Representative,440,politician
+Republican Party,441,politician
+Illinois,441,politician
+US Representative,441,politician
+Republican Party,442,politician
+Virginia,442,politician
+US Representative,442,politician
+Republican Party,443,politician
+North Dakota,443,politician
+Senator,443,politician
+Democratic Party,444,politician
+New York,444,politician
+US Representative,444,politician
+Democratic Party,445,politician
+California,445,politician
+US Representative,445,politician
+Democratic Party,446,politician
+Washington,446,politician
+US Representative,446,politician
+Republican Party,447,politician
+North Carolina,447,politician
+US Representative,447,politician
+Republican Party,448,politician
+North Carolina,448,politician
+US Representative,448,politician
+Democratic Party,449,politician
+California,449,politician
+US Representative,449,politician
+Democratic Party,450,politician
+North Dakota,450,politician
+Senator,450,politician
+Republican Party,451,politician
+Georgia,451,politician
+US Representative,451,politician
+Republican Party,452,politician
+Arkansas,452,politician
+US Representative,452,politician
+Republican Party,453,politician
+Texas,453,politician
+US Representative,453,politician
+Republican Party,454,politician
+Indiana,454,politician
+US Representative,454,politician
+Democratic Party,455,politician
+California,455,politician
+Senator,455,politician
+Democratic Party,456,politician
+New Hampshire,456,politician
+Senator,456,politician
+Republican Party,457,politician
+Louisiana,457,politician
+US Representative,457,politician
+Republican Party,458,politician
+South Carolina,458,politician
+US Representative,458,politician
+Republican Party,459,politician
+Oklahoma,459,politician
+Senator,459,politician
+Democratic Party,460,politician
+Hawaii,460,politician
+Senator,460,politician
+Democratic Party,461,politician
+Washington,461,politician
+US Representative,461,politician
+Republican Party,462,politician
+Georgia,462,politician
+Senator,462,politician
+Republican Party,463,politician
+California,463,politician
+US Representative,463,politician
+Democratic Party,464,politician
+New York,464,politician
+US Representative,464,politician
+Democratic Party,465,politician
+Texas,465,politician
+US Representative,465,politician
+Democratic Party,466,politician
+Louisiana,466,politician
+US Representative,466,politician
+Democratic Party,467,politician
+Texas,467,politician
+US Representative,467,politician
+Republican Party,468,politician
+Texas,468,politician
+US Representative,468,politician
+Democratic Party,469,politician
+South Dakota,469,politician
+Senator,469,politician
+Republican Party,470,politician
+North Carolina,470,politician
+US Representative,470,politician
+Democratic Party,471,politician
+Illinois,471,politician
+US Representative,471,politician
+Democratic Party,472,politician
+Ohio,472,politician
+US Representative,472,politician
+Republican Party,473,politician
+Illinois,473,politician
+US Representative,473,politician
+Democratic Party,474,politician
+Georgia,474,politician
+US Representative,474,politician
+Republican Party,475,politician
+Ohio,475,politician
+US Representative,475,politician
+Republican Party,476,politician
+Kansas,476,politician
+US Representative,476,politician
+Republican Party,477,politician
+Nebraska,477,politician
+Senator,477,politician
+Republican Party,478,politician
+Ohio,478,politician
+US Representative,478,politician
+Republican Party,479,politician
+Wisconsin,479,politician
+Senator,479,politician
+Democratic Party,480,politician
+New York,480,politician
+US Representative,480,politician
+Republican Party,481,politician
+Ohio,481,politician
+US Representative,481,politician
+Republican Party,482,politician
+West Virginia,482,politician
+US Representative,482,politician
+Democratic Party,483,politician
+Washington,483,politician
+US Representative,483,politician
+Republican Party,484,politician
+Louisiana,484,politician
+US Representative,484,politician
+Democratic Party,485,politician
+Pennsylvania,485,politician
+US Representative,485,politician
+Democratic Party,486,politician
+Ohio,486,politician
+US Representative,486,politician
+Democratic Party,487,politician
+Massachusetts,487,politician
+Senator,487,politician
+Democratic Party,488,politician
+Rhode Island,488,politician
+US Representative,488,politician
+Democratic Party,489,politician
+Massachusetts,489,politician
+Senator,489,politician
+Democratic Party,490,politician
+Michigan,490,politician
+US Representative,490,politician
+Democratic Party,491,politician
+Michigan,491,politician
+US Representative,491,politician
+Democratic Party,492,politician
+Wisconsin,492,politician
+US Representative,492,politician
+Republican Party,493,politician
+New York,493,politician
+US Representative,493,politician
+Republican Party,494,politician
+Georgia,494,politician
+US Representative,494,politician
+Republican Party,495,politician
+Michigan,495,politician
+US Representative,495,politician
+Democratic Party,496,politician
+Wisconsin,496,politician
+Senator,496,politician
+Democratic Party,497,politician
+Ohio,497,politician
+US Representative,497,politician
+Republican Party,498,politician
+Arizona,498,politician
+Senator,498,politician
+Republican Party,499,politician
+Illinois,499,politician
+Senator,499,politician
+Republican Party,500,politician
+Florida,500,politician
+US Representative,500,politician
+Republican Party,501,politician
+Iowa,501,politician
+US Representative,501,politician
+Republican Party,502,politician
+Minnesota,502,politician
+US Representative,502,politician
+Republican Party,503,politician
+New York,503,politician
+US Representative,503,politician
+Democratic Party,504,politician
+Wisconsin,504,politician
+US Representative,504,politician
+Democratic Party,505,politician
+Florida,505,politician
+US Representative,505,politician
+Democratic Party,506,politician
+Minnesota,506,politician
+Senator,506,politician
+Democratic Party,507,politician
+Arizona,507,politician
+US Representative,507,politician
+Democratic Party,508,politician
+North Carolina,508,politician
+US Representative,508,politician
+Democratic Party,509,politician
+Florida,509,politician
+US Representative,509,politician
+Democratic Party,510,politician
+Maryland,510,politician
+US Representative,510,politician
+Democratic Party,511,politician
+Ohio,511,politician
+US Representative,511,politician
+Democratic Party,512,politician
+Delaware,512,politician
+Senator,512,politician
+Democratic Party,513,politician
+Massachusetts,513,politician
+Senator,513,politician
+Democratic Party,514,politician
+Massachusetts,514,politician
+US Representative,514,politician
+Republican Party,515,politician
+Pennsylvania,515,politician
+US Representative,515,politician
+Republican Party,516,politician
+Illinois,516,politician
+US Representative,516,politician
+Democratic Party,517,politician
+Massachusetts,517,politician
+US Representative,517,politician
+Democratic Party,518,politician
+Michigan,518,politician
+US Representative,518,politician
+Democratic Party,519,politician
+Washington,519,politician
+US Representative,519,politician
+Democratic Party,520,politician
+New Hampshire,520,politician
+US Representative,520,politician
+Independent,521,politician
+Maine,521,politician
+Senator,521,politician
+Democratic Party,522,politician
+Virginia,522,politician
+Senator,522,politician
+Democratic Party,523,politician
+Illinois,523,politician
+US Representative,523,politician
+Republican Party,524,politician
+New York,524,politician
+US Representative,524,politician
+Republican Party,525,politician
+California,525,politician
+US Representative,525,politician
+Republican Party,526,politician
+Mississippi,526,politician
+US Representative,526,politician
+Democratic Party,527,politician
+California,527,politician
+US Representative,527,politician
+Democratic Party,528,politician
+Nevada,528,politician
+US Representative,528,politician
+Democratic Party,529,politician
+Illinois,529,politician
+US Representative,529,politician
+Republican Party,530,politician
+Tennessee,530,politician
+US Representative,530,politician
+Republican Party,531,politician
+Louisiana,531,politician
+Senator,531,politician
+Democratic Party,532,politician
+Arkansas,532,politician
+Senator,532,politician
+Democratic Party,533,politician
+Texas,533,politician
+US Representative,533,politician
+Democratic Party,534,politician
+California,534,politician
+US Representative,534,politician
+Republican Party,535,politician
+Iowa,535,politician
+US Representative,535,politician
+Democratic Party,536,politician
+New Jersey,536,politician
+Senator,536,politician
+Democratic Party,537,politician
+Vermont,537,politician
+Senator,537,politician
+Democratic Party,538,politician
+Michigan,538,politician
+Senator,538,politician
+Democratic Party,539,politician
+Michigan,539,politician
+US Representative,539,politician
+Republican Party,540,politician
+California,540,politician
+US Representative,540,politician
+Democratic Party,541,politician
+Georgia,541,politician
+US Representative,541,politician
+Republican Party,542,politician
+Kentucky,542,politician
+US Representative,542,politician
+Independent,543,politician
+Connecticut,543,politician
+Senator,543,politician
+Republican Party,544,politician
+Georgia,544,politician
+US Representative,544,politician
+Democratic Party,545,politician
+California,545,politician
+US Representative,545,politician
+Democratic Party,546,politician
+New York,546,politician
+US Representative,546,politician
+Republican Party,547,politician
+Oklahoma,547,politician
+US Representative,547,politician
+Republican Party,548,politician
+Indiana,548,politician
+Senator,548,politician
+Republican Party,549,politician
+California,549,politician
+US Representative,549,politician
+Democratic Party,550,politician
+Louisiana,550,politician
+Senator,550,politician
+Democratic Party,551,politician
+California,551,politician
+US Representative,551,politician
+Republican Party,552,politician
+Illinois,552,politician
+US Representative,552,politician
+Republican Party,553,politician
+Ohio,553,politician
+US Representative,553,politician
+Republican Party,554,politician
+New Jersey,554,politician
+US Representative,554,politician
+Democratic Party,555,politician
+Connecticut,555,politician
+US Representative,555,politician
+Democratic Party,556,politician
+Rhode Island,556,politician
+US Representative,556,politician
+Democratic Party,557,politician
+Washington,557,politician
+US Representative,557,politician
+Democratic Party,558,politician
+Massachusetts,558,politician
+US Representative,558,politician
+Democratic Party,559,politician
+Illinois,559,politician
+US Representative,559,politician
+Republican Party,560,politician
+Colorado,560,politician
+US Representative,560,politician
+Democratic Party,561,politician
+Iowa,561,politician
+US Representative,561,politician
+Republican Party,562,politician
+Ohio,562,politician
+US Representative,562,politician
+Republican Party,563,politician
+New Jersey,563,politician
+US Representative,563,politician
+Republican Party,564,politician
+New York,564,politician
+US Representative,564,politician
+Republican Party,565,politician
+Missouri,565,politician
+US Representative,565,politician
+Democratic Party,566,politician
+New Mexico,566,politician
+US Representative,566,politician
+Republican Party,567,politician
+Wyoming,567,politician
+US Representative,567,politician
+Republican Party,568,politician
+Florida,568,politician
+Senator,568,politician
+Republican Party,569,politician
+Idaho,569,politician
+US Representative,569,politician
+Republican Party,570,politician
+Louisiana,570,politician
+US Representative,570,politician
+Republican Party,571,politician
+Oklahoma,571,politician
+Senator,571,politician
+Republican Party,572,politician
+Missouri,572,politician
+US Representative,572,politician
+Republican Party,573,politician
+Utah,573,politician
+Senator,573,politician
+Republican Party,574,politician
+California,574,politician
+US Representative,574,politician
+Democratic Party,575,politician
+California,575,politician
+US Representative,575,politician
+Democratic Party,576,politician
+New Mexico,576,politician
+US Representative,576,politician
+Democratic Party,577,politician
+Michigan,577,politician
+US Representative,577,politician
+Democratic Party,578,politician
+California,578,politician
+US Representative,578,politician
+Republican Party,579,politician
+Georgia,579,politician
+US Representative,579,politician
+Republican Party,580,politician
+Utah,580,politician
+US Representative,580,politician
+Republican Party,581,politician
+Illinois,581,politician
+US Representative,581,politician
+Democratic Party,582,politician
+Florida,582,politician
+US Representative,582,politician
+Republican Party,583,politician
+Minnesota,583,politician
+US Representative,583,politician
+Democratic Party,584,politician
+New York,584,politician
+US Representative,584,politician
+Democratic Party,585,politician
+Massachusetts,585,politician
+Senator,585,politician
+Republican Party,586,politician
+Arizona,586,politician
+Senator,586,politician
+Democratic Party,587,politician
+New York,587,politician
+US Representative,587,politician
+Democratic Party,588,politician
+Massachusetts,588,politician
+US Representative,588,politician
+Republican Party,589,politician
+Kentucky,589,politician
+Senator,589,politician
+Republican Party,590,politician
+Louisiana,590,politician
+US Representative,590,politician
+Democratic Party,591,politician
+Washington,591,politician
+US Representative,591,politician
+Republican Party,592,politician
+New York,592,politician
+US Representative,592,politician
+Democratic Party,593,politician
+North Carolina,593,politician
+US Representative,593,politician
+Republican Party,594,politician
+California,594,politician
+US Representative,594,politician
+Democratic Party,595,politician
+New York,595,politician
+US Representative,595,politician
+Democratic Party,596,politician
+Massachusetts,596,politician
+US Representative,596,politician
+Democratic Party,597,politician
+New Jersey,597,politician
+Senator,597,politician
+Republican Party,598,politician
+Florida,598,politician
+US Representative,598,politician
+Democratic Party,599,politician
+Maryland,599,politician
+Senator,599,politician
+Democratic Party,600,politician
+California,600,politician
+US Representative,600,politician
+Democratic Party,601,politician
+California,601,politician
+US Representative,601,politician
+Democratic Party,602,politician
+West Virginia,602,politician
+US Representative,602,politician
+Democratic Party,603,politician
+Virginia,603,politician
+US Representative,603,politician
+Republican Party,604,politician
+Kansas,604,politician
+Senator,604,politician
+Democratic Party,605,politician
+Washington,605,politician
+Senator,605,politician
+Democratic Party,606,politician
+Pennsylvania,606,politician
+US Representative,606,politician
+Republican Party,607,politician
+North Carolina,607,politician
+US Representative,607,politician
+Democratic Party,608,politician
+New York,608,politician
+US Representative,608,politician
+Republican Party,609,politician
+Illinois,609,politician
+US Representative,609,politician
+Republican Party,610,politician
+California,610,politician
+US Representative,610,politician
+Democratic Party,611,politician
+Kansas,611,politician
+US Representative,611,politician
+Democratic Party,612,politician
+Utah,612,politician
+US Representative,612,politician
+Democratic Party,613,politician
+Minnesota,613,politician
+US Representative,613,politician
+Republican Party,614,politician
+Florida,614,politician
+US Representative,614,politician
+Democratic Party,615,politician
+Georgia,615,politician
+US Representative,615,politician
+Republican Party,616,politician
+Michigan,616,politician
+US Representative,616,politician
+Democratic Party,617,politician
+Florida,617,politician
+US Representative,617,politician
+Democratic Party,618,politician
+Maine,618,politician
+US Representative,618,politician
+Republican Party,619,politician
+Michigan,619,politician
+US Representative,619,politician
+Republican Party,620,politician
+Pennsylvania,620,politician
+US Representative,620,politician
+Republican Party,621,politician
+Colorado,621,politician
+US Representative,621,politician
+Republican Party,622,politician
+Alaska,622,politician
+Senator,622,politician
+Democratic Party,623,politician
+North Carolina,623,politician
+US Representative,623,politician
+Republican Party,624,politician
+Florida,624,politician
+US Representative,624,politician
+Republican Party,625,politician
+North Carolina,625,politician
+US Representative,625,politician
+Republican Party,626,politician
+Texas,626,politician
+US Representative,626,politician
+Republican Party,627,politician
+Texas,627,politician
+US Representative,627,politician
+Republican Party,628,politician
+Washington,628,politician
+US Representative,628,politician
+Democratic Party,629,politician
+Wisconsin,629,politician
+US Representative,629,politician
+Democratic Party,630,politician
+Louisiana,630,politician
+US Representative,630,politician
+Republican Party,631,politician
+Florida,631,politician
+Senator,631,politician
+Democratic Party,632,politician
+California,632,politician
+US Representative,632,politician
+Democratic Party,633,politician
+Florida,633,politician
+US Representative,633,politician
+Republican Party,634,politician
+California,634,politician
+US Representative,634,politician
+Democratic Party,635,politician
+California,635,politician
+US Representative,635,politician
+Democratic Party,636,politician
+Arizona,636,politician
+US Representative,636,politician
+Democratic Party,637,politician
+Pennsylvania,637,politician
+US Representative,637,politician
+Democratic Party,638,politician
+Connecticut,638,politician
+Senator,638,politician
+Democratic Party,639,politician
+Missouri,639,politician
+Senator,639,politician
+Democratic Party,640,politician
+New York,640,politician
+US Representative,640,politician
+Democratic Party,641,politician
+Colorado,641,politician
+US Representative,641,politician
+Democratic Party,642,politician
+New York,642,politician
+US Representative,642,politician
+Democratic Party,643,politician
+New York,643,politician
+US Representative,643,politician
+Democratic Party,644,politician
+Idaho,644,politician
+US Representative,644,politician
+Democratic Party,645,politician
+Oregon,645,politician
+Senator,645,politician
+Republican Party,646,politician
+California,646,politician
+US Representative,646,politician
+Democratic Party,647,politician
+New York,647,politician
+US Representative,647,politician
+Republican Party,648,politician
+Pennsylvania,648,politician
+US Representative,648,politician
+Republican Party,649,politician
+West Virginia,649,politician
+US Representative,649,politician
+Republican Party,650,politician
+Pennsylvania,650,politician
+US Representative,650,politician
+Republican Party,651,politician
+South Carolina,651,politician
+US Representative,651,politician
+Democratic Party,652,politician
+West Virginia,652,politician
+Senator,652,politician
+Republican Party,653,politician
+Kentucky,653,politician
+US Representative,653,politician
+Democratic Party,654,politician
+New York,654,politician
+US Representative,654,politician
+Republican Party,655,politician
+North Carolina,655,politician
+US Representative,655,politician
+Democratic Party,656,politician
+New York,656,politician
+US Representative,656,politician
+Republican Party,657,politician
+Indiana,657,politician
+US Representative,657,politician
+Republican Party,658,politician
+Oklahoma,658,politician
+US Representative,658,politician
+Republican Party,659,politician
+New Jersey,659,politician
+US Representative,659,politician
+Republican Party,660,politician
+Michigan,660,politician
+US Representative,660,politician
+Republican Party,661,politician
+West Virginia,661,politician
+US Representative,661,politician
+Democratic Party,662,politician
+Massachusetts,662,politician
+US Representative,662,politician
+Republican Party,663,politician
+Arizona,663,politician
+US Representative,663,politician
+Republican Party,664,politician
+Kansas,664,politician
+US Representative,664,politician
+Republican Party,665,politician
+Florida,665,politician
+US Representative,665,politician
+Democratic Party,666,politician
+Virginia,666,politician
+US Representative,666,politician
+Republican Party,667,politician
+Michigan,667,politician
+US Representative,667,politician
+Democratic Party,668,politician
+Florida,668,politician
+US Representative,668,politician
+Democratic Party,669,politician
+New York,669,politician
+US Representative,669,politician
+Democratic Party,670,politician
+Massachusetts,670,politician
+US Representative,670,politician
+Democratic Party,671,politician
+Florida,671,politician
+Senator,671,politician
+Democratic Party,672,politician
+Minnesota,672,politician
+US Representative,672,politician
+Republican Party,673,politician
+Georgia,673,politician
+US Representative,673,politician
+Democratic Party,674,politician
+California,674,politician
+US Representative,674,politician
+Democratic Party,675,politician
+Nebraska,675,politician
+Senator,675,politician
+Republican Party,676,politician
+California,676,politician
+US Representative,676,politician
+Republican Party,677,politician
+Texas,677,politician
+US Representative,677,politician
+Democratic Party,678,politician
+Virginia,678,politician
+US Representative,678,politician
+Republican Party,679,politician
+South Dakota,679,politician
+US Representative,679,politician
+Republican Party,680,politician
+Florida,680,politician
+US Representative,680,politician
+Republican Party,681,politician
+Mississippi,681,politician
+US Representative,681,politician
+Democratic Party,682,politician
+New Jersey,682,politician
+US Representative,682,politician
+Republican Party,683,politician
+Washington,683,politician
+US Representative,683,politician
+Democratic Party,684,politician
+Minnesota,684,politician
+US Representative,684,politician
+Democratic Party,685,politician
+Wisconsin,685,politician
+US Representative,685,politician
+Democratic Party,686,politician
+Massachusetts,686,politician
+US Representative,686,politician
+Democratic Party,687,politician
+Texas,687,politician
+US Representative,687,politician
+Republican Party,688,politician
+Texas,688,politician
+US Representative,688,politician
+Democratic Party,689,politician
+New York,689,politician
+US Representative,689,politician
+Democratic Party,690,politician
+Texas,690,politician
+US Representative,690,politician
+Democratic Party,691,politician
+Arizona,691,politician
+US Representative,691,politician
+Democratic Party,692,politician
+New Jersey,692,politician
+US Representative,692,politician
+Democratic Party,693,politician
+New Jersey,693,politician
+US Representative,693,politician
+Democratic Party,694,politician
+Arizona,694,politician
+US Representative,694,politician
+Democratic Party,695,politician
+California,695,politician
+US Representative,695,politician
+Democratic Party,696,politician
+Minnesota,696,politician
+US Representative,696,politician
+Republican Party,697,politician
+Pennsylvania,697,politician
+US Representative,697,politician
+Republican Party,698,politician
+Wisconsin,698,politician
+US Representative,698,politician
+Republican Party,699,politician
+Mississippi,699,politician
+US Representative,699,politician
+Republican Party,700,politician
+Pennsylvania,700,politician
+US Representative,700,politician
+Democratic Party,701,politician
+North Dakota,701,politician
+US Representative,701,politician
+Republican Party,702,politician
+Ohio,702,politician
+Senator,702,politician
+Democratic Party,703,politician
+North Carolina,703,politician
+US Representative,703,politician
+Republican Party,704,politician
+Ohio,704,politician
+US Representative,704,politician
+Republican Party,705,politician
+Texas,705,politician
+US Representative,705,politician
+Republican Party,706,politician
+Pennsylvania,706,politician
+US Representative,706,politician
+Republican Party,707,politician
+Florida,707,politician
+US Representative,707,politician
+Republican Party,708,politician
+Indiana,708,politician
+US Representative,708,politician
+Republican Party,709,politician
+New Mexico,709,politician
+US Representative,709,politician
+Republican Party,710,politician
+Nevada,710,politician
+US Representative,710,politician
+Democratic Party,711,politician
+Arkansas,711,politician
+Senator,711,politician
+Republican Party,712,politician
+Georgia,712,politician
+US Representative,712,politician
+Republican Party,713,politician
+Texas,713,politician
+US Representative,713,politician
+Democratic Party,714,politician
+Colorado,714,politician
+US Representative,714,politician
+Republican Party,715,politician
+Minnesota,715,politician
+US Representative,715,politician
+Democratic Party,716,politician
+Michigan,716,politician
+Senator,716,politician
+Democratic Party,717,politician
+Maine,717,politician
+US Representative,717,politician
+Democratic Party,718,politician
+Colorado,718,politician
+US Representative,718,politician
+Republican Party,719,politician
+Florida,719,politician
+US Representative,719,politician
+Democratic Party,720,politician
+Virginia,720,politician
+US Representative,720,politician
+Republican Party,721,politician
+Mississippi,721,politician
+US Representative,721,politician
+Republican Party,722,politician
+Kansas,722,politician
+US Representative,722,politician
+Democratic Party,723,politician
+New Jersey,723,politician
+US Representative,723,politician
+Republican Party,724,politician
+Pennsylvania,724,politician
+US Representative,724,politician
+Republican Party,725,politician
+North Carolina,725,politician
+US Representative,725,politician
+Democratic Party,726,politician
+Wisconsin,726,politician
+US Representative,726,politician
+Democratic Party,727,politician
+California,727,politician
+US Representative,727,politician
+Republican Party,728,politician
+Alabama,728,politician
+US Representative,728,politician
+Republican Party,729,politician
+Maine,729,politician
+US Representative,729,politician
+Republican Party,730,politician
+Georgia,730,politician
+Senator,730,politician
+Democratic Party,731,politician
+California,731,politician
+US Representative,731,politician
+Democratic Party,732,politician
+Illinois,732,politician
+US Representative,732,politician
+Republican Party,733,politician
+Arizona,733,politician
+US Representative,733,politician
+Republican Party,734,politician
+California,734,politician
+US Representative,734,politician
+Democratic Party,735,politician
+West Virginia,735,politician
+US Representative,735,politician
+Republican Party,736,politician
+Minnesota,736,politician
+US Representative,736,politician
+Democratic Party,737,politician
+New York,737,politician
+US Representative,737,politician
+Democratic Party,738,politician
+Rhode Island,738,politician
+Senator,738,politician
+Republican Party,739,politician
+Ohio,739,politician
+US Representative,739,politician
+Democratic Party,740,politician
+Nevada,740,politician
+Senator,740,politician
+Democratic Party,741,politician
+Texas,741,politician
+US Representative,741,politician
+Republican Party,742,politician
+Kansas,742,politician
+Senator,742,politician
+Democratic Party,743,politician
+West Virginia,743,politician
+Senator,743,politician
+Republican Party,744,politician
+Kentucky,744,politician
+US Representative,744,politician
+Republican Party,745,politician
+California,745,politician
+US Representative,745,politician
+Republican Party,746,politician
+Florida,746,politician
+US Representative,746,politician
+Democratic Party,747,politician
+New Jersey,747,politician
+US Representative,747,politician
+Democratic Party,748,politician
+California,748,politician
+US Representative,748,politician
+Republican Party,749,politician
+California,749,politician
+US Representative,749,politician
+Democratic Party,750,politician
+Illinois,750,politician
+US Representative,750,politician
+Democratic Party,751,politician
+Texas,751,politician
+US Representative,751,politician
+Republican Party,752,politician
+New York,752,politician
+US Representative,752,politician
+Republican Party,753,politician
+Wisconsin,753,politician
+US Representative,753,politician
+Republican Party,754,politician
+Montana,754,politician
+US Representative,754,politician
+Democratic Party,755,politician
+Arkansas,755,politician
+US Representative,755,politician
+Republican Party,756,politician
+Arizona,756,politician
+US Representative,756,politician
+Republican Party,757,politician
+Alabama,757,politician
+US Representative,757,politician
+Democratic Party,758,politician
+Maryland,758,politician
+US Representative,758,politician
+Democratic Party,759,politician
+Ohio,759,politician
+US Representative,759,politician
+Republican Party,760,politician
+Washington,760,politician
+US Representative,760,politician
+Republican Party,761,politician
+Illinois,761,politician
+US Representative,761,politician
+Democratic Party,762,politician
+California,762,politician
+US Representative,762,politician
+Republican Party,763,politician
+Tennessee,763,politician
+US Representative,763,politician
+Republican Party,764,politician
+Florida,764,politician
+US Representative,764,politician
+Republican Party,765,politician
+Idaho,765,politician
+Senator,765,politician
+Republican Party,766,politician
+New York,766,politician
+US Representative,766,politician
+Republican Party,767,politician
+Ohio,767,politician
+US Representative,767,politician
+Republican Party,768,politician
+Wisconsin,768,politician
+US Representative,768,politician
+Democratic Party,769,politician
+Louisiana,769,politician
+US Representative,769,politician
+Republican Party,770,politician
+Virginia,770,politician
+US Representative,770,politician
+Republican Party,771,politician
+Florida,771,politician
+US Representative,771,politician
+Republican Party,772,politician
+Alabama,772,politician
+US Representative,772,politician
+Republican Party,773,politician
+Indiana,773,politician
+US Representative,773,politician
+Republican Party,774,politician
+Florida,774,politician
+US Representative,774,politician
+Republican Party,775,politician
+New Jersey,775,politician
+US Representative,775,politician
+Republican Party,776,politician
+South Carolina,776,politician
+US Representative,776,politician
+Republican Party,777,politician
+Pennsylvania,777,politician
+US Representative,777,politician
+Democratic Party,778,politician
+California,778,politician
+US Representative,778,politician
+Republican Party,779,politician
+Texas,779,politician
+US Representative,779,politician
+Democratic Party,780,politician
+New York,780,politician
+US Representative,780,politician
+Republican Party,781,politician
+North Carolina,781,politician
+US Representative,781,politician
+Republican Party,782,politician
+Oklahoma,782,politician
+US Representative,782,politician
+Republican Party,783,politician
+South Dakota,783,politician
+Senator,783,politician
+Democratic Party,784,politician
+Maryland,784,politician
+US Representative,784,politician
+Republican Party,785,politician
+Florida,785,politician
+US Representative,785,politician
+Democratic Party,786,politician
+Nevada,786,politician
+US Representative,786,politician
+Republican Party,787,politician
+Florida,787,politician
+US Representative,787,politician
+Democratic Party,788,politician
+California,788,politician
+US Representative,788,politician
+Independent,789,politician
+Vermont,789,politician
+Senator,789,politician
+Republican Party,790,politician
+South Carolina,790,politician
+US Representative,790,politician
+Republican Party,791,politician
+New Jersey,791,politician
+US Representative,791,politician
+Democratic Party,792,politician
+New York,792,politician
+Senator,792,politician
+Democratic Party,793,politician
+Virginia,793,politician
+US Representative,793,politician
+Republican Party,794,politician
+Wisconsin,794,politician
+US Representative,794,politician
+Democratic Party,795,politician
+New York,795,politician
+US Representative,795,politician
+Republican Party,796,politician
+Texas,796,politician
+US Representative,796,politician
+Republican Party,797,politician
+Arizona,797,politician
+US Representative,797,politician
+Republican Party,798,politician
+Alabama,798,politician
+Senator,798,politician
+Democratic Party,799,politician
+California,799,politician
+US Representative,799,politician
+Republican Party,800,politician
+Illinois,800,politician
+US Representative,800,politician
+Democratic Party,801,politician
+Missouri,801,politician
+US Representative,801,politician
+Democratic Party,802,politician
+New York,802,politician
+US Representative,802,politician
+Democratic Party,803,politician
+Washington,803,politician
+US Representative,803,politician
+Republican Party,804,politician
+New Jersey,804,politician
+US Representative,804,politician
+Republican Party,805,politician
+Texas,805,politician
+US Representative,805,politician
+Republican Party,806,politician
+Maine,806,politician
+Senator,806,politician
+Democratic Party,807,politician
+Arkansas,807,politician
+US Representative,807,politician
+Democratic Party,808,politician
+Pennsylvania,808,politician
+Senator,808,politician
+Democratic Party,809,politician
+South Carolina,809,politician
+US Representative,809,politician
+Democratic Party,810,politician
+Michigan,810,politician
+Senator,810,politician
+Democratic Party,811,politician
+California,811,politician
+US Representative,811,politician
+Republican Party,812,politician
+Florida,812,politician
+US Representative,812,politician
+Republican Party,813,politician
+Alaska,813,politician
+Senator,813,politician
+Democratic Party,814,politician
+Michigan,814,politician
+US Representative,814,politician
+Republican Party,815,politician
+New Hampshire,815,politician
+Senator,815,politician
+Republican Party,816,politician
+Alabama,816,politician
+Senator,816,politician
+Republican Party,817,politician
+Oregon,817,politician
+Senator,817,politician
+Republican Party,818,politician
+Indiana,818,politician
+US Representative,818,politician
+Republican Party,819,politician
+Connecticut,819,politician
+US Representative,819,politician
+Democratic Party,820,politician
+Illinois,820,politician
+US Representative,820,politician
+Republican Party,821,politician
+Idaho,821,politician
+US Representative,821,politician
+Democratic Party,822,politician
+California,822,politician
+US Representative,822,politician
+Democratic Party,823,politician
+California,823,politician
+US Representative,823,politician
+Republican Party,824,politician
+Pennsylvania,824,politician
+US Representative,824,politician
+Republican Party,825,politician
+Oklahoma,825,politician
+US Representative,825,politician
+Democratic Party,826,politician
+California,826,politician
+US Representative,826,politician
+Democratic Party,827,politician
+Georgia,827,politician
+US Representative,827,politician
+Democratic Party,828,politician
+Colorado,828,politician
+US Representative,828,politician
+Democratic Party,829,politician
+Pennsylvania,829,politician
+US Representative,829,politician
+Democratic Party,830,politician
+Colorado,830,politician
+Senator,830,politician
+Republican Party,831,politician
+Ohio,831,politician
+US Representative,831,politician
+Democratic Party,832,politician
+New Jersey,832,politician
+US Representative,832,politician
+Republican Party,833,politician
+Idaho,833,politician
+US Representative,833,politician
+Democratic Party,834,politician
+Maryland,834,politician
+US Representative,834,politician
+Democratic Party,835,politician
+Pennsylvania,835,politician
+US Representative,835,politician
+Democratic Party,836,politician
+New Hampshire,836,politician
+US Representative,836,politician
+Democratic Party,837,politician
+North Carolina,837,politician
+US Representative,837,politician
+Republican Party,838,politician
+Nebraska,838,politician
+US Representative,838,politician
+Democratic Party,839,politician
+Ohio,839,politician
+US Representative,839,politician
+Democratic Party,840,politician
+Ohio,840,politician
+US Representative,840,politician
+Democratic Party,841,politician
+California,841,politician
+US Representative,841,politician
+Republican Party,842,politician
+Louisiana,842,politician
+US Representative,842,politician
+Democratic Party,843,politician
+Michigan,843,politician
+US Representative,843,politician
+Republican Party,844,politician
+Illinois,844,politician
+US Representative,844,politician
+Democratic Party,845,politician
+Oregon,845,politician
+US Representative,845,politician
+Democratic Party,846,politician
+New Hampshire,846,politician
+Senator,846,politician
+Republican Party,847,politician
+Illinois,847,politician
+US Representative,847,politician
+Republican Party,848,politician
+Arizona,848,politician
+US Representative,848,politician
+Republican Party,849,politician
+South Carolina,849,politician
+Senator,849,politician
+Democratic Party,850,politician
+Alabama,850,politician
+US Representative,850,politician
+Republican Party,851,politician
+Florida,851,politician
+US Representative,851,politician
+Republican Party,852,politician
+Ohio,852,politician
+US Representative,852,politician
+Republican Party,853,politician
+Indiana,853,politician
+US Representative,853,politician
+Republican Party,854,politician
+Georgia,854,politician
+US Representative,854,politician
+Democratic Party,855,politician
+Illinois,855,politician
+US Representative,855,politician
+Democratic Party,856,politician
+Arizona,856,politician
+US Representative,856,politician
+Republican Party,857,politician
+Utah,857,politician
+US Representative,857,politician
+Democratic Party,858,politician
+California,858,politician
+US Representative,858,politician
+Democratic Party,859,politician
+Hawaii,859,politician
+Senator,859,politician
+Republican Party,860,politician
+Missouri,860,politician
+US Representative,860,politician
+Republican Party,861,politician
+New York,861,politician
+US Representative,861,politician
+Republican Party,862,politician
+Nebraska,862,politician
+Senator,862,politician
+Republican Party,863,politician
+Alaska,863,politician
+Senator,863,politician
+Republican Party,864,politician
+Pennsylvania,864,politician
+US Representative,864,politician
+Democratic Party,865,politician
+Florida,865,politician
+US Representative,865,politician
+Democratic Party,866,politician
+New York,866,politician
+US Representative,866,politician
+Democratic Party,867,politician
+Tennessee,867,politician
+US Representative,867,politician
+Democratic Party,868,politician
+California,868,politician
+US Representative,868,politician
+Democratic Party,869,politician
+Mississippi,869,politician
+US Representative,869,politician
+Democratic Party,870,politician
+Mississippi,870,politician
+US Representative,870,politician
+Republican Party,871,politician
+Texas,871,politician
+US Representative,871,politician
+Republican Party,872,politician
+South Dakota,872,politician
+Senator,872,politician
+Republican Party,873,politician
+Kansas,873,politician
+US Representative,873,politician
+Democratic Party,874,politician
+Massachusetts,874,politician
+US Representative,874,politician
+Democratic Party,875,politician
+New York,875,politician
+US Representative,875,politician
+Republican Party,876,politician
+Colorado,876,politician
+US Representative,876,politician
+Republican Party,877,politician
+Nebraska,877,politician
+US Representative,877,politician
+Democratic Party,878,politician
+California,878,politician
+US Representative,878,politician
+Republican Party,879,politician
+Pennsylvania,879,politician
+Senator,879,politician
+Republican Party,880,politician
+Ohio,880,politician
+US Representative,880,politician
+Republican Party,881,politician
+Ohio,881,politician
+US Representative,881,politician
+Democratic Party,882,politician
+Montana,882,politician
+Senator,882,politician
+Democratic Party,883,politician
+Massachusetts,883,politician
+US Representative,883,politician
+Democratic Party,884,politician
+New Mexico,884,politician
+US Representative,884,politician
+Republican Party,885,politician
+Pennsylvania,885,politician
+US Representative,885,politician
+Democratic Party,886,politician
+Nevada,886,politician
+US Representative,886,politician
+Democratic Party,887,politician
+New York,887,politician
+US Representative,887,politician
+Republican Party,888,politician
+Colorado,888,politician
+US Representative,888,politician
+Republican Party,889,politician
+New York,889,politician
+US Representative,889,politician
+Democratic Party,890,politician
+California,890,politician
+US Representative,890,politician
+Democratic Party,891,politician
+California,891,politician
+US Representative,891,politician
+Republican Party,892,politician
+Michigan,892,politician
+US Representative,892,politician
+Republican Party,893,politician
+North Carolina,893,politician
+Senator,893,politician
+Republican Party,894,politician
+Virginia,894,politician
+US Representative,894,politician
+Republican Party,895,politician
+New York,895,politician
+US Representative,895,politician
+Republican Party,896,politician
+Michigan,896,politician
+US Representative,896,politician
+Democratic Party,897,politician
+Colorado,897,politician
+Senator,897,politician
+Democratic Party,898,politician
+New Mexico,898,politician
+Senator,898,politician
+Democratic Party,899,politician
+New York,899,politician
+US Representative,899,politician
+Democratic Party,900,politician
+Indiana,900,politician
+US Representative,900,politician
+Republican Party,901,politician
+Ohio,901,politician
+Senator,901,politician
+Republican Party,902,politician
+Louisiana,902,politician
+Senator,902,politician
+Democratic Party,903,politician
+Maryland,903,politician
+Senator,903,politician
+Republican Party,904,politician
+California,904,politician
+US Representative,904,politician
+Democratic Party,905,politician
+California,905,politician
+US Representative,905,politician
+Democratic Party,906,politician
+Texas,906,politician
+US Representative,906,politician
+Democratic Party,907,politician
+Texas,907,politician
+US Representative,907,politician
+Republican Party,908,politician
+New York,908,politician
+US Representative,908,politician
+Republican Party,909,politician
+Tennessee,909,politician
+US Representative,909,politician
+Republican Party,910,politician
+Virginia,910,politician
+Senator,910,politician
+Democratic Party,911,politician
+California,911,politician
+US Representative,911,politician
+Democratic Party,912,politician
+North Carolina,912,politician
+US Representative,912,politician
+Democratic Party,913,politician
+California,913,politician
+US Representative,913,politician
+Republican Party,914,politician
+Florida,914,politician
+US Representative,914,politician
+Republican Party,915,politician
+Illinois,915,politician
+US Representative,915,politician
+Democratic Party,916,politician
+Florida,916,politician
+US Representative,916,politician
+Republican Party,917,politician
+Kentucky,917,politician
+US Representative,917,politician
+Republican Party,918,politician
+Mississippi,918,politician
+Senator,918,politician
+Republican Party,919,politician
+Virginia,919,politician
+US Representative,919,politician
+Democratic Party,920,politician
+California,920,politician
+US Representative,920,politician
+Democratic Party,921,politician
+Oregon,921,politician
+Senator,921,politician
+Democratic Party,922,politician
+Maryland,922,politician
+US Representative,922,politician
+Republican Party,923,politician
+New Mexico,923,politician
+US Representative,923,politician
+Republican Party,924,politician
+Oregon,924,politician
+US Representative,924,politician
+Democratic Party,925,politician
+New York,925,politician
+US Representative,925,politician
+Democratic Party,926,politician
+Oregon,926,politician
+US Representative,926,politician
+Democratic Party,927,politician
+California,927,politician
+US Representative,927,politician
+Republican Party,928,politician
+South Carolina,928,politician
+US Representative,928,politician
+Republican Party,929,politician
+Georgia,929,politician
+US Representative,929,politician
+Democratic Party,930,politician
+Florida,930,politician
+US Representative,930,politician
+Republican Party,931,politician
+Michigan,931,politician
+US Representative,931,politician
+Democratic Party,932,politician
+Minnesota,932,politician
+US Representative,932,politician
+Democratic Party,933,politician
+Vermont,933,politician
+US Representative,933,politician
+Democratic Party,934,politician
+Ohio,934,politician
+US Representative,934,politician
+Democratic Party,935,politician
+Rhode Island,935,politician
+Senator,935,politician
+Republican Party,936,politician
+Virginia,936,politician
+US Representative,936,politician
+Democratic Party,937,politician
+Virginia,937,politician
+Senator,937,politician
+Republican Party,938,politician
+Florida,938,politician
+US Representative,938,politician
+Republican Party,939,politician
+Florida,939,politician
+US Representative,939,politician
+Democratic Party,940,politician
+Florida,940,politician
+US Representative,940,politician
+Republican Party,941,politician
+Arkansas,941,politician
+US Representative,941,politician
+Republican Party,942,politician
+Georgia,942,politician
+US Representative,942,politician
+Republican Party,943,politician
+Illinois,943,politician
+US Representative,943,politician
+Republican Party,944,politician
+Missouri,944,politician
+US Representative,944,politician
+Republican Party,945,politician
+Indiana,945,politician
+US Representative,945,politician
+Republican Party,946,politician
+Texas,946,politician
+US Representative,946,politician
+Republican Party,947,politician
+Ohio,947,politician
+US Representative,947,politician
+Republican Party,948,politician
+Texas,948,politician
+US Representative,948,politician
+Democratic Party,949,politician
+Massachusetts,949,politician
+Senator,949,politician
+Republican Party,950,politician
+North Carolina,950,politician
+US Representative,950,politician
+Republican Party,951,politician
+California,951,politician
+US Representative,951,politician
+Republican Party,952,politician
+Arkansas,952,politician
+US Representative,952,politician
+Democratic Party,953,politician
+New Jersey,953,politician
+US Representative,953,politician
+Republican Party,954,politician
+Florida,954,politician
+US Representative,954,politician
+Republican Party,955,politician
+Alaska,955,politician
+US Representative,955,politician
+Democratic Party,956,politician
+Kentucky,956,politician
+US Representative,956,politician
+Republican Party,957,politician
+Kansas,957,politician
+US Representative,957,politician
+Republican Party,958,politician
+Indiana,958,politician
+Senator,958,politician
+Republican Party,959,politician
+Florida,959,politician
+US Representative,959,politician
+Republican Party,960,politician
+Iowa,960,politician
+US Representative,960,politician
+Republican Party,961,politician
+New York,961,politician
+US Representative,961,politician
+Republican Party,962,politician
+Montana,962,politician
+US Representative,962,politician

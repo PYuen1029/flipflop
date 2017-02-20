@@ -1,0 +1,963 @@
+legal_name,last_name,first_name,temp,tags,flip_background,flop_background
+"Clinton, Hillary Rodham",Clinton,Hillary Rodham,Hillary Rodham Clinton,"Democratic Party, Presidential Candidate, 2016, New York, Senator, Secretary of State",hillary_clinton_red.png,hillary_clinton_blue.png
+"Trump, Donald J.",Trump,Donald J.,Donald J. Trump,"Republican Party, Presidential Candidate, 2016, President-Elect",donald_trump_red.png,donald_trump_blue.png
+"Sanders, Bernard",Sanders,Bernie,Bernie Sanders,"Democratic Party, Presidential Candidate, 2016, Vermont, Senator",bernie_sanders_red.png,bernie_sanders_blue.png
+"Cruz, Rafael Edward 'Ted'",Cruz,Ted,Ted Cruz,"Republican Party, Presidential Candidate, 2016, Texas, Senator",ted_cruz_red.png,ted_cruz_blue.png
+"Carson, Benjamin S.",Carson,Ben,Ben Carson,"Republican Party, Presidential Candidate, 2016",ben_carson_red.png,ben_carson_blue.png
+"Rubio, Marco",Rubio,Marco,Marco Rubio,"Republican Party, Presidential Candidate, 2016, Florida, Senator",marco_rubio_red.png,marco_rubio_blue.png
+"Bush, Jeb",Bush,Jeb,Jeb Bush,"Republican Party, Presidential Candidate, 2016, Florida, Governor",jeb_bush_red.png,jeb_bush_blue.png
+"Kasich, John R.",Kasich,John R.,John R. Kasich,"Republican Party, Presidential Candidate, 2016, Ohio, Governor",john_kasich_red.png,john_kasich_blue.png
+"Paul, Rand",Paul,Rand,Rand Paul,"Republican Party, Presidential Candidate, 2016, Kentucky, Senator",rand_paul_red.png,rand_paul_blue.png
+"Fiorina, Carly",Fiorina,Carly,Carly Fiorina,"Republican Party, Presidential Candidate, 2016",carly_fiorina_red.png,carly_fiorina_blue.png
+"Johnson, Gary",Johnson,Gary,Gary Johnson,"Libertarian Party, Presidential Candidate, 2016, New Mexico, Governor",gary_johnson_red.png,gary_johnson_blue.png
+"Walker, Scott",Walker,Scott,Scott Walker,"Republican Party, Presidential Candidate, 2016, Wisconsin, Governor",scott_walker_red.png,scott_walker_blue.png
+"Christie, Christopher J.",Christie,Chris,Chris Christie,"Republican Party, Presidential Candidate, 2016, New Jersey, Governor",chris_christie_red.png,chris_christie_blue.png
+"Graham, Lindsey O.",Graham,Lindsey O.,Lindsey O. Graham,"Republican Party, Presidential Candidate, 2016, South Carolina, Senator",lindsey_graham_red.png,lindsey_graham_blue.png
+"O'Malley, Martin Joseph",O'Malley,Martin Joseph,Martin Joseph O'Malley,"Democratic Party, Presidential Candidate, 2016, Maryland, Governor",martin_o'malley_red.png,martin_o'malley_blue.png
+"Huckabee, Mike",Huckabee,Mike,Mike Huckabee,"Republican Party, Presidential Candidate, 2016, Arkansas, Governor",mike_huckabee_red.png,mike_huckabee_blue.png
+"Stein, Jill",Stein,Jill,Jill Stein,"Independent, Presidential Candidate, 2016",jill_stein_red.png,jill_stein_blue.png
+"Santorum, Richard J.",Santorum,Rick,Rick Santorum,"Republican Party, Presidential Candidate, 2016, Pennsylvania, Senator",rick_santorum_red.png,rick_santorum_blue.png
+"McMullin, Evan",McMullin,Evan,Evan McMullin,"Independent, Presidential Candidate, 2016",evan_mcmullin_red.png,evan_mcmullin_blue.png
+"Jindal, Bobby",Jindal,Bobby,Bobby Jindal,"Republican Party, Presidential Candidate, 2016, Louisiana, Governor, US Representative",bobby_jindal_red.png,bobby_jindal_blue.png
+"Perry, James R. (Rick)",Perry,Rick,Rick Perry,"Republican Party, Presidential Candidate, 2016, Texas, Governor",rick_perry_red.png,rick_perry_blue.png
+"Lessig, Lawrence",Lessig,Lawrence,Lawrence Lessig,"Democratic Party, Presidential Candidate, 2016",lawrence_lessig_red.png,lawrence_lessig_blue.png
+"Webb, James Henry Jr.",Webb,Jim,Jim Webb,"Democratic Party, Presidential Candidate, 2016, Virginia, Senator",jim_webb_red.png,jim_webb_blue.png
+"Pataki, George E.",Pataki,George E.,George E. Pataki,"Republican Party, Presidential Candidate, 2016, New York, Governor",george_pataki_red.png,george_pataki_blue.png
+"Chafee, Lincoln",Chafee,Lincoln Davenport,Lincoln Davenport Chafee,"Democratic Party, Presidential Candidate 2016, Rhode Island, Governor",lincoln_chafee_red.png,lincoln_chafee_blue.png
+"Gilmore, James S III",Gilmore,James S III,James S III Gilmore,"Republican Party, Presidential Candidate, 2016, Virginia, Governor",james_gilmore_red.png,james_gilmore_blue.png
+Willard Mitt Romney,Romney,Mitt,Mitt Romney,"Republican Party, Presidential Candidate, 2012, 2008",mitt_romney_red.png,mitt_romney_blue.png
+"Bachmann, Michele",Bachmann,Michele,Michele Bachmann,"Republican Party, Presidential Candidate, 2012",michele_bachmann_red.png,michele_bachmann_blue.png
+"Cain, Herman",Cain,Herman,Herman Cain,"Republican Party, Presidential Candidate, 2012",herman_cain_red.png,herman_cain_blue.png
+"Gingrich, Newt",Gingrich,Newt,Newt Gingrich,"Republican Party, Presidential Candidate, 2012",newt_gingrich_red.png,newt_gingrich_blue.png
+"Huntsman, Jon",Huntsman,Jon,Jon Huntsman,"Republican Party, Presidential Candidate, 2012",jon_huntsman_red.png,jon_huntsman_blue.png
+"Obama, Barack",Obama,Barack,Barack Obama,"Democratic Party, Presidential Candidate, 2012",barack_obama_red.png,barack_obama_blue.png
+"Paul, Ron",Paul,Ron,Ron Paul,"Republican Party, Presidential Candidate, 2012",ron_paul_red.png,ron_paul_blue.png
+"Pawlenty, Timothy",Pawlenty,Timothy,Timothy Pawlenty,"Republican Party, Presidential Candidate, 2012",timothy_pawlenty_red.png,timothy_pawlenty_blue.png
+Neil  Abercrombie,Abercrombie,Neil,Neil Abercrombie,"Democratic Party, Hawaii, US Representative",neil_abercrombie_red.png,neil_abercrombie_blue.png
+Gary L. Ackerman,Ackerman,Gary L.,Gary L. Ackerman,"Democratic Party, New York, US Representative",gary_ackerman_red.png,gary_ackerman_blue.png
+Robert B. Aderholt,Aderholt,Robert B.,Robert B. Aderholt,"Republican Party, Alabama, US Representative",robert_aderholt_red.png,robert_aderholt_blue.png
+Daniel Kahikina Akaka,Akaka,Daniel Kahikina,Daniel Kahikina Akaka,"Democratic Party, Hawaii, Senator",daniel_akaka_red.png,daniel_akaka_blue.png
+Wayne A. Allard,Allard,Wayne A.,Wayne A. Allard,"Republican Party, Colorado, Senator",wayne_allard_red.png,wayne_allard_blue.png
+Robert E. Andrews,Andrews,Robert E.,Robert E. Andrews,"Democratic Party, New Jersey, US Representative",robert_andrews_red.png,robert_andrews_blue.png
+Thomas H. Allen,Allen,Thomas H.,Thomas H. Allen,"Democratic Party, Maine, US Representative",thomas_allen_red.png,thomas_allen_blue.png
+W. Todd Akin,Akin,W. Todd,W. Todd Akin,"Republican Party, Missouri, US Representative",w._akin_red.png,w._akin_blue.png
+Lamar  Alexander,Alexander,Lamar,Lamar Alexander,"Republican Party, Tennessee, Senator",lamar_alexander_red.png,lamar_alexander_blue.png
+Rodney M. Alexander,Alexander,Rodney M.,Rodney M. Alexander,"Republican Party, Louisiana, US Representative",rodney_alexander_red.png,rodney_alexander_blue.png
+Jason  Altmire,Altmire,Jason,Jason Altmire,"Democratic Party, Pennsylvania, US Representative",jason_altmire_red.png,jason_altmire_blue.png
+Michael A. Arcuri,Arcuri,Michael A.,Michael A. Arcuri,"Democratic Party, New York, US Representative",michael_arcuri_red.png,michael_arcuri_blue.png
+John H. Adler,Adler,John H.,John H. Adler,"Democratic Party, New Jersey, US Representative",john_adler_red.png,john_adler_blue.png
+Steve  Austria,Austria,Steve,Steve Austria,"Republican Party, Ohio, US Representative",steve_austria_red.png,steve_austria_blue.png
+Sandy  Adams,Adams,Sandy,Sandy Adams,"Republican Party, Florida, US Representative",sandy_adams_red.png,sandy_adams_blue.png
+Justin  Amash,Amash,Justin,Justin Amash,"Republican Party, Michigan, US Representative",justin_amash_red.png,justin_amash_blue.png
+Kelly  Ayotte,Ayotte,Kelly,Kelly Ayotte,"Republican Party, New Hampshire, Senator",kelly_ayotte_red.png,kelly_ayotte_blue.png
+Mark E. Amodei,Amodei,Mark E.,Mark E. Amodei,"Republican Party, Nevada, US Representative",mark_amodei_red.png,mark_amodei_blue.png
+Alma  Adams,Adams,Alma,Alma Adams,"Democratic Party, North Carolina, US Representative",alma_adams_red.png,alma_adams_blue.png
+Pete  Aguilar,Aguilar,Pete,Pete Aguilar,"Democratic Party, California, US Representative",pete_aguilar_red.png,pete_aguilar_blue.png
+Rick  Allen,Allen,Rick,Rick Allen,"Republican Party, Georgia, US Representative",rick_allen_red.png,rick_allen_blue.png
+Ralph  Abraham,Abraham,Ralph,Ralph Abraham,"Republican Party, Louisiana, US Representative",ralph_abraham_red.png,ralph_abraham_blue.png
+Jodey  Arrington,Arrington,Jodey,Jodey Arrington,"Republican Party, Texas, US Representative",jodey_arrington_red.png,jodey_arrington_blue.png
+Spencer Thomas Bachus,Bachus,Spencer Thomas,Spencer Thomas Bachus,"Republican Party, Alabama, US Representative",spencer_bachus_red.png,spencer_bachus_blue.png
+Richard Hugh Baker,Baker,Richard Hugh,Richard Hugh Baker,"Republican Party, Louisiana, US Representative",richard_baker_red.png,richard_baker_blue.png
+Roscoe G. Bartlett,Bartlett,Roscoe G.,Roscoe G. Bartlett,"Republican Party, Maryland, US Representative",roscoe_bartlett_red.png,roscoe_bartlett_blue.png
+Joe Linus Barton,Barton,Joe Linus,Joe Linus Barton,"Republican Party, Texas, US Representative",joe_barton_red.png,joe_barton_blue.png
+Charles F. Bass,Bass,Charles F.,Charles F. Bass,"Republican Party, New Hampshire, US Representative",charles_bass_red.png,charles_bass_blue.png
+Max S. Baucus,Baucus,Max S.,Max S. Baucus,"Democratic Party, Montana, Senator",max_baucus_red.png,max_baucus_blue.png
+Xavier  Becerra,Becerra,Xavier,Xavier Becerra,"Democratic Party, California, US Representative",xavier_becerra_red.png,xavier_becerra_blue.png
+Robert F. Bennett,Bennett,Robert F.,Robert F. Bennett,"Republican Party, Utah, Senator",robert_bennett_red.png,robert_bennett_blue.png
+Howard L. Berman,Berman,Howard L.,Howard L. Berman,"Democratic Party, California, US Representative",howard_berman_red.png,howard_berman_blue.png
+Robert Marion Berry,Berry,Robert Marion,Robert Marion Berry,"Democratic Party, Arkansas, US Representative",robert_berry_red.png,robert_berry_blue.png
+Joseph R. Biden,Biden,Joseph R.,Joseph R. Biden,"Democratic Party, Delaware, Senator",joseph_biden_red.png,joseph_biden_blue.png
+Brian P. Bilbray,Bilbray,Brian P.,Brian P. Bilbray,"Republican Party, California, US Representative",brian_bilbray_red.png,brian_bilbray_blue.png
+Jeff  Bingaman,Bingaman,Jeff,Jeff Bingaman,"Democratic Party, New Mexico, Senator",jeff_bingaman_red.png,jeff_bingaman_blue.png
+Sanford D. Bishop,Bishop,Sanford D.,Sanford D. Bishop,"Democratic Party, Georgia, US Representative",sanford_bishop_red.png,sanford_bishop_blue.png
+Earl  Blumenauer,Blumenauer,Earl,Earl Blumenauer,"Democratic Party, Oregon, US Representative",earl_blumenauer_red.png,earl_blumenauer_blue.png
+Roy  Blunt,Blunt,Roy,Roy Blunt,"Republican Party, Missouri, Senator",roy_blunt_red.png,roy_blunt_blue.png
+John A. Boehner,Boehner,John A.,John A. Boehner,"Republican Party, Ohio, US Representative",john_boehner_red.png,john_boehner_blue.png
+Christopher S. Bond,Bond,Christopher S.,Christopher S. Bond,"Republican Party, Missouri, Senator",christopher_bond_red.png,christopher_bond_blue.png
+Leonard L. Boswell,Boswell,Leonard L.,Leonard L. Boswell,"Democratic Party, Iowa, US Representative",leonard_boswell_red.png,leonard_boswell_blue.png
+Frederick C. Boucher,Boucher,Frederick C.,Frederick C. Boucher,"Democratic Party, Virginia, US Representative",frederick_boucher_red.png,frederick_boucher_blue.png
+Barbara  Boxer,Boxer,Barbara,Barbara Boxer,"Democratic Party, California, Senator",barbara_boxer_red.png,barbara_boxer_blue.png
+Allen  Boyd,Boyd,Allen,Allen Boyd,"Democratic Party, Florida, US Representative",allen_boyd_red.png,allen_boyd_blue.png
+Kevin P. Brady,Brady,Kevin P.,Kevin P. Brady,"Republican Party, Texas, US Representative",kevin_brady_red.png,kevin_brady_blue.png
+Corrine  Brown,Brown,Corrine,Corrine Brown,"Democratic Party, Florida, US Representative",corrine_brown_red.png,corrine_brown_blue.png
+Sherrod  Brown,Brown,Sherrod,Sherrod Brown,"Democratic Party, Ohio, Senator",sherrod_brown_red.png,sherrod_brown_blue.png
+Samuel D. Brownback,Brownback,Samuel D.,Samuel D. Brownback,"Republican Party, Kansas, Senator",samuel_brownback_red.png,samuel_brownback_blue.png
+Jim  Bunning,Bunning,Jim,Jim Bunning,"Republican Party, Kentucky, Senator",jim_bunning_red.png,jim_bunning_blue.png
+Richard M. Burr,Burr,Richard M.,Richard M. Burr,"Republican Party, North Carolina, Senator",richard_burr_red.png,richard_burr_blue.png
+Dan L. Burton,Burton,Dan L.,Dan L. Burton,"Republican Party, Indiana, US Representative",dan_burton_red.png,dan_burton_blue.png
+Stephen E. Buyer,Buyer,Stephen E.,Stephen E. Buyer,"Republican Party, Indiana, US Representative",stephen_buyer_red.png,stephen_buyer_blue.png
+Robert C. Byrd,Byrd,Robert C.,Robert C. Byrd,"Democratic Party, West Virginia, Senator",robert_byrd_red.png,robert_byrd_blue.png
+Robert Alan Brady,Brady,Robert Alan,Robert Alan Brady,"Democratic Party, Pennsylvania, US Representative",robert_brady_red.png,robert_brady_blue.png
+Mary Whitaker Bono Mack,Bono Mack,Mary Whitaker,Mary Whitaker Bono Mack,"Republican Party, California, US Representative",mary_bono_mack_red.png,mary_bono_mack_blue.png
+Brian N. Baird,Baird,Brian N.,Brian N. Baird,"Democratic Party, Washington, US Representative",brian_baird_red.png,brian_baird_blue.png
+Tammy  Baldwin,Baldwin,Tammy,Tammy Baldwin,"Democratic Party, Wisconsin, Senator",tammy_baldwin_red.png,tammy_baldwin_blue.png
+Shelley  Berkley,Berkley,Shelley,Shelley Berkley,"Democratic Party, Nevada, US Representative",shelley_berkley_red.png,shelley_berkley_blue.png
+Judy  Biggert,Biggert,Judy,Judy Biggert,"Republican Party, Illinois, US Representative",judy_biggert_red.png,judy_biggert_blue.png
+Evan  Bayh,Bayh,Evan,Evan Bayh,"Democratic Party, Indiana, Senator",evan_bayh_red.png,evan_bayh_blue.png
+Joe  Baca,Baca,Joe,Joe Baca,"Democratic Party, California, US Representative",joe_baca_red.png,joe_baca_blue.png
+Henry E. Brown,Brown,Henry E.,Henry E. Brown,"Republican Party, South Carolina, US Representative",henry_brown_red.png,henry_brown_blue.png
+John  Boozman,Boozman,John,John Boozman,"Republican Party, Arkansas, Senator",john_boozman_red.png,john_boozman_blue.png
+James Gresham Barrett,Barrett,James Gresham,James Gresham Barrett,"Republican Party, South Carolina, US Representative",james_barrett_red.png,james_barrett_blue.png
+Timothy H. Bishop,Bishop,Timothy H.,Timothy H. Bishop,"Democratic Party, New York, US Representative",timothy_bishop_red.png,timothy_bishop_blue.png
+Marsha W. Blackburn,Blackburn,Marsha W.,Marsha W. Blackburn,"Republican Party, Tennessee, US Representative",marsha_blackburn_red.png,marsha_blackburn_blue.png
+Jo  Bonner,Bonner,Jo,Jo Bonner,"Republican Party, Alabama, US Representative",jo_bonner_red.png,jo_bonner_blue.png
+Virginia  Brown-Waite,Brown-Waite,Virginia,Virginia Brown-Waite,"Republican Party, Florida, US Representative",virginia_brown-waite_red.png,virginia_brown-waite_blue.png
+Michael C. Burgess,Burgess,Michael C.,Michael C. Burgess,"Republican Party, Texas, US Representative",michael_burgess_red.png,michael_burgess_blue.png
+Rob  Bishop,Bishop,Rob,Rob Bishop,"Republican Party, Utah, US Representative",rob_bishop_red.png,rob_bishop_blue.png
+George Kenneth Butterfield,Butterfield,George Kenneth,George Kenneth Butterfield,"Democratic Party, North Carolina, US Representative",george_butterfield_red.png,george_butterfield_blue.png
+John  Barrow,Barrow,John,John Barrow,"Democratic Party, Georgia, US Representative",john_barrow_red.png,john_barrow_blue.png
+Melissa L. Bean,Bean,Melissa L.,Melissa L. Bean,"Democratic Party, Illinois, US Representative",melissa_bean_red.png,melissa_bean_blue.png
+Dan  Boren,Boren,Dan,Dan Boren,"Democratic Party, Oklahoma, US Representative",dan_boren_red.png,dan_boren_blue.png
+Charles W. Boustany,Boustany,Charles W.,Charles W. Boustany,"Republican Party, Louisiana, US Representative",charles_boustany_red.png,charles_boustany_blue.png
+Michele Marie Bachmann,Bachmann,Michele Marie,Michele Marie Bachmann,"Republican Party, Minnesota, US Representative",michele_bachmann_red.png,michele_bachmann_blue.png
+Gus M. Bilirakis,Bilirakis,Gus M.,Gus M. Bilirakis,"Republican Party, Florida, US Representative",gus_bilirakis_red.png,gus_bilirakis_blue.png
+Nancy E. Boyda,Boyda,Nancy E.,Nancy E. Boyda,"Democratic Party, Kansas, US Representative",nancy_boyda_red.png,nancy_boyda_blue.png
+Bruce L. Braley,Braley,Bruce L.,Bruce L. Braley,"Democratic Party, Iowa, US Representative",bruce_braley_red.png,bruce_braley_blue.png
+Vern  Buchanan,Buchanan,Vern,Vern Buchanan,"Republican Party, Florida, US Representative",vern_buchanan_red.png,vern_buchanan_blue.png
+John A. Barrasso,Barrasso,John A.,John A. Barrasso,"Republican Party, Wyoming, Senator",john_barrasso_red.png,john_barrasso_blue.png
+Paul C. Broun,Broun,Paul C.,Paul C. Broun,"Republican Party, Georgia, US Representative",paul_broun_red.png,paul_broun_blue.png
+John A. Boccieri,Boccieri,John A.,John A. Boccieri,"Democratic Party, Ohio, US Representative",john_boccieri_red.png,john_boccieri_blue.png
+Bobby  Bright,Bright,Bobby,Bobby Bright,"Democratic Party, Alabama, US Representative",bobby_bright_red.png,bobby_bright_blue.png
+Mark  Begich,Begich,Mark,Mark Begich,"Democratic Party, Alaska, Senator",mark_begich_red.png,mark_begich_blue.png
+Roland  Burris,Burris,Roland,Roland Burris,"Democratic Party, Illinois, Senator",roland_burris_red.png,roland_burris_blue.png
+Michael F. Bennet,Bennet,Michael F.,Michael F. Bennet,"Democratic Party, Colorado, Senator",michael_bennet_red.png,michael_bennet_blue.png
+Scott  Brown,Brown,Scott,Scott Brown,"Republican Party, Massachusetts, Senator",scott_brown_red.png,scott_brown_blue.png
+Lou  Barletta,Barletta,Lou,Lou Barletta,"Republican Party, Pennsylvania, US Representative",lou_barletta_red.png,lou_barletta_blue.png
+Karen  Bass,Bass,Karen,Karen Bass,"Democratic Party, California, US Representative",karen_bass_red.png,karen_bass_blue.png
+Dan  Benishek,Benishek,Dan,Dan Benishek,"Republican Party, Michigan, US Representative",dan_benishek_red.png,dan_benishek_blue.png
+Rick  Berg,Berg,Rick,Rick Berg,"Republican Party, North Dakota, US Representative",rick_berg_red.png,rick_berg_blue.png
+Diane  Black,Black,Diane,Diane Black,"Republican Party, Tennessee, US Representative",diane_black_red.png,diane_black_blue.png
+Mo  Brooks,Brooks,Mo,Mo Brooks,"Republican Party, Alabama, US Representative",mo_brooks_red.png,mo_brooks_blue.png
+Larry  Bucshon,Bucshon,Larry,Larry Bucshon,"Republican Party, Indiana, US Representative",larry_bucshon_red.png,larry_bucshon_blue.png
+Ann Marie  Buerkle,Buerkle,Ann Marie,Ann Marie Buerkle,"Republican Party, New York, US Representative",ann_buerkle_red.png,ann_buerkle_blue.png
+Richard  Blumenthal,Blumenthal,Richard,Richard Blumenthal,"Democratic Party, Connecticut, Senator",richard_blumenthal_red.png,richard_blumenthal_blue.png
+Suzanne  Bonamici,Bonamici,Suzanne,Suzanne Bonamici,"Democratic Party, Oregon, US Representative",suzanne_bonamici_red.png,suzanne_bonamici_blue.png
+Ron  Barber,Barber,Ron,Ron Barber,"Democratic Party, Arizona, US Representative",ron_barber_red.png,ron_barber_blue.png
+Joyce  Beatty,Beatty,Joyce,Joyce Beatty,"Democratic Party, Ohio, US Representative",joyce_beatty_red.png,joyce_beatty_blue.png
+Garland  Barr,Barr,Garland,Garland Barr,"Republican Party, Kentucky, US Representative",garland_barr_red.png,garland_barr_blue.png
+Jim  Bridenstine,Bridenstine,Jim,Jim Bridenstine,"Republican Party, Oklahoma, US Representative",jim_bridenstine_red.png,jim_bridenstine_blue.png
+Susan W. Brooks,Brooks,Susan W.,Susan W. Brooks,"Republican Party, Indiana, US Representative",susan_brooks_red.png,susan_brooks_blue.png
+Julia  Brownley,Brownley,Julia,Julia Brownley,"Democratic Party, California, US Representative",julia_brownley_red.png,julia_brownley_blue.png
+Cheri  Bustos,Bustos,Cheri,Cheri Bustos,"Democratic Party, Illinois, US Representative",cheri_bustos_red.png,cheri_bustos_blue.png
+Ami  Bera,Bera,Ami,Ami Bera,"Democratic Party, California, US Representative",ami_bera_red.png,ami_bera_blue.png
+Cory Anthony Booker,Booker,Cory Anthony,Cory Anthony Booker,"Democratic Party, New Jersey, Senator",cory_booker_red.png,cory_booker_blue.png
+Bradley  Byrne,Byrne,Bradley,Bradley Byrne,"Republican Party, Alabama, US Representative",bradley_byrne_red.png,bradley_byrne_blue.png
+David Alan Brat,Brat,David Alan,David Alan Brat,"Republican Party, Virginia, US Representative",david_brat_red.png,david_brat_blue.png
+Brian  Babin,Babin,Brian,Brian Babin,"Republican Party, Texas, US Representative",brian_babin_red.png,brian_babin_blue.png
+Donald  Beyer,Beyer,Donald,Donald Beyer,"Democratic Party, Virginia, US Representative",donald_beyer_red.png,donald_beyer_blue.png
+Mike  Bishop,Bishop,Mike,Mike Bishop,"Republican Party, Michigan, US Representative",mike_bishop_red.png,mike_bishop_blue.png
+Rod  Blum,Blum,Rod,Rod Blum,"Republican Party, Iowa, US Representative",rod_blum_red.png,rod_blum_blue.png
+Mike  Bost,Bost,Mike,Mike Bost,"Republican Party, Illinois, US Representative",mike_bost_red.png,mike_bost_blue.png
+Brendan  Boyle,Boyle,Brendan,Brendan Boyle,"Democratic Party, Pennsylvania, US Representative",brendan_boyle_red.png,brendan_boyle_blue.png
+Ken  Buck,Buck,Ken,Ken Buck,"Republican Party, Colorado, US Representative",ken_buck_red.png,ken_buck_blue.png
+Don  Bacon,Bacon,Don,Don Bacon,"Republican Party, Nebraska, US Representative",don_bacon_red.png,don_bacon_blue.png
+Jim  Banks,Banks,Jim,Jim Banks,"Republican Party, Indiana, US Representative",jim_banks_red.png,jim_banks_blue.png
+Nanette  Barrag√°n,Barrag√°n,Nanette,Nanette Barrag√°n,"Democratic Party, California, US Representative",nanette_barrag„°n_red.png,nanette_barrag„°n_blue.png
+Jack  Bergman,Bergman,Jack,Jack Bergman,"Republican Party, Michigan, US Representative",jack_bergman_red.png,jack_bergman_blue.png
+Andy  Biggs,Biggs,Andy,Andy Biggs,"Republican Party, Arizona, US Representative",andy_biggs_red.png,andy_biggs_blue.png
+Lisa  Blunt Rochester,Blunt Rochester,Lisa,Lisa Blunt Rochester,"Democratic Party, Delaware, US Representative",lisa_blunt_rochester_red.png,lisa_blunt_rochester_blue.png
+Anthony  Brown,Brown,Anthony,Anthony Brown,"Democratic Party, Maryland, US Representative",anthony_brown_red.png,anthony_brown_blue.png
+Ted  Budd,Budd,Ted,Ted Budd,"Republican Party, North Carolina, US Representative",ted_budd_red.png,ted_budd_blue.png
+Ken S. Calvert,Calvert,Ken S.,Ken S. Calvert,"Republican Party, California, US Representative",ken_calvert_red.png,ken_calvert_blue.png
+Dave Lee Camp,Camp,Dave Lee,Dave Lee Camp,"Republican Party, Michigan, US Representative",dave_camp_red.png,dave_camp_blue.png
+Christopher B. Cannon,Cannon,Christopher B.,Christopher B. Cannon,"Republican Party, Utah, US Representative",christopher_cannon_red.png,christopher_cannon_blue.png
+Maria  Cantwell,Cantwell,Maria,Maria Cantwell,"Democratic Party, Washington, Senator",maria_cantwell_red.png,maria_cantwell_blue.png
+Benjamin L. Cardin,Cardin,Benjamin L.,Benjamin L. Cardin,"Democratic Party, Maryland, Senator",benjamin_cardin_red.png,benjamin_cardin_blue.png
+Thomas Richard Carper,Carper,Thomas Richard,Thomas Richard Carper,"Democratic Party, Delaware, Senator",thomas_carper_red.png,thomas_carper_blue.png
+Julia M. Carson,Carson,Julia M.,Julia M. Carson,"Democratic Party, Indiana, US Representative",julia_carson_red.png,julia_carson_blue.png
+Michael N. Castle,Castle,Michael N.,Michael N. Castle,"Republican Party, Delaware, US Representative",michael_castle_red.png,michael_castle_blue.png
+Steve J. Chabot,Chabot,Steve J.,Steve J. Chabot,"Republican Party, Ohio, US Representative",steve_chabot_red.png,steve_chabot_blue.png
+Saxby  Chambliss,Chambliss,Saxby,Saxby Chambliss,"Republican Party, Georgia, Senator",saxby_chambliss_red.png,saxby_chambliss_blue.png
+James E. Clyburn,Clyburn,James E.,James E. Clyburn,"Democratic Party, South Carolina, US Representative",james_clyburn_red.png,james_clyburn_blue.png
+Daniel Ray Coats,Coats,Daniel Ray,Daniel Ray Coats,"Republican Party, Indiana, Senator",daniel_coats_red.png,daniel_coats_blue.png
+Howard  Coble,Coble,Howard,Howard Coble,"Republican Party, North Carolina, US Representative",howard_coble_red.png,howard_coble_blue.png
+Thomas A. Coburn,Coburn,Thomas A.,Thomas A. Coburn,"Republican Party, Oklahoma, Senator",thomas_coburn_red.png,thomas_coburn_blue.png
+Thad  Cochran,Cochran,Thad,Thad Cochran,"Republican Party, Mississippi, Senator",thad_cochran_red.png,thad_cochran_blue.png
+Kent Kent Conrad,Conrad,Kent Kent,Kent Kent Conrad,"Democratic Party, North Dakota, Senator",kent_conrad_red.png,kent_conrad_blue.png
+John  Conyers,Conyers,John,John Conyers,"Democratic Party, Michigan, US Representative",john_conyers_red.png,john_conyers_blue.png
+Jim  Cooper,Cooper,Jim,Jim Cooper,"Democratic Party, Tennessee, US Representative",jim_cooper_red.png,jim_cooper_blue.png
+Jerry F. Costello,Costello,Jerry F.,Jerry F. Costello,"Democratic Party, Illinois, US Representative",jerry_costello_red.png,jerry_costello_blue.png
+Larry E. Craig,Craig,Larry E.,Larry E. Craig,"Republican Party, Idaho, Senator",larry_craig_red.png,larry_craig_blue.png
+Robert E. Cramer,Cramer,Robert E.,Robert E. Cramer,"Democratic Party, Alabama, US Representative",robert_cramer_red.png,robert_cramer_blue.png
+Michael D. Crapo,Crapo,Michael D.,Michael D. Crapo,"Republican Party, Idaho, Senator",michael_crapo_red.png,michael_crapo_blue.png
+Barbara L. Cubin,Cubin,Barbara L.,Barbara L. Cubin,"Republican Party, Wyoming, US Representative",barbara_cubin_red.png,barbara_cubin_blue.png
+Elijah E. Cummings,Cummings,Elijah E.,Elijah E. Cummings,"Democratic Party, Maryland, US Representative",elijah_cummings_red.png,elijah_cummings_blue.png
+Susan M. Collins,Collins,Susan M.,Susan M. Collins,"Republican Party, Maine, Senator",susan_collins_red.png,susan_collins_blue.png
+Lois  Capps,Capps,Lois,Lois Capps,"Democratic Party, California, US Representative",lois_capps_red.png,lois_capps_blue.png
+Michael E. Capuano,Capuano,Michael E.,Michael E. Capuano,"Democratic Party, Massachusetts, US Representative",michael_capuano_red.png,michael_capuano_blue.png
+Joseph  Crowley,Crowley,Joseph,Joseph Crowley,"Democratic Party, New York, US Representative",joseph_crowley_red.png,joseph_crowley_blue.png
+Ander  Crenshaw,Crenshaw,Ander,Ander Crenshaw,"Republican Party, Florida, US Representative",ander_crenshaw_red.png,ander_crenshaw_blue.png
+Eric I. Cantor,Cantor,Eric I.,Eric I. Cantor,"Republican Party, Virginia, US Representative",eric_cantor_red.png,eric_cantor_blue.png
+Shelley Moore Capito,Capito,Shelley Moore,Shelley Moore Capito,"Republican Party, West Virginia, Senator",shelley_capito_red.png,shelley_capito_blue.png
+John Abney Culberson,Culberson,John Abney,John Abney Culberson,"Republican Party, Texas, US Representative",john_culberson_red.png,john_culberson_blue.png
+Wm. Lacy Clay,Clay,Wm. Lacy,Wm. Lacy Clay,"Democratic Party, Missouri, US Representative",wm._clay_red.png,wm._clay_blue.png
+Dennis A. Cardoza,Cardoza,Dennis A.,Dennis A. Cardoza,"Democratic Party, California, US Representative",dennis_cardoza_red.png,dennis_cardoza_blue.png
+John R. Carter,Carter,John R.,John R. Carter,"Republican Party, Texas, US Representative",john_carter_red.png,john_carter_blue.png
+Tom  Cole,Cole,Tom,Tom Cole,"Republican Party, Oklahoma, US Representative",tom_cole_red.png,tom_cole_blue.png
+John  Cornyn,Cornyn,John,John Cornyn,"Republican Party, Texas, Senator",john_cornyn_red.png,john_cornyn_blue.png
+Norm  Coleman,Coleman,Norm,Norm Coleman,"Republican Party, Minnesota, Senator",norm_coleman_red.png,norm_coleman_blue.png
+Ben  Chandler,Chandler,Ben,Ben Chandler,"Democratic Party, Kentucky, US Representative",ben_chandler_red.png,ben_chandler_blue.png
+Jim  Costa,Costa,Jim,Jim Costa,"Democratic Party, California, US Representative",jim_costa_red.png,jim_costa_blue.png
+Russ  Carnahan,Carnahan,Russ,Russ Carnahan,"Democratic Party, Missouri, US Representative",russ_carnahan_red.png,russ_carnahan_blue.png
+Emanuel  Cleaver,Cleaver,Emanuel,Emanuel Cleaver,"Democratic Party, Missouri, US Representative",emanuel_cleaver_red.png,emanuel_cleaver_blue.png
+K. Michael Conaway,Conaway,K. Michael,K. Michael Conaway,"Republican Party, Texas, US Representative",k._conaway_red.png,k._conaway_blue.png
+Henry  Cuellar,Cuellar,Henry,Henry Cuellar,"Democratic Party, Texas, US Representative",henry_cuellar_red.png,henry_cuellar_blue.png
+John Bayard Taylor Campbell,Campbell,John Bayard Taylor,John Bayard Taylor Campbell,"Republican Party, California, US Representative",john_campbell_red.png,john_campbell_blue.png
+Christopher P. Carney,Carney,Christopher P.,Christopher P. Carney,"Democratic Party, Pennsylvania, US Representative",christopher_carney_red.png,christopher_carney_blue.png
+Kathy  Castor,Castor,Kathy,Kathy Castor,"Democratic Party, Florida, US Representative",kathy_castor_red.png,kathy_castor_blue.png
+Yvette D. Clarke,Clarke,Yvette D.,Yvette D. Clarke,"Democratic Party, New York, US Representative",yvette_clarke_red.png,yvette_clarke_blue.png
+Steve  Cohen,Cohen,Steve,Steve Cohen,"Democratic Party, Tennessee, US Representative",steve_cohen_red.png,steve_cohen_blue.png
+Joe  Courtney,Courtney,Joe,Joe Courtney,"Democratic Party, Connecticut, US Representative",joe_courtney_red.png,joe_courtney_blue.png
+Robert P. Casey,Casey,Robert P.,Robert P. Casey,"Democratic Party, Pennsylvania, Senator",robert_casey_red.png,robert_casey_blue.png
+Bob  Corker,Corker,Bob,Bob Corker,"Republican Party, Tennessee, Senator",bob_corker_red.png,bob_corker_blue.png
+Andr√©  Carson,Carson,Andr√©,Andr√© Carson,"Democratic Party, Indiana, US Representative",andr„©_carson_red.png,andr„©_carson_blue.png
+Donald J. Cazayoux,Cazayoux,Donald J.,Donald J. Cazayoux,"Democratic Party, Louisiana, US Representative",donald_cazayoux_red.png,donald_cazayoux_blue.png
+Travis W. Childers,Childers,Travis W.,Travis W. Childers,"Democratic Party, Mississippi, US Representative",travis_childers_red.png,travis_childers_blue.png
+Bill  Cassidy,Cassidy,Bill,Bill Cassidy,"Republican Party, Louisiana, Senator",bill_cassidy_red.png,bill_cassidy_blue.png
+Jason  Chaffetz,Chaffetz,Jason,Jason Chaffetz,"Republican Party, Utah, US Representative",jason_chaffetz_red.png,jason_chaffetz_blue.png
+Mike  Coffman,Coffman,Mike,Mike Coffman,"Republican Party, Colorado, US Representative",mike_coffman_red.png,mike_coffman_blue.png
+Gerald E. Connolly,Connolly,Gerald E.,Gerald E. Connolly,"Democratic Party, Virginia, US Representative",gerald_connolly_red.png,gerald_connolly_blue.png
+Anh  Cao,Cao,Anh,Anh Cao,"Republican Party, Louisiana, US Representative",anh_cao_red.png,anh_cao_blue.png
+Judy M. Chu,Chu,Judy M.,Judy M. Chu,"Democratic Party, California, US Representative",judy_chu_red.png,judy_chu_blue.png
+Mark S. Critz,Critz,Mark S.,Mark S. Critz,"Democratic Party, Pennsylvania, US Representative",mark_critz_red.png,mark_critz_blue.png
+Francisco  Canseco,Canseco,Francisco,Francisco Canseco,"Republican Party, Texas, US Representative",francisco_canseco_red.png,francisco_canseco_blue.png
+John C. Carney,Carney,John C.,John C. Carney,"Democratic Party, Delaware, US Representative",john_carney_red.png,john_carney_blue.png
+David N. Cicilline,Cicilline,David N.,David N. Cicilline,"Democratic Party, Rhode Island, US Representative",david_cicilline_red.png,david_cicilline_blue.png
+Hansen  Clarke,Clarke,Hansen,Hansen Clarke,"Democratic Party, Michigan, US Representative",hansen_clarke_red.png,hansen_clarke_blue.png
+Chip  Cravaack,Cravaack,Chip,Chip Cravaack,"Republican Party, Minnesota, US Representative",chip_cravaack_red.png,chip_cravaack_blue.png
+Eric A. Crawford,Crawford,Eric A.,Eric A. Crawford,"Republican Party, Arkansas, US Representative",eric_crawford_red.png,eric_crawford_blue.png
+Chris Andrew Coons,Coons,Chris Andrew,Chris Andrew Coons,"Democratic Party, Delaware, Senator",chris_coons_red.png,chris_coons_blue.png
+Matthew A. Cartwright,Cartwright,Matthew A.,Matthew A. Cartwright,"Democratic Party, Pennsylvania, US Representative",matthew_cartwright_red.png,matthew_cartwright_blue.png
+Joaquin  Castro,Castro,Joaquin,Joaquin Castro,"Democratic Party, Texas, US Representative",joaquin_castro_red.png,joaquin_castro_blue.png
+Chris  Collins,Collins,Chris,Chris Collins,"Republican Party, New York, US Representative",chris_collins_red.png,chris_collins_blue.png
+Doug  Collins,Collins,Doug,Doug Collins,"Republican Party, Georgia, US Representative",doug_collins_red.png,doug_collins_blue.png
+Paul  Cook,Cook,Paul,Paul Cook,"Republican Party, California, US Representative",paul_cook_red.png,paul_cook_blue.png
+Tom  Cotton,Cotton,Tom,Tom Cotton,"Republican Party, Arkansas, Senator",tom_cotton_red.png,tom_cotton_blue.png
+Kevin  Cramer,Cramer,Kevin,Kevin Cramer,"Republican Party, North Dakota, US Representative",kevin_cramer_red.png,kevin_cramer_blue.png
+Tony  C√°rdenas,C√°rdenas,Tony,Tony C√°rdenas,"Democratic Party, California, US Representative",tony_c„°rdenas_red.png,tony_c„°rdenas_blue.png
+Katherine M. Clark,Clark,Katherine M.,Katherine M. Clark,"Democratic Party, Massachusetts, US Representative",katherine_clark_red.png,katherine_clark_blue.png
+Buddy  Carter,Carter,Buddy,Buddy Carter,"Republican Party, Georgia, US Representative",buddy_carter_red.png,buddy_carter_blue.png
+Barbara  Comstock,Comstock,Barbara,Barbara Comstock,"Republican Party, Virginia, US Representative",barbara_comstock_red.png,barbara_comstock_blue.png
+Ryan  Costello,Costello,Ryan,Ryan Costello,"Republican Party, Pennsylvania, US Representative",ryan_costello_red.png,ryan_costello_blue.png
+Carlos  Curbelo,Curbelo,Carlos,Carlos Curbelo,"Republican Party, Florida, US Representative",carlos_curbelo_red.png,carlos_curbelo_blue.png
+James  Comer,Comer,James,James Comer,"Republican Party, Kentucky, US Representative",james_comer_red.png,james_comer_blue.png
+Liz  Cheney,Cheney,Liz,Liz Cheney,"Republican Party, Wyoming, US Representative",liz_cheney_red.png,liz_cheney_blue.png
+J.  Correa,Correa,J.,J. Correa,"Democratic Party, California, US Representative",j._correa_red.png,j._correa_blue.png
+Charlie  Crist,Crist,Charlie,Charlie Crist,"Democratic Party, Florida, US Representative",charlie_crist_red.png,charlie_crist_blue.png
+Salud  Carbajal,Carbajal,Salud,Salud Carbajal,"Democratic Party, California, US Representative",salud_carbajal_red.png,salud_carbajal_blue.png
+Catherine  Cortez Masto,Cortez Masto,Catherine,Catherine Cortez Masto,"Democratic Party, Nevada, Senator",catherine_cortez_masto_red.png,catherine_cortez_masto_blue.png
+Danny K. Davis,Davis,Danny K.,Danny K. Davis,"Democratic Party, Illinois, US Representative",danny_davis_red.png,danny_davis_blue.png
+Thomas M. Davis,Davis,Thomas M.,Thomas M. Davis,"Republican Party, Virginia, US Representative",thomas_davis_red.png,thomas_davis_blue.png
+Nathan  Deal,Deal,Nathan,Nathan Deal,"Republican Party, Georgia, US Representative",nathan_deal_red.png,nathan_deal_blue.png
+Peter A. DeFazio,DeFazio,Peter A.,Peter A. DeFazio,"Democratic Party, Oregon, US Representative",peter_defazio_red.png,peter_defazio_blue.png
+Diana L. DeGette,DeGette,Diana L.,Diana L. DeGette,"Democratic Party, Colorado, US Representative",diana_degette_red.png,diana_degette_blue.png
+William D. Delahunt,Delahunt,William D.,William D. Delahunt,"Democratic Party, Massachusetts, US Representative",william_delahunt_red.png,william_delahunt_blue.png
+Rosa L. DeLauro,DeLauro,Rosa L.,Rosa L. DeLauro,"Democratic Party, Connecticut, US Representative",rosa_delauro_red.png,rosa_delauro_blue.png
+Lincoln  Diaz-Balart,Diaz-Balart,Lincoln,Lincoln Diaz-Balart,"Republican Party, Florida, US Representative",lincoln_diaz-balart_red.png,lincoln_diaz-balart_blue.png
+Norman D. Dicks,Dicks,Norman D.,Norman D. Dicks,"Democratic Party, Washington, US Representative",norman_dicks_red.png,norman_dicks_blue.png
+John D. Dingell,Dingell,John D.,John D. Dingell,"Democratic Party, Michigan, US Representative",john_dingell_red.png,john_dingell_blue.png
+Christopher J. Dodd,Dodd,Christopher J.,Christopher J. Dodd,"Democratic Party, Connecticut, Senator",christopher_dodd_red.png,christopher_dodd_blue.png
+Lloyd A. Doggett,Doggett,Lloyd A.,Lloyd A. Doggett,"Democratic Party, Texas, US Representative",lloyd_doggett_red.png,lloyd_doggett_blue.png
+Pete V. Domenici,Domenici,Pete V.,Pete V. Domenici,"Republican Party, New Mexico, Senator",pete_domenici_red.png,pete_domenici_blue.png
+John T. Doolittle,Doolittle,John T.,John T. Doolittle,"Republican Party, California, US Representative",john_doolittle_red.png,john_doolittle_blue.png
+Byron L. Dorgan,Dorgan,Byron L.,Byron L. Dorgan,"Democratic Party, North Dakota, Senator",byron_dorgan_red.png,byron_dorgan_blue.png
+Michael F. Doyle,Doyle,Michael F.,Michael F. Doyle,"Democratic Party, Pennsylvania, US Representative",michael_doyle_red.png,michael_doyle_blue.png
+David T. Dreier,Dreier,David T.,David T. Dreier,"Republican Party, California, US Representative",david_dreier_red.png,david_dreier_blue.png
+John J. Duncan,Duncan,John J.,John J. Duncan,"Republican Party, Tennessee, US Representative",john_duncan_red.png,john_duncan_blue.png
+Richard J. Durbin,Durbin,Richard J.,Richard J. Durbin,"Democratic Party, Illinois, Senator",richard_durbin_red.png,richard_durbin_blue.png
+Jim W. DeMint,DeMint,Jim W.,Jim W. DeMint,"Republican Party, South Carolina, Senator",jim_demint_red.png,jim_demint_blue.png
+Jo Ann S. Davis,Davis,Jo Ann S.,Jo Ann S. Davis,"Republican Party, Virginia, US Representative",jo_davis_red.png,jo_davis_blue.png
+Susan A. Davis,Davis,Susan A.,Susan A. Davis,"Democratic Party, California, US Representative",susan_davis_red.png,susan_davis_blue.png
+Lincoln  Davis,Davis,Lincoln,Lincoln Davis,"Democratic Party, Tennessee, US Representative",lincoln_davis_red.png,lincoln_davis_blue.png
+Mario  Diaz-Balart,Diaz-Balart,Mario,Mario Diaz-Balart,"Republican Party, Florida, US Representative",mario_diaz-balart_red.png,mario_diaz-balart_blue.png
+Elizabeth H. Dole,Dole,Elizabeth H.,Elizabeth H. Dole,"Republican Party, North Carolina, Senator",elizabeth_dole_red.png,elizabeth_dole_blue.png
+Artur  Davis,Davis,Artur,Artur Davis,"Democratic Party, Alabama, US Representative",artur_davis_red.png,artur_davis_blue.png
+Geoff  Davis,Davis,Geoff,Geoff Davis,"Republican Party, Kentucky, US Representative",geoff_davis_red.png,geoff_davis_blue.png
+Charles W. Dent,Dent,Charles W.,Charles W. Dent,"Republican Party, Pennsylvania, US Representative",charles_dent_red.png,charles_dent_blue.png
+Thelma D. Drake,Drake,Thelma D.,Thelma D. Drake,"Republican Party, Virginia, US Representative",thelma_drake_red.png,thelma_drake_blue.png
+David  Davis,Davis,David,David Davis,"Republican Party, Tennessee, US Representative",david_davis_red.png,david_davis_blue.png
+Joe  Donnelly,Donnelly,Joe,Joe Donnelly,"Democratic Party, Indiana, Senator",joe_donnelly_red.png,joe_donnelly_blue.png
+Kathleen A. Dahlkemper,Dahlkemper,Kathleen A.,Kathleen A. Dahlkemper,"Democratic Party, Pennsylvania, US Representative",kathleen_dahlkemper_red.png,kathleen_dahlkemper_blue.png
+Steve  Driehaus,Driehaus,Steve,Steve Driehaus,"Democratic Party, Ohio, US Representative",steve_driehaus_red.png,steve_driehaus_blue.png
+Theodore E. Deutch,Deutch,Theodore E.,Theodore E. Deutch,"Democratic Party, Florida, US Representative",theodore_deutch_red.png,theodore_deutch_blue.png
+Charles  Djou,Djou,Charles,Charles Djou,"Republican Party, Hawaii, US Representative",charles_djou_red.png,charles_djou_blue.png
+Jeff  Denham,Denham,Jeff,Jeff Denham,"Republican Party, California, US Representative",jeff_denham_red.png,jeff_denham_blue.png
+Bob  Dold,Dold,Bob,Bob Dold,"Republican Party, Illinois, US Representative",bob_dold_red.png,bob_dold_blue.png
+Sean P. Duffy,Duffy,Sean P.,Sean P. Duffy,"Republican Party, Wisconsin, US Representative",sean_duffy_red.png,sean_duffy_blue.png
+Jeff  Duncan,Duncan,Jeff,Jeff Duncan,"Republican Party, South Carolina, US Representative",jeff_duncan_red.png,jeff_duncan_blue.png
+Scott  DesJarlais,DesJarlais,Scott,Scott DesJarlais,"Republican Party, Tennessee, US Representative",scott_desjarlais_red.png,scott_desjarlais_blue.png
+Suzan K. DelBene,DelBene,Suzan K.,Suzan K. DelBene,"Democratic Party, Washington, US Representative",suzan_delbene_red.png,suzan_delbene_blue.png
+Steve  Daines,Daines,Steve,Steve Daines,"Republican Party, Montana, Senator",steve_daines_red.png,steve_daines_blue.png
+Rodney  Davis,Davis,Rodney,Rodney Davis,"Republican Party, Illinois, US Representative",rodney_davis_red.png,rodney_davis_blue.png
+John K. Delaney,Delaney,John K.,John K. Delaney,"Democratic Party, Maryland, US Representative",john_delaney_red.png,john_delaney_blue.png
+Ron  DeSantis,DeSantis,Ron,Ron DeSantis,"Republican Party, Florida, US Representative",ron_desantis_red.png,ron_desantis_blue.png
+Tammy  Duckworth,Duckworth,Tammy,Tammy Duckworth,"Democratic Party, Illinois, Senator",tammy_duckworth_red.png,tammy_duckworth_blue.png
+Mark  DeSaulnier,DeSaulnier,Mark,Mark DeSaulnier,"Democratic Party, California, US Representative",mark_desaulnier_red.png,mark_desaulnier_blue.png
+Debbie  Dingell,Dingell,Debbie,Debbie Dingell,"Democratic Party, Michigan, US Representative",debbie_dingell_red.png,debbie_dingell_blue.png
+Daniel M. Donovan,Donovan,Daniel M.,Daniel M. Donovan,"Republican Party, New York, US Representative",daniel_donovan_red.png,daniel_donovan_blue.png
+Warren  Davidson,Davidson,Warren,Warren Davidson,"Republican Party, Ohio, US Representative",warren_davidson_red.png,warren_davidson_blue.png
+Val  Demings,Demings,Val,Val Demings,"Democratic Party, Florida, US Representative",val_demings_red.png,val_demings_blue.png
+Neal  Dunn,Dunn,Neal,Neal Dunn,"Republican Party, Florida, US Representative",neal_dunn_red.png,neal_dunn_blue.png
+Thomas  Edwards,Edwards,Thomas,Thomas Edwards,"Democratic Party, Texas, US Representative",thomas_edwards_red.png,thomas_edwards_blue.png
+Vernon J. Ehlers,Ehlers,Vernon J.,Vernon J. Ehlers,"Republican Party, Michigan, US Representative",vernon_ehlers_red.png,vernon_ehlers_blue.png
+Jo Ann H. Emerson,Emerson,Jo Ann H.,Jo Ann H. Emerson,"Republican Party, Missouri, US Representative",jo_emerson_red.png,jo_emerson_blue.png
+Eliot L. Engel,Engel,Eliot L.,Eliot L. Engel,"Democratic Party, New York, US Representative",eliot_engel_red.png,eliot_engel_blue.png
+Philip  English,English,Philip,Philip English,"Republican Party, Pennsylvania, US Representative",philip_english_red.png,philip_english_blue.png
+John Eric Ensign,Ensign,John Eric,John Eric Ensign,"Republican Party, Nevada, Senator",john_ensign_red.png,john_ensign_blue.png
+Anna G. Eshoo,Eshoo,Anna G.,Anna G. Eshoo,"Democratic Party, California, US Representative",anna_eshoo_red.png,anna_eshoo_blue.png
+Bob R. Etheridge,Etheridge,Bob R.,Bob R. Etheridge,"Democratic Party, North Carolina, US Representative",bob_etheridge_red.png,bob_etheridge_blue.png
+Terry  Everett,Everett,Terry,Terry Everett,"Republican Party, Alabama, US Representative",terry_everett_red.png,terry_everett_blue.png
+Michael B. Enzi,Enzi,Michael B.,Michael B. Enzi,"Republican Party, Wyoming, Senator",michael_enzi_red.png,michael_enzi_blue.png
+Rahm  Emanuel,Emanuel,Rahm,Rahm Emanuel,"Democratic Party, Illinois, US Representative",rahm_emanuel_red.png,rahm_emanuel_blue.png
+Keith Maurice Ellison,Ellison,Keith Maurice,Keith Maurice Ellison,"Democratic Party, Minnesota, US Representative",keith_ellison_red.png,keith_ellison_blue.png
+Brad  Ellsworth,Ellsworth,Brad,Brad Ellsworth,"Democratic Party, Indiana, US Representative",brad_ellsworth_red.png,brad_ellsworth_blue.png
+Donna F. Edwards,Edwards,Donna F.,Donna F. Edwards,"Democratic Party, Maryland, US Representative",donna_edwards_red.png,donna_edwards_blue.png
+Renee L. Ellmers,Ellmers,Renee L.,Renee L. Ellmers,"Republican Party, North Carolina, US Representative",renee_ellmers_red.png,renee_ellmers_blue.png
+Elizabeth H. Esty,Esty,Elizabeth H.,Elizabeth H. Esty,"Democratic Party, Connecticut, US Representative",elizabeth_esty_red.png,elizabeth_esty_blue.png
+Tom  Emmer,Emmer,Tom,Tom Emmer,"Republican Party, Minnesota, US Representative",tom_emmer_red.png,tom_emmer_blue.png
+Joni  Ernst,Ernst,Joni,Joni Ernst,"Republican Party, Iowa, Senator",joni_ernst_red.png,joni_ernst_blue.png
+Dwight  Evans,Evans,Dwight,Dwight Evans,"Democratic Party, Pennsylvania, US Representative",dwight_evans_red.png,dwight_evans_blue.png
+Adriano  Espaillat,Espaillat,Adriano,Adriano Espaillat,"Democratic Party, New York, US Representative",adriano_espaillat_red.png,adriano_espaillat_blue.png
+Sam  Farr,Farr,Sam,Sam Farr,"Democratic Party, California, US Representative",sam_farr_red.png,sam_farr_blue.png
+Chaka  Fattah,Fattah,Chaka,Chaka Fattah,"Democratic Party, Pennsylvania, US Representative",chaka_fattah_red.png,chaka_fattah_blue.png
+Russell D. Feingold,Feingold,Russell D.,Russell D. Feingold,"Democratic Party, Wisconsin, Senator",russell_feingold_red.png,russell_feingold_blue.png
+Dianne  Feinstein,Feinstein,Dianne,Dianne Feinstein,"Democratic Party, California, Senator",dianne_feinstein_red.png,dianne_feinstein_blue.png
+Bob  Filner,Filner,Bob,Bob Filner,"Democratic Party, California, US Representative",bob_filner_red.png,bob_filner_blue.png
+Barney  Frank,Frank,Barney,Barney Frank,"Democratic Party, Massachusetts, US Representative",barney_frank_red.png,barney_frank_blue.png
+Rodney P. Frelinghuysen,Frelinghuysen,Rodney P.,Rodney P. Frelinghuysen,"Republican Party, New Jersey, US Representative",rodney_frelinghuysen_red.png,rodney_frelinghuysen_blue.png
+Vito J. Fossella,Fossella,Vito J.,Vito J. Fossella,"Republican Party, New York, US Representative",vito_fossella_red.png,vito_fossella_blue.png
+Michael  Ferguson,Ferguson,Michael,Michael Ferguson,"Republican Party, New Jersey, US Representative",michael_ferguson_red.png,michael_ferguson_blue.png
+Jeff  Flake,Flake,Jeff,Jeff Flake,"Republican Party, Arizona, Senator",jeff_flake_red.png,jeff_flake_blue.png
+J. Randy Forbes,Forbes,J. Randy,J. Randy Forbes,"Republican Party, Virginia, US Representative",j._forbes_red.png,j._forbes_blue.png
+Tom C. Feeney,Feeney,Tom C.,Tom C. Feeney,"Republican Party, Florida, US Representative",tom_feeney_red.png,tom_feeney_blue.png
+Trent  Franks,Franks,Trent,Trent Franks,"Republican Party, Arizona, US Representative",trent_franks_red.png,trent_franks_blue.png
+Jeff Lane Fortenberry,Fortenberry,Jeff Lane,Jeff Lane Fortenberry,"Republican Party, Nebraska, US Representative",jeff_fortenberry_red.png,jeff_fortenberry_blue.png
+Virginia  Foxx,Foxx,Virginia,Virginia Foxx,"Republican Party, North Carolina, US Representative",virginia_foxx_red.png,virginia_foxx_blue.png
+Michael G. Fitzpatrick,Fitzpatrick,Michael G.,Michael G. Fitzpatrick,"Republican Party, Pennsylvania, US Representative",michael_fitzpatrick_red.png,michael_fitzpatrick_blue.png
+Mary  Fallin,Fallin,Mary,Mary Fallin,"Republican Party, Oklahoma, US Representative",mary_fallin_red.png,mary_fallin_blue.png
+Bill  Foster,Foster,Bill,Bill Foster,"Democratic Party, Illinois, US Representative",bill_foster_red.png,bill_foster_blue.png
+Marcia L. Fudge,Fudge,Marcia L.,Marcia L. Fudge,"Democratic Party, Ohio, US Representative",marcia_fudge_red.png,marcia_fudge_blue.png
+John  Fleming,Fleming,John,John Fleming,"Republican Party, Louisiana, US Representative",john_fleming_red.png,john_fleming_blue.png
+Alan Stuart Franken,Franken,Alan Stuart,Alan Stuart Franken,"Democratic Party, Minnesota, Senator",alan_franken_red.png,alan_franken_blue.png
+Stephen Lee Fincher,Fincher,Stephen Lee,Stephen Lee Fincher,"Republican Party, Tennessee, US Representative",stephen_fincher_red.png,stephen_fincher_blue.png
+Charles J. Fleischmann,Fleischmann,Charles J.,Charles J. Fleischmann,"Republican Party, Tennessee, US Representative",charles_fleischmann_red.png,charles_fleischmann_blue.png
+Blake  Farenthold,Farenthold,Blake,Blake Farenthold,"Republican Party, Texas, US Representative",blake_farenthold_red.png,blake_farenthold_blue.png
+Bill  Flores,Flores,Bill,Bill Flores,"Republican Party, Texas, US Representative",bill_flores_red.png,bill_flores_blue.png
+Lois  Frankel,Frankel,Lois,Lois Frankel,"Democratic Party, Florida, US Representative",lois_frankel_red.png,lois_frankel_blue.png
+Deb  Fischer,Fischer,Deb,Deb Fischer,"Republican Party, Nebraska, Senator",deb_fischer_red.png,deb_fischer_blue.png
+John  Faso,Faso,John,John Faso,"Republican Party, New York, US Representative",john_faso_red.png,john_faso_blue.png
+A.  Ferguson,Ferguson,A.,A. Ferguson,"Republican Party, Georgia, US Representative",a._ferguson_red.png,a._ferguson_blue.png
+Brian  Fitzpatrick,Fitzpatrick,Brian,Brian Fitzpatrick,"Republican Party, Pennsylvania, US Representative",brian_fitzpatrick_red.png,brian_fitzpatrick_blue.png
+Elton W. Gallegly,Gallegly,Elton W.,Elton W. Gallegly,"Republican Party, California, US Representative",elton_gallegly_red.png,elton_gallegly_blue.png
+Wayne T. Gilchrest,Gilchrest,Wayne T.,Wayne T. Gilchrest,"Republican Party, Maryland, US Representative",wayne_gilchrest_red.png,wayne_gilchrest_blue.png
+Paul E. Gillmor,Gillmor,Paul E.,Paul E. Gillmor,"Republican Party, Ohio, US Representative",paul_gillmor_red.png,paul_gillmor_blue.png
+Virgil H. Goode,Goode,Virgil H.,Virgil H. Goode,"Republican Party, Virginia, US Representative",virgil_goode_red.png,virgil_goode_blue.png
+Bob W. Goodlatte,Goodlatte,Bob W.,Bob W. Goodlatte,"Republican Party, Virginia, US Representative",bob_goodlatte_red.png,bob_goodlatte_blue.png
+Barton Jennings Gordon,Gordon,Barton Jennings,Barton Jennings Gordon,"Democratic Party, Tennessee, US Representative",barton_gordon_red.png,barton_gordon_blue.png
+Kay  Granger,Granger,Kay,Kay Granger,"Republican Party, Texas, US Representative",kay_granger_red.png,kay_granger_blue.png
+Charles E. Grassley,Grassley,Charles E.,Charles E. Grassley,"Republican Party, Iowa, Senator",charles_grassley_red.png,charles_grassley_blue.png
+Gene Eugene Green,Green,Gene Eugene,Gene Eugene Green,"Democratic Party, Texas, US Representative",gene_green_red.png,gene_green_blue.png
+Judd A. Gregg,Gregg,Judd A.,Judd A. Gregg,"Republican Party, New Hampshire, Senator",judd_gregg_red.png,judd_gregg_blue.png
+Luis V. Guti√©rrez,Guti√©rrez,Luis V.,Luis V. Guti√©rrez,"Democratic Party, Illinois, US Representative",luis_guti„©rrez_red.png,luis_guti„©rrez_blue.png
+Charles A. Gonzalez,Gonzalez,Charles A.,Charles A. Gonzalez,"Democratic Party, Texas, US Representative",charles_gonzalez_red.png,charles_gonzalez_blue.png
+Sam B. Graves,Graves,Sam B.,Sam B. Graves,"Republican Party, Missouri, US Representative",sam_graves_red.png,sam_graves_blue.png
+Scott  Garrett,Garrett,Scott,Scott Garrett,"Republican Party, New Jersey, US Representative",scott_garrett_red.png,scott_garrett_blue.png
+Jim  Gerlach,Gerlach,Jim,Jim Gerlach,"Republican Party, Pennsylvania, US Representative",jim_gerlach_red.png,jim_gerlach_blue.png
+Phil  Gingrey,Gingrey,Phil,Phil Gingrey,"Republican Party, Georgia, US Representative",phil_gingrey_red.png,phil_gingrey_blue.png
+Ra√∫l M. Grijalva,Grijalva,Ra√∫l M.,Ra√∫l M. Grijalva,"Democratic Party, Arizona, US Representative",ra„∫l_grijalva_red.png,ra„∫l_grijalva_blue.png
+Louie B. Gohmert,Gohmert,Louie B.,Louie B. Gohmert,"Republican Party, Texas, US Representative",louie_gohmert_red.png,louie_gohmert_blue.png
+Al  Green,Green,Al,Al Green,"Democratic Party, Texas, US Representative",al_green_red.png,al_green_blue.png
+Gabrielle  Giffords,Giffords,Gabrielle,Gabrielle Giffords,"Democratic Party, Arizona, US Representative",gabrielle_giffords_red.png,gabrielle_giffords_blue.png
+Kirsten E. Gillibrand,Gillibrand,Kirsten E.,Kirsten E. Gillibrand,"Democratic Party, New York, Senator",kirsten_gillibrand_red.png,kirsten_gillibrand_blue.png
+Alan  Grayson,Grayson,Alan,Alan Grayson,"Democratic Party, Florida, US Representative",alan_grayson_red.png,alan_grayson_blue.png
+Parker  Griffith,Griffith,Parker,Parker Griffith,"Republican Party, Alabama, US Representative",parker_griffith_red.png,parker_griffith_blue.png
+Brett  Guthrie,Guthrie,Brett,Brett Guthrie,"Republican Party, Kentucky, US Representative",brett_guthrie_red.png,brett_guthrie_blue.png
+John  Garamendi,Garamendi,John,John Garamendi,"Democratic Party, California, US Representative",john_garamendi_red.png,john_garamendi_blue.png
+Tom  Graves,Graves,Tom,Tom Graves,"Republican Party, Georgia, US Representative",tom_graves_red.png,tom_graves_blue.png
+Carte P. Goodwin,Goodwin,Carte P.,Carte P. Goodwin,"Democratic Party, West Virginia, Senator",carte_goodwin_red.png,carte_goodwin_blue.png
+Cory  Gardner,Gardner,Cory,Cory Gardner,"Republican Party, Colorado, Senator",cory_gardner_red.png,cory_gardner_blue.png
+Bob  Gibbs,Gibbs,Bob,Bob Gibbs,"Republican Party, Ohio, US Representative",bob_gibbs_red.png,bob_gibbs_blue.png
+Christopher P. Gibson,Gibson,Christopher P.,Christopher P. Gibson,"Republican Party, New York, US Representative",christopher_gibson_red.png,christopher_gibson_blue.png
+Paul A. Gosar,Gosar,Paul A.,Paul A. Gosar,"Republican Party, Arizona, US Representative",paul_gosar_red.png,paul_gosar_blue.png
+Trey  Gowdy,Gowdy,Trey,Trey Gowdy,"Republican Party, South Carolina, US Representative",trey_gowdy_red.png,trey_gowdy_blue.png
+Tim  Griffin,Griffin,Tim,Tim Griffin,"Republican Party, Arkansas, US Representative",tim_griffin_red.png,tim_griffin_blue.png
+H. Morgan Griffith,Griffith,H. Morgan,H. Morgan Griffith,"Republican Party, Virginia, US Representative",h._griffith_red.png,h._griffith_blue.png
+Michael G. Grimm,Grimm,Michael G.,Michael G. Grimm,"Republican Party, New York, US Representative",michael_grimm_red.png,michael_grimm_blue.png
+Frank  Guinta,Guinta,Frank,Frank Guinta,"Republican Party, New Hampshire, US Representative",frank_guinta_red.png,frank_guinta_blue.png
+Tulsi  Gabbard,Gabbard,Tulsi,Tulsi Gabbard,"Democratic Party, Hawaii, US Representative",tulsi_gabbard_red.png,tulsi_gabbard_blue.png
+Ruben  Gallego,Gallego,Ruben,Ruben Gallego,"Democratic Party, Arizona, US Representative",ruben_gallego_red.png,ruben_gallego_blue.png
+Glenn  Grothman,Grothman,Glenn,Glenn Grothman,"Republican Party, Wisconsin, US Representative",glenn_grothman_red.png,glenn_grothman_blue.png
+Garret  Graves,Graves,Garret,Garret Graves,"Republican Party, Louisiana, US Representative",garret_graves_red.png,garret_graves_blue.png
+Matt  Gaetz,Gaetz,Matt,Matt Gaetz,"Republican Party, Florida, US Representative",matt_gaetz_red.png,matt_gaetz_blue.png
+Mike  Gallagher,Gallagher,Mike,Mike Gallagher,"Republican Party, Wisconsin, US Representative",mike_gallagher_red.png,mike_gallagher_blue.png
+Thomas  Garrett,Garrett,Thomas,Thomas Garrett,"Republican Party, Virginia, US Representative",thomas_garrett_red.png,thomas_garrett_blue.png
+Vicente  Gonzalez,Gonzalez,Vicente,Vicente Gonzalez,"Democratic Party, Texas, US Representative",vicente_gonzalez_red.png,vicente_gonzalez_blue.png
+Josh  Gottheimer,Gottheimer,Josh,Josh Gottheimer,"Democratic Party, New Jersey, US Representative",josh_gottheimer_red.png,josh_gottheimer_blue.png
+Ralph M. Hall,Hall,Ralph M.,Ralph M. Hall,"Republican Party, Texas, US Representative",ralph_hall_red.png,ralph_hall_blue.png
+Thomas  Harkin,Harkin,Thomas,Thomas Harkin,"Democratic Party, Iowa, Senator",thomas_harkin_red.png,thomas_harkin_blue.png
+Jane  Harman,Harman,Jane,Jane Harman,"Democratic Party, California, US Representative",jane_harman_red.png,jane_harman_blue.png
+J. Dennis Hastert,Hastert,J. Dennis,J. Dennis Hastert,"Republican Party, Illinois, US Representative",j._hastert_red.png,j._hastert_blue.png
+Alcee L. Hastings,Hastings,Alcee L.,Alcee L. Hastings,"Democratic Party, Florida, US Representative",alcee_hastings_red.png,alcee_hastings_blue.png
+Doc  Hastings,Hastings,Doc,Doc Hastings,"Republican Party, Washington, US Representative",doc_hastings_red.png,doc_hastings_blue.png
+Orrin G. Hatch,Hatch,Orrin G.,Orrin G. Hatch,"Republican Party, Utah, Senator",orrin_hatch_red.png,orrin_hatch_blue.png
+Walter  Herger,Herger,Walter,Walter Herger,"Republican Party, California, US Representative",walter_herger_red.png,walter_herger_blue.png
+Maurice D. Hinchey,Hinchey,Maurice D.,Maurice D. Hinchey,"Democratic Party, New York, US Representative",maurice_hinchey_red.png,maurice_hinchey_blue.png
+Rub√©n E. Hinojosa,Hinojosa,Rub√©n E.,Rub√©n E. Hinojosa,"Democratic Party, Texas, US Representative",rub„©n_hinojosa_red.png,rub„©n_hinojosa_blue.png
+David Lee Hobson,Hobson,David Lee,David Lee Hobson,"Republican Party, Ohio, US Representative",david_hobson_red.png,david_hobson_blue.png
+Peter  Hoekstra,Hoekstra,Peter,Peter Hoekstra,"Republican Party, Michigan, US Representative",peter_hoekstra_red.png,peter_hoekstra_blue.png
+Tim  Holden,Holden,Tim,Tim Holden,"Democratic Party, Pennsylvania, US Representative",tim_holden_red.png,tim_holden_blue.png
+Darlene  Hooley,Hooley,Darlene,Darlene Hooley,"Democratic Party, Oregon, US Representative",darlene_hooley_red.png,darlene_hooley_blue.png
+Steny H. Hoyer,Hoyer,Steny H.,Steny H. Hoyer,"Democratic Party, Maryland, US Representative",steny_hoyer_red.png,steny_hoyer_blue.png
+Kenny C. Hulshof,Hulshof,Kenny C.,Kenny C. Hulshof,"Republican Party, Missouri, US Representative",kenny_hulshof_red.png,kenny_hulshof_blue.png
+Duncan L. Hunter,Hunter,Duncan L.,Duncan L. Hunter,"Republican Party, California, US Representative",duncan_hunter_red.png,duncan_hunter_blue.png
+Kay Bailey Hutchison,Hutchison,Kay Bailey,Kay Bailey Hutchison,"Republican Party, Texas, Senator",kay_hutchison_red.png,kay_hutchison_blue.png
+Charles T. Hagel,Hagel,Charles T.,Charles T. Hagel,"Republican Party, Nebraska, Senator",charles_hagel_red.png,charles_hagel_blue.png
+Robin C. Hayes,Hayes,Robin C.,Robin C. Hayes,"Republican Party, North Carolina, US Representative",robin_hayes_red.png,robin_hayes_blue.png
+Baron P. Hill,Hill,Baron P.,Baron P. Hill,"Democratic Party, Indiana, US Representative",baron_hill_red.png,baron_hill_blue.png
+Rush D. Holt,Holt,Rush D.,Rush D. Holt,"Democratic Party, New Jersey, US Representative",rush_holt_red.png,rush_holt_blue.png
+Michael M. Honda,Honda,Michael M.,Michael M. Honda,"Democratic Party, California, US Representative",michael_honda_red.png,michael_honda_blue.png
+Jeb  Hensarling,Hensarling,Jeb,Jeb Hensarling,"Republican Party, Texas, US Representative",jeb_hensarling_red.png,jeb_hensarling_blue.png
+Stephanie  Herseth Sandlin,Herseth Sandlin,Stephanie,Stephanie Herseth Sandlin,"Democratic Party, South Dakota, US Representative",stephanie_herseth_sandlin_red.png,stephanie_herseth_sandlin_blue.png
+Brian M. Higgins,Higgins,Brian M.,Brian M. Higgins,"Democratic Party, New York, US Representative",brian_higgins_red.png,brian_higgins_blue.png
+John J. Hall,Hall,John J.,John J. Hall,"Democratic Party, New York, US Representative",john_hall_red.png,john_hall_blue.png
+Phil  Hare,Hare,Phil,Phil Hare,"Democratic Party, Illinois, US Representative",phil_hare_red.png,phil_hare_blue.png
+Dean  Heller,Heller,Dean,Dean Heller,"Republican Party, Nevada, Senator",dean_heller_red.png,dean_heller_blue.png
+Mazie K. Hirono,Hirono,Mazie K.,Mazie K. Hirono,"Democratic Party, Hawaii, Senator",mazie_hirono_red.png,mazie_hirono_blue.png
+Paul W. Hodes,Hodes,Paul W.,Paul W. Hodes,"Democratic Party, New Hampshire, US Representative",paul_hodes_red.png,paul_hodes_blue.png
+Deborah L. Halvorson,Halvorson,Deborah L.,Deborah L. Halvorson,"Democratic Party, Illinois, US Representative",deborah_halvorson_red.png,deborah_halvorson_blue.png
+Gregg  Harper,Harper,Gregg,Gregg Harper,"Republican Party, Mississippi, US Representative",gregg_harper_red.png,gregg_harper_blue.png
+Martin  Heinrich,Heinrich,Martin,Martin Heinrich,"Democratic Party, New Mexico, Senator",martin_heinrich_red.png,martin_heinrich_blue.png
+James A. Himes,Himes,James A.,James A. Himes,"Democratic Party, Connecticut, US Representative",james_himes_red.png,james_himes_blue.png
+Duncan D. Hunter,Hunter,Duncan D.,Duncan D. Hunter,"Republican Party, California, US Representative",duncan_hunter_red.png,duncan_hunter_blue.png
+Kay  Hagan,Hagan,Kay,Kay Hagan,"Democratic Party, North Carolina, Senator",kay_hagan_red.png,kay_hagan_blue.png
+Colleen W. Hanabusa,Hanabusa,Colleen W.,Colleen W. Hanabusa,"Democratic Party, Hawaii, US Representative",colleen_hanabusa_red.png,colleen_hanabusa_blue.png
+Richard L. Hanna,Hanna,Richard L.,Richard L. Hanna,"Republican Party, New York, US Representative",richard_hanna_red.png,richard_hanna_blue.png
+Andy  Harris,Harris,Andy,Andy Harris,"Republican Party, Maryland, US Representative",andy_harris_red.png,andy_harris_blue.png
+Vicky  Hartzler,Hartzler,Vicky,Vicky Hartzler,"Republican Party, Missouri, US Representative",vicky_hartzler_red.png,vicky_hartzler_blue.png
+Nan  Hayworth,Hayworth,Nan,Nan Hayworth,"Republican Party, New York, US Representative",nan_hayworth_red.png,nan_hayworth_blue.png
+Joseph J. Heck,Heck,Joseph J.,Joseph J. Heck,"Republican Party, Nevada, US Representative",joseph_heck_red.png,joseph_heck_blue.png
+Jaime  Herrera Beutler,Herrera Beutler,Jaime,Jaime Herrera Beutler,"Republican Party, Washington, US Representative",jaime_herrera_beutler_red.png,jaime_herrera_beutler_blue.png
+Tim  Huelskamp,Huelskamp,Tim,Tim Huelskamp,"Republican Party, Kansas, US Representative",tim_huelskamp_red.png,tim_huelskamp_blue.png
+Bill  Huizenga,Huizenga,Bill,Bill Huizenga,"Republican Party, Michigan, US Representative",bill_huizenga_red.png,bill_huizenga_blue.png
+Randy  Hultgren,Hultgren,Randy,Randy Hultgren,"Republican Party, Illinois, US Representative",randy_hultgren_red.png,randy_hultgren_blue.png
+Robert  Hurt,Hurt,Robert,Robert Hurt,"Republican Party, Virginia, US Representative",robert_hurt_red.png,robert_hurt_blue.png
+John  Hoeven,Hoeven,John,John Hoeven,"Republican Party, North Dakota, Senator",john_hoeven_red.png,john_hoeven_blue.png
+Kathleen C. Hochul,Hochul,Kathleen C.,Kathleen C. Hochul,"Democratic Party, New York, US Representative",kathleen_hochul_red.png,kathleen_hochul_blue.png
+Janice  Hahn,Hahn,Janice,Janice Hahn,"Democratic Party, California, US Representative",janice_hahn_red.png,janice_hahn_blue.png
+Denny  Heck,Heck,Denny,Denny Heck,"Democratic Party, Washington, US Representative",denny_heck_red.png,denny_heck_blue.png
+George  Holding,Holding,George,George Holding,"Republican Party, North Carolina, US Representative",george_holding_red.png,george_holding_blue.png
+Richard  Hudson,Hudson,Richard,Richard Hudson,"Republican Party, North Carolina, US Representative",richard_hudson_red.png,richard_hudson_blue.png
+Jared  Huffman,Huffman,Jared,Jared Huffman,"Democratic Party, California, US Representative",jared_huffman_red.png,jared_huffman_blue.png
+Heidi  Heitkamp,Heitkamp,Heidi,Heidi Heitkamp,"Democratic Party, North Dakota, Senator",heidi_heitkamp_red.png,heidi_heitkamp_blue.png
+Jody  Hice,Hice,Jody,Jody Hice,"Republican Party, Georgia, US Representative",jody_hice_red.png,jody_hice_blue.png
+French  Hill,Hill,French,French Hill,"Republican Party, Arkansas, US Representative",french_hill_red.png,french_hill_blue.png
+Will  Hurd,Hurd,Will,Will Hurd,"Republican Party, Texas, US Representative",will_hurd_red.png,will_hurd_blue.png
+Trey  Hollingsworth,Hollingsworth,Trey,Trey Hollingsworth,"Republican Party, Indiana, US Representative",trey_hollingsworth_red.png,trey_hollingsworth_blue.png
+Kamala  Harris,Harris,Kamala,Kamala Harris,"Democratic Party, California, Senator",kamala_harris_red.png,kamala_harris_blue.png
+Margaret Wood Hassan,Hassan,Margaret Wood,Margaret Wood Hassan,"Democratic Party, New Hampshire, Senator",margaret_hassan_red.png,margaret_hassan_blue.png
+Clay  Higgins,Higgins,Clay,Clay Higgins,"Republican Party, Louisiana, US Representative",clay_higgins_red.png,clay_higgins_blue.png
+Bob  Inglis,Inglis,Bob,Bob Inglis,"Republican Party, South Carolina, US Representative",bob_inglis_red.png,bob_inglis_blue.png
+James M. Inhofe,Inhofe,James M.,James M. Inhofe,"Republican Party, Oklahoma, Senator",james_inhofe_red.png,james_inhofe_blue.png
+Daniel K. Inouye,Inouye,Daniel K.,Daniel K. Inouye,"Democratic Party, Hawaii, Senator",daniel_inouye_red.png,daniel_inouye_blue.png
+Jay  Inslee,Inslee,Jay,Jay Inslee,"Democratic Party, Washington, US Representative",jay_inslee_red.png,jay_inslee_blue.png
+John H. Isakson,Isakson,John H.,John H. Isakson,"Republican Party, Georgia, Senator",john_isakson_red.png,john_isakson_blue.png
+Darrell E. Issa,Issa,Darrell E.,Darrell E. Issa,"Republican Party, California, US Representative",darrell_issa_red.png,darrell_issa_blue.png
+Steve J. Israel,Israel,Steve J.,Steve J. Israel,"Democratic Party, New York, US Representative",steve_israel_red.png,steve_israel_blue.png
+Sheila  Jackson Lee,Jackson Lee,Sheila,Sheila Jackson Lee,"Democratic Party, Texas, US Representative",sheila_jackson_lee_red.png,sheila_jackson_lee_blue.png
+William J. Jefferson,Jefferson,William J.,William J. Jefferson,"Democratic Party, Louisiana, US Representative",william_jefferson_red.png,william_jefferson_blue.png
+Eddie Bernice Johnson,Johnson,Eddie Bernice,Eddie Bernice Johnson,"Democratic Party, Texas, US Representative",eddie_johnson_red.png,eddie_johnson_blue.png
+Sam Robert Johnson,Johnson,Sam Robert,Sam Robert Johnson,"Republican Party, Texas, US Representative",sam_johnson_red.png,sam_johnson_blue.png
+Tim P. Johnson,Johnson,Tim P.,Tim P. Johnson,"Democratic Party, South Dakota, Senator",tim_johnson_red.png,tim_johnson_blue.png
+Walter B. Jones,Jones,Walter B.,Walter B. Jones,"Republican Party, North Carolina, US Representative",walter_jones_red.png,walter_jones_blue.png
+Jesse Louis Jackson,Jackson,Jesse Louis,Jesse Louis Jackson,"Democratic Party, Illinois, US Representative",jesse_jackson_red.png,jesse_jackson_blue.png
+Stephanie Tubbs Jones,Jones,Stephanie Tubbs,Stephanie Tubbs Jones,"Democratic Party, Ohio, US Representative",stephanie_jones_red.png,stephanie_jones_blue.png
+Timothy V. Johnson,Johnson,Timothy V.,Timothy V. Johnson,"Republican Party, Illinois, US Representative",timothy_johnson_red.png,timothy_johnson_blue.png
+Henry C. Johnson,Johnson,Henry C.,Henry C. Johnson,"Democratic Party, Georgia, US Representative",henry_johnson_red.png,henry_johnson_blue.png
+Jim  Jordan,Jordan,Jim,Jim Jordan,"Republican Party, Ohio, US Representative",jim_jordan_red.png,jim_jordan_blue.png
+Lynn  Jenkins,Jenkins,Lynn,Lynn Jenkins,"Republican Party, Kansas, US Representative",lynn_jenkins_red.png,lynn_jenkins_blue.png
+Mike  Johanns,Johanns,Mike,Mike Johanns,"Republican Party, Nebraska, Senator",mike_johanns_red.png,mike_johanns_blue.png
+Bill  Johnson,Johnson,Bill,Bill Johnson,"Republican Party, Ohio, US Representative",bill_johnson_red.png,bill_johnson_blue.png
+Ron  Johnson,Johnson,Ron,Ron Johnson,"Republican Party, Wisconsin, Senator",ron_johnson_red.png,ron_johnson_blue.png
+Hakeem S. Jeffries,Jeffries,Hakeem S.,Hakeem S. Jeffries,"Democratic Party, New York, US Representative",hakeem_jeffries_red.png,hakeem_jeffries_blue.png
+David P. Joyce,Joyce,David P.,David P. Joyce,"Republican Party, Ohio, US Representative",david_joyce_red.png,david_joyce_blue.png
+Evan  Jenkins,Jenkins,Evan,Evan Jenkins,"Republican Party, West Virginia, US Representative",evan_jenkins_red.png,evan_jenkins_blue.png
+Pramila  Jayapal,Jayapal,Pramila,Pramila Jayapal,"Democratic Party, Washington, US Representative",pramila_jayapal_red.png,pramila_jayapal_blue.png
+Mike  Johnson,Johnson,Mike,Mike Johnson,"Republican Party, Louisiana, US Representative",mike_johnson_red.png,mike_johnson_blue.png
+Paul E. Kanjorski,Kanjorski,Paul E.,Paul E. Kanjorski,"Democratic Party, Pennsylvania, US Representative",paul_kanjorski_red.png,paul_kanjorski_blue.png
+Marcy  Kaptur,Kaptur,Marcy,Marcy Kaptur,"Democratic Party, Ohio, US Representative",marcy_kaptur_red.png,marcy_kaptur_blue.png
+Edward M. Kennedy,Kennedy,Edward M.,Edward M. Kennedy,"Democratic Party, Massachusetts, Senator",edward_kennedy_red.png,edward_kennedy_blue.png
+Patrick Joseph Kennedy,Kennedy,Patrick Joseph,Patrick Joseph Kennedy,"Democratic Party, Rhode Island, US Representative",patrick_kennedy_red.png,patrick_kennedy_blue.png
+John Forbes Kerry,Kerry,John Forbes,John Forbes Kerry,"Democratic Party, Massachusetts, Senator",john_kerry_red.png,john_kerry_blue.png
+Dale E. Kildee,Kildee,Dale E.,Dale E. Kildee,"Democratic Party, Michigan, US Representative",dale_kildee_red.png,dale_kildee_blue.png
+Carolyn Cheeks Kilpatrick,Kilpatrick,Carolyn Cheeks,Carolyn Cheeks Kilpatrick,"Democratic Party, Michigan, US Representative",carolyn_kilpatrick_red.png,carolyn_kilpatrick_blue.png
+Ron James Kind,Kind,Ron James,Ron James Kind,"Democratic Party, Wisconsin, US Representative",ron_kind_red.png,ron_kind_blue.png
+Peter T. King,King,Peter T.,Peter T. King,"Republican Party, New York, US Representative",peter_king_red.png,peter_king_blue.png
+Jack  Kingston,Kingston,Jack,Jack Kingston,"Republican Party, Georgia, US Representative",jack_kingston_red.png,jack_kingston_blue.png
+Joseph K. Knollenberg,Knollenberg,Joseph K.,Joseph K. Knollenberg,"Republican Party, Michigan, US Representative",joseph_knollenberg_red.png,joseph_knollenberg_blue.png
+Herbert H. Kohl,Kohl,Herbert H.,Herbert H. Kohl,"Democratic Party, Wisconsin, Senator",herbert_kohl_red.png,herbert_kohl_blue.png
+Dennis J. Kucinich,Kucinich,Dennis J.,Dennis J. Kucinich,"Democratic Party, Ohio, US Representative",dennis_kucinich_red.png,dennis_kucinich_blue.png
+Jon  Kyl,Kyl,Jon,Jon Kyl,"Republican Party, Arizona, Senator",jon_kyl_red.png,jon_kyl_blue.png
+Mark Steven Kirk,Kirk,Mark Steven,Mark Steven Kirk,"Republican Party, Illinois, Senator",mark_kirk_red.png,mark_kirk_blue.png
+Ric  Keller,Keller,Ric,Ric Keller,"Republican Party, Florida, US Representative",ric_keller_red.png,ric_keller_blue.png
+Steve A. King,King,Steve A.,Steve A. King,"Republican Party, Iowa, US Representative",steve_king_red.png,steve_king_blue.png
+John Paul Kline,Kline,John Paul,John Paul Kline,"Republican Party, Minnesota, US Representative",john_kline_red.png,john_kline_blue.png
+John R. Kuhl,Kuhl,John R.,John R. Kuhl,"Republican Party, New York, US Representative",john_kuhl_red.png,john_kuhl_blue.png
+Steve  Kagen,Kagen,Steve,Steve Kagen,"Democratic Party, Wisconsin, US Representative",steve_kagen_red.png,steve_kagen_blue.png
+Ron  Klein,Klein,Ron,Ron Klein,"Democratic Party, Florida, US Representative",ron_klein_red.png,ron_klein_blue.png
+Amy Jean Klobuchar,Klobuchar,Amy Jean,Amy Jean Klobuchar,"Democratic Party, Minnesota, Senator",amy_klobuchar_red.png,amy_klobuchar_blue.png
+Ann  Kirkpatrick,Kirkpatrick,Ann,Ann Kirkpatrick,"Democratic Party, Arizona, US Representative",ann_kirkpatrick_red.png,ann_kirkpatrick_blue.png
+Larry  Kissell,Kissell,Larry,Larry Kissell,"Democratic Party, North Carolina, US Representative",larry_kissell_red.png,larry_kissell_blue.png
+Suzanne M. Kosmas,Kosmas,Suzanne M.,Suzanne M. Kosmas,"Democratic Party, Florida, US Representative",suzanne_kosmas_red.png,suzanne_kosmas_blue.png
+Frank  Kratovil,Kratovil,Frank,Frank Kratovil,"Democratic Party, Maryland, US Representative",frank_kratovil_red.png,frank_kratovil_blue.png
+Mary Jo  Kilroy,Kilroy,Mary Jo,Mary Jo Kilroy,"Democratic Party, Ohio, US Representative",mary_kilroy_red.png,mary_kilroy_blue.png
+Edward E. Kaufman,Kaufman,Edward E.,Edward E. Kaufman,"Democratic Party, Delaware, Senator",edward_kaufman_red.png,edward_kaufman_blue.png
+Paul G. Kirk,Kirk,Paul G.,Paul G. Kirk,"Democratic Party, Massachusetts, Senator",paul_kirk_red.png,paul_kirk_blue.png
+William R. Keating,Keating,William R.,William R. Keating,"Democratic Party, Massachusetts, US Representative",william_keating_red.png,william_keating_blue.png
+Mike  Kelly,Kelly,Mike,Mike Kelly,"Republican Party, Pennsylvania, US Representative",mike_kelly_red.png,mike_kelly_blue.png
+Adam  Kinzinger,Kinzinger,Adam,Adam Kinzinger,"Republican Party, Illinois, US Representative",adam_kinzinger_red.png,adam_kinzinger_blue.png
+Joseph P. Kennedy,Kennedy,Joseph P.,Joseph P. Kennedy,"Democratic Party, Massachusetts, US Representative",joseph_kennedy_red.png,joseph_kennedy_blue.png
+Daniel T. Kildee,Kildee,Daniel T.,Daniel T. Kildee,"Democratic Party, Michigan, US Representative",daniel_kildee_red.png,daniel_kildee_blue.png
+Derek  Kilmer,Kilmer,Derek,Derek Kilmer,"Democratic Party, Washington, US Representative",derek_kilmer_red.png,derek_kilmer_blue.png
+Ann M. Kuster,Kuster,Ann M.,Ann M. Kuster,"Democratic Party, New Hampshire, US Representative",ann_kuster_red.png,ann_kuster_blue.png
+Angus  King,King,Angus,Angus King,"Independent, Maine, Senator",angus_king_red.png,angus_king_blue.png
+Timothy  Kaine,Kaine,Timothy,Timothy Kaine,"Democratic Party, Virginia, Senator",timothy_kaine_red.png,timothy_kaine_blue.png
+Robin  Kelly,Kelly,Robin,Robin Kelly,"Democratic Party, Illinois, US Representative",robin_kelly_red.png,robin_kelly_blue.png
+John  Katko,Katko,John,John Katko,"Republican Party, New York, US Representative",john_katko_red.png,john_katko_blue.png
+Steve  Knight,Knight,Steve,Steve Knight,"Republican Party, California, US Representative",steve_knight_red.png,steve_knight_blue.png
+Trent  Kelly,Kelly,Trent,Trent Kelly,"Republican Party, Mississippi, US Representative",trent_kelly_red.png,trent_kelly_blue.png
+Ro  Khanna,Khanna,Ro,Ro Khanna,"Democratic Party, California, US Representative",ro_khanna_red.png,ro_khanna_blue.png
+Ruben  Kihuen,Kihuen,Ruben,Ruben Kihuen,"Democratic Party, Nevada, US Representative",ruben_kihuen_red.png,ruben_kihuen_blue.png
+Raja  Krishnamoorthi,Krishnamoorthi,Raja,Raja Krishnamoorthi,"Democratic Party, Illinois, US Representative",raja_krishnamoorthi_red.png,raja_krishnamoorthi_blue.png
+David  Kustoff,Kustoff,David,David Kustoff,"Republican Party, Tennessee, US Representative",david_kustoff_red.png,david_kustoff_blue.png
+John Neely Kennedy,Kennedy,John Neely,John Neely Kennedy,"Republican Party, Louisiana, Senator",john_kennedy_red.png,john_kennedy_blue.png
+Blanche Lambert Lincoln,Lincoln,Blanche Lambert,Blanche Lambert Lincoln,"Democratic Party, Arkansas, Senator",blanche_lincoln_red.png,blanche_lincoln_blue.png
+Nicholas V. Lampson,Lampson,Nicholas V.,Nicholas V. Lampson,"Democratic Party, Texas, US Representative",nicholas_lampson_red.png,nicholas_lampson_blue.png
+Tom  Lantos,Lantos,Tom,Tom Lantos,"Democratic Party, California, US Representative",tom_lantos_red.png,tom_lantos_blue.png
+Tom P. Latham,Latham,Tom P.,Tom P. Latham,"Republican Party, Iowa, US Representative",tom_latham_red.png,tom_latham_blue.png
+Frank R. Lautenberg,Lautenberg,Frank R.,Frank R. Lautenberg,"Democratic Party, New Jersey, Senator",frank_lautenberg_red.png,frank_lautenberg_blue.png
+Patrick J. Leahy,Leahy,Patrick J.,Patrick J. Leahy,"Democratic Party, Vermont, Senator",patrick_leahy_red.png,patrick_leahy_blue.png
+Carl  Levin,Levin,Carl,Carl Levin,"Democratic Party, Michigan, Senator",carl_levin_red.png,carl_levin_blue.png
+Sander M. Levin,Levin,Sander M.,Sander M. Levin,"Democratic Party, Michigan, US Representative",sander_levin_red.png,sander_levin_blue.png
+Jerry  Lewis,Lewis,Jerry,Jerry Lewis,"Republican Party, California, US Representative",jerry_lewis_red.png,jerry_lewis_blue.png
+John R. Lewis,Lewis,John R.,John R. Lewis,"Democratic Party, Georgia, US Representative",john_lewis_red.png,john_lewis_blue.png
+Ron  Lewis,Lewis,Ron,Ron Lewis,"Republican Party, Kentucky, US Representative",ron_lewis_red.png,ron_lewis_blue.png
+Joseph I. Lieberman,Lieberman,Joseph I.,Joseph I. Lieberman,"Independent, Connecticut, Senator",joseph_lieberman_red.png,joseph_lieberman_blue.png
+John  Linder,Linder,John,John Linder,"Republican Party, Georgia, US Representative",john_linder_red.png,john_linder_blue.png
+Zoe  Lofgren,Lofgren,Zoe,Zoe Lofgren,"Democratic Party, California, US Representative",zoe_lofgren_red.png,zoe_lofgren_blue.png
+Nita M. Lowey,Lowey,Nita M.,Nita M. Lowey,"Democratic Party, New York, US Representative",nita_lowey_red.png,nita_lowey_blue.png
+Frank D. Lucas,Lucas,Frank D.,Frank D. Lucas,"Republican Party, Oklahoma, US Representative",frank_lucas_red.png,frank_lucas_blue.png
+Richard G. Lugar,Lugar,Richard G.,Richard G. Lugar,"Republican Party, Indiana, Senator",richard_lugar_red.png,richard_lugar_blue.png
+Daniel E. Lungren,Lungren,Daniel E.,Daniel E. Lungren,"Republican Party, California, US Representative",daniel_lungren_red.png,daniel_lungren_blue.png
+Mary L. Landrieu,Landrieu,Mary L.,Mary L. Landrieu,"Democratic Party, Louisiana, Senator",mary_landrieu_red.png,mary_landrieu_blue.png
+Barbara  Lee,Lee,Barbara,Barbara Lee,"Democratic Party, California, US Representative",barbara_lee_red.png,barbara_lee_blue.png
+Ray H. LaHood,LaHood,Ray H.,Ray H. LaHood,"Republican Party, Illinois, US Representative",ray_lahood_red.png,ray_lahood_blue.png
+Steven C. LaTourette,LaTourette,Steven C.,Steven C. LaTourette,"Republican Party, Ohio, US Representative",steven_latourette_red.png,steven_latourette_blue.png
+Frank A. LoBiondo,LoBiondo,Frank A.,Frank A. LoBiondo,"Republican Party, New Jersey, US Representative",frank_lobiondo_red.png,frank_lobiondo_blue.png
+John B. Larson,Larson,John B.,John B. Larson,"Democratic Party, Connecticut, US Representative",john_larson_red.png,john_larson_blue.png
+James R. Langevin,Langevin,James R.,James R. Langevin,"Democratic Party, Rhode Island, US Representative",james_langevin_red.png,james_langevin_blue.png
+Rick  Larsen,Larsen,Rick,Rick Larsen,"Democratic Party, Washington, US Representative",rick_larsen_red.png,rick_larsen_blue.png
+Stephen F. Lynch,Lynch,Stephen F.,Stephen F. Lynch,"Democratic Party, Massachusetts, US Representative",stephen_lynch_red.png,stephen_lynch_blue.png
+Daniel William Lipinski,Lipinski,Daniel William,Daniel William Lipinski,"Democratic Party, Illinois, US Representative",daniel_lipinski_red.png,daniel_lipinski_blue.png
+Doug  Lamborn,Lamborn,Doug,Doug Lamborn,"Republican Party, Colorado, US Representative",doug_lamborn_red.png,doug_lamborn_blue.png
+David  Loebsack,Loebsack,David,David Loebsack,"Democratic Party, Iowa, US Representative",david_loebsack_red.png,david_loebsack_blue.png
+Robert E. Latta,Latta,Robert E.,Robert E. Latta,"Republican Party, Ohio, US Representative",robert_latta_red.png,robert_latta_blue.png
+Leonard  Lance,Lance,Leonard,Leonard Lance,"Republican Party, New Jersey, US Representative",leonard_lance_red.png,leonard_lance_blue.png
+Christopher John Lee,Lee,Christopher John,Christopher John Lee,"Republican Party, New York, US Representative",christopher_lee_red.png,christopher_lee_blue.png
+Blaine  Luetkemeyer,Luetkemeyer,Blaine,Blaine Luetkemeyer,"Republican Party, Missouri, US Representative",blaine_luetkemeyer_red.png,blaine_luetkemeyer_blue.png
+Ben Ray Luj√°n,Luj√°n,Ben Ray,Ben Ray Luj√°n,"Democratic Party, New Mexico, US Representative",ben_luj„°n_red.png,ben_luj„°n_blue.png
+Cynthia M. Lummis,Lummis,Cynthia M.,Cynthia M. Lummis,"Republican Party, Wyoming, US Representative",cynthia_lummis_red.png,cynthia_lummis_blue.png
+George S. LeMieux,LeMieux,George S.,George S. LeMieux,"Republican Party, Florida, Senator",george_lemieux_red.png,george_lemieux_blue.png
+Ra√∫l R. Labrador,Labrador,Ra√∫l R.,Ra√∫l R. Labrador,"Republican Party, Idaho, US Representative",ra„∫l_labrador_red.png,ra„∫l_labrador_blue.png
+Jeff M. Landry,Landry,Jeff M.,Jeff M. Landry,"Republican Party, Louisiana, US Representative",jeff_landry_red.png,jeff_landry_blue.png
+James  Lankford,Lankford,James,James Lankford,"Republican Party, Oklahoma, Senator",james_lankford_red.png,james_lankford_blue.png
+Billy  Long,Long,Billy,Billy Long,"Republican Party, Missouri, US Representative",billy_long_red.png,billy_long_blue.png
+Mike  Lee,Lee,Mike,Mike Lee,"Republican Party, Utah, Senator",mike_lee_red.png,mike_lee_blue.png
+Doug  LaMalfa,LaMalfa,Doug,Doug LaMalfa,"Republican Party, California, US Representative",doug_lamalfa_red.png,doug_lamalfa_blue.png
+Alan S. Lowenthal,Lowenthal,Alan S.,Alan S. Lowenthal,"Democratic Party, California, US Representative",alan_lowenthal_red.png,alan_lowenthal_blue.png
+Michelle  Lujan Grisham,Lujan Grisham,Michelle,Michelle Lujan Grisham,"Democratic Party, New Mexico, US Representative",michelle_lujan_grisham_red.png,michelle_lujan_grisham_blue.png
+Brenda  Lawrence,Lawrence,Brenda,Brenda Lawrence,"Democratic Party, Michigan, US Representative",brenda_lawrence_red.png,brenda_lawrence_blue.png
+Ted  Lieu,Lieu,Ted,Ted Lieu,"Democratic Party, California, US Representative",ted_lieu_red.png,ted_lieu_blue.png
+Barry  Loudermilk,Loudermilk,Barry,Barry Loudermilk,"Republican Party, Georgia, US Representative",barry_loudermilk_red.png,barry_loudermilk_blue.png
+Mia  Love,Love,Mia,Mia Love,"Republican Party, Utah, US Representative",mia_love_red.png,mia_love_blue.png
+Darin  LaHood,LaHood,Darin,Darin LaHood,"Republican Party, Illinois, US Representative",darin_lahood_red.png,darin_lahood_blue.png
+Al  Lawson,Lawson,Al,Al Lawson,"Democratic Party, Florida, US Representative",al_lawson_red.png,al_lawson_blue.png
+Jason  Lewis,Lewis,Jason,Jason Lewis,"Republican Party, Minnesota, US Representative",jason_lewis_red.png,jason_lewis_blue.png
+Carolyn B. Maloney,Maloney,Carolyn B.,Carolyn B. Maloney,"Democratic Party, New York, US Representative",carolyn_maloney_red.png,carolyn_maloney_blue.png
+Edward J. Markey,Markey,Edward J.,Edward J. Markey,"Democratic Party, Massachusetts, Senator",edward_markey_red.png,edward_markey_blue.png
+John S. McCain,McCain,John S.,John S. McCain,"Republican Party, Arizona, Senator",john_mccain_red.png,john_mccain_blue.png
+Carolyn  McCarthy,McCarthy,Carolyn,Carolyn McCarthy,"Democratic Party, New York, US Representative",carolyn_mccarthy_red.png,carolyn_mccarthy_blue.png
+James P. McGovern,McGovern,James P.,James P. McGovern,"Democratic Party, Massachusetts, US Representative",james_mcgovern_red.png,james_mcgovern_blue.png
+Mitch  McConnell,McConnell,Mitch,Mitch McConnell,"Republican Party, Kentucky, Senator",mitch_mcconnell_red.png,mitch_mcconnell_blue.png
+James O. McCrery,McCrery,James O.,James O. McCrery,"Republican Party, Louisiana, US Representative",james_mccrery_red.png,james_mccrery_blue.png
+Jim A. McDermott,McDermott,Jim A.,Jim A. McDermott,"Democratic Party, Washington, US Representative",jim_mcdermott_red.png,jim_mcdermott_blue.png
+John M. McHugh,McHugh,John M.,John M. McHugh,"Republican Party, New York, US Representative",john_mchugh_red.png,john_mchugh_blue.png
+Mike  McIntyre,McIntyre,Mike,Mike McIntyre,"Democratic Party, North Carolina, US Representative",mike_mcintyre_red.png,mike_mcintyre_blue.png
+Howard P. McKeon,McKeon,Howard P.,Howard P. McKeon,"Republican Party, California, US Representative",howard_mckeon_red.png,howard_mckeon_blue.png
+Michael R. McNulty,McNulty,Michael R.,Michael R. McNulty,"Democratic Party, New York, US Representative",michael_mcnulty_red.png,michael_mcnulty_blue.png
+Martin T. Meehan,Meehan,Martin T.,Martin T. Meehan,"Democratic Party, Massachusetts, US Representative",martin_meehan_red.png,martin_meehan_blue.png
+Robert  Men√©ndez,Men√©ndez,Robert,Robert Men√©ndez,"Democratic Party, New Jersey, Senator",robert_men„©ndez_red.png,robert_men„©ndez_blue.png
+John L. Mica,Mica,John L.,John L. Mica,"Republican Party, Florida, US Representative",john_mica_red.png,john_mica_blue.png
+Barbara A. Mikulski,Mikulski,Barbara A.,Barbara A. Mikulski,"Democratic Party, Maryland, Senator",barbara_mikulski_red.png,barbara_mikulski_blue.png
+Juanita  Millender-McDonald,Millender-McDonald,Juanita,Juanita Millender-McDonald,"Democratic Party, California, US Representative",juanita_millender-mcdonald_red.png,juanita_millender-mcdonald_blue.png
+George  Miller,Miller,George,George Miller,"Democratic Party, California, US Representative",george_miller_red.png,george_miller_blue.png
+Alan B. Mollohan,Mollohan,Alan B.,Alan B. Mollohan,"Democratic Party, West Virginia, US Representative",alan_mollohan_red.png,alan_mollohan_blue.png
+James P. Moran,Moran,James P.,James P. Moran,"Democratic Party, Virginia, US Representative",james_moran_red.png,james_moran_blue.png
+Jerry  Moran,Moran,Jerry,Jerry Moran,"Republican Party, Kansas, Senator",jerry_moran_red.png,jerry_moran_blue.png
+Patty  Murray,Murray,Patty,Patty Murray,"Democratic Party, Washington, Senator",patty_murray_red.png,patty_murray_blue.png
+John P. Murtha,Murtha,John P.,John P. Murtha,"Democratic Party, Pennsylvania, US Representative",john_murtha_red.png,john_murtha_blue.png
+Sue W. Myrick,Myrick,Sue W.,Sue W. Myrick,"Republican Party, North Carolina, US Representative",sue_myrick_red.png,sue_myrick_blue.png
+Gregory W. Meeks,Meeks,Gregory W.,Gregory W. Meeks,"Democratic Party, New York, US Representative",gregory_meeks_red.png,gregory_meeks_blue.png
+Donald A. Manzullo,Manzullo,Donald A.,Donald A. Manzullo,"Republican Party, Illinois, US Representative",donald_manzullo_red.png,donald_manzullo_blue.png
+Gary G. Miller,Miller,Gary G.,Gary G. Miller,"Republican Party, California, US Representative",gary_miller_red.png,gary_miller_blue.png
+Dennis  Moore,Moore,Dennis,Dennis Moore,"Democratic Party, Kansas, US Representative",dennis_moore_red.png,dennis_moore_blue.png
+Jim  Matheson,Matheson,Jim,Jim Matheson,"Democratic Party, Utah, US Representative",jim_matheson_red.png,jim_matheson_blue.png
+Betty Louise McCollum,McCollum,Betty Louise,Betty Louise McCollum,"Democratic Party, Minnesota, US Representative",betty_mccollum_red.png,betty_mccollum_blue.png
+Jeff  Miller,Miller,Jeff,Jeff Miller,"Republican Party, Florida, US Representative",jeff_miller_red.png,jeff_miller_blue.png
+James  Marshall,Marshall,James,James Marshall,"Democratic Party, Georgia, US Representative",james_marshall_red.png,james_marshall_blue.png
+Thaddeus G. McCotter,McCotter,Thaddeus G.,Thaddeus G. McCotter,"Republican Party, Michigan, US Representative",thaddeus_mccotter_red.png,thaddeus_mccotter_blue.png
+Kendrick Brett Meek,Meek,Kendrick Brett,Kendrick Brett Meek,"Democratic Party, Florida, US Representative",kendrick_meek_red.png,kendrick_meek_blue.png
+Michael H. Michaud,Michaud,Michael H.,Michael H. Michaud,"Democratic Party, Maine, US Representative",michael_michaud_red.png,michael_michaud_blue.png
+Candice S. Miller,Miller,Candice S.,Candice S. Miller,"Republican Party, Michigan, US Representative",candice_miller_red.png,candice_miller_blue.png
+Tim  Murphy,Murphy,Tim,Tim Murphy,"Republican Party, Pennsylvania, US Representative",tim_murphy_red.png,tim_murphy_blue.png
+Marilyn N. Musgrave,Musgrave,Marilyn N.,Marilyn N. Musgrave,"Republican Party, Colorado, US Representative",marilyn_musgrave_red.png,marilyn_musgrave_blue.png
+Lisa A. Murkowski,Murkowski,Lisa A.,Lisa A. Murkowski,"Republican Party, Alaska, Senator",lisa_murkowski_red.png,lisa_murkowski_blue.png
+R. Bradley Miller,Miller,R. Bradley,R. Bradley Miller,"Democratic Party, North Carolina, US Representative",r._miller_red.png,r._miller_blue.png
+Connie  Mack,Mack,Connie,Connie Mack,"Republican Party, Florida, US Representative",connie_mack_red.png,connie_mack_blue.png
+Patrick T. McHenry,McHenry,Patrick T.,Patrick T. McHenry,"Republican Party, North Carolina, US Representative",patrick_mchenry_red.png,patrick_mchenry_blue.png
+Michael T. McCaul,McCaul,Michael T.,Michael T. McCaul,"Republican Party, Texas, US Representative",michael_mccaul_red.png,michael_mccaul_blue.png
+Kenny Ewell Marchant,Marchant,Kenny Ewell,Kenny Ewell Marchant,"Republican Party, Texas, US Representative",kenny_marchant_red.png,kenny_marchant_blue.png
+Cathy  McMorris Rodgers,McMorris Rodgers,Cathy,Cathy McMorris Rodgers,"Republican Party, Washington, US Representative",cathy_mcmorris_rodgers_red.png,cathy_mcmorris_rodgers_blue.png
+Gwen  Moore,Moore,Gwen,Gwen Moore,"Democratic Party, Wisconsin, US Representative",gwen_moore_red.png,gwen_moore_blue.png
+Charles J. Melancon,Melancon,Charles J.,Charles J. Melancon,"Democratic Party, Louisiana, US Representative",charles_melancon_red.png,charles_melancon_blue.png
+Mel  Martinez,Martinez,Mel,Mel Martinez,"Republican Party, Florida, Senator",mel_martinez_red.png,mel_martinez_blue.png
+Doris O. Matsui,Matsui,Doris O.,Doris O. Matsui,"Democratic Party, California, US Representative",doris_matsui_red.png,doris_matsui_blue.png
+Tim  Mahoney,Mahoney,Tim,Tim Mahoney,"Democratic Party, Florida, US Representative",tim_mahoney_red.png,tim_mahoney_blue.png
+Kevin  McCarthy,McCarthy,Kevin,Kevin McCarthy,"Republican Party, California, US Representative",kevin_mccarthy_red.png,kevin_mccarthy_blue.png
+Jerry  McNerney,McNerney,Jerry,Jerry McNerney,"Democratic Party, California, US Representative",jerry_mcnerney_red.png,jerry_mcnerney_blue.png
+Harry E. Mitchell,Mitchell,Harry E.,Harry E. Mitchell,"Democratic Party, Arizona, US Representative",harry_mitchell_red.png,harry_mitchell_blue.png
+Patrick J. Murphy,Murphy,Patrick J.,Patrick J. Murphy,"Democratic Party, Pennsylvania, US Representative",patrick_murphy_red.png,patrick_murphy_blue.png
+Christopher S. Murphy,Murphy,Christopher S.,Christopher S. Murphy,"Democratic Party, Connecticut, Senator",christopher_murphy_red.png,christopher_murphy_blue.png
+Claire  McCaskill,McCaskill,Claire,Claire McCaskill,"Democratic Party, Missouri, Senator",claire_mccaskill_red.png,claire_mccaskill_blue.png
+Daniel B. Maffei,Maffei,Daniel B.,Daniel B. Maffei,"Democratic Party, New York, US Representative",daniel_maffei_red.png,daniel_maffei_blue.png
+Betsy  Markey,Markey,Betsy,Betsy Markey,"Democratic Party, Colorado, US Representative",betsy_markey_red.png,betsy_markey_blue.png
+Eric J. J. Massa,Massa,Eric J. J.,Eric J. J. Massa,"Democratic Party, New York, US Representative",eric_massa_red.png,eric_massa_blue.png
+Michael E. McMahon,McMahon,Michael E.,Michael E. McMahon,"Democratic Party, New York, US Representative",michael_mcmahon_red.png,michael_mcmahon_blue.png
+Walter  Minnick,Minnick,Walter,Walter Minnick,"Democratic Party, Idaho, US Representative",walter_minnick_red.png,walter_minnick_blue.png
+Jeff  Merkley,Merkley,Jeff,Jeff Merkley,"Democratic Party, Oregon, Senator",jeff_merkley_red.png,jeff_merkley_blue.png
+Tom  McClintock,McClintock,Tom,Tom McClintock,"Republican Party, California, US Representative",tom_mcclintock_red.png,tom_mcclintock_blue.png
+Scott  Murphy,Murphy,Scott,Scott Murphy,"Democratic Party, New York, US Representative",scott_murphy_red.png,scott_murphy_blue.png
+Tom  Marino,Marino,Tom,Tom Marino,"Republican Party, Pennsylvania, US Representative",tom_marino_red.png,tom_marino_blue.png
+David B. McKinley,McKinley,David B.,David B. McKinley,"Republican Party, West Virginia, US Representative",david_mckinley_red.png,david_mckinley_blue.png
+Patrick  Meehan,Meehan,Patrick,Patrick Meehan,"Republican Party, Pennsylvania, US Representative",patrick_meehan_red.png,patrick_meehan_blue.png
+Mick  Mulvaney,Mulvaney,Mick,Mick Mulvaney,"Republican Party, South Carolina, US Representative",mick_mulvaney_red.png,mick_mulvaney_blue.png
+Joe  Manchin,Manchin,Joe,Joe Manchin,"Democratic Party, West Virginia, Senator",joe_manchin_red.png,joe_manchin_blue.png
+Thomas  Massie,Massie,Thomas,Thomas Massie,"Republican Party, Kentucky, US Representative",thomas_massie_red.png,thomas_massie_blue.png
+Sean Patrick Maloney,Maloney,Sean Patrick,Sean Patrick Maloney,"Democratic Party, New York, US Representative",sean_maloney_red.png,sean_maloney_blue.png
+Mark  Meadows,Meadows,Mark,Mark Meadows,"Republican Party, North Carolina, US Representative",mark_meadows_red.png,mark_meadows_blue.png
+Grace  Meng,Meng,Grace,Grace Meng,"Democratic Party, New York, US Representative",grace_meng_red.png,grace_meng_blue.png
+Luke  Messer,Messer,Luke,Luke Messer,"Republican Party, Indiana, US Representative",luke_messer_red.png,luke_messer_blue.png
+Markwayne  Mullin,Mullin,Markwayne,Markwayne Mullin,"Republican Party, Oklahoma, US Representative",markwayne_mullin_red.png,markwayne_mullin_blue.png
+Tom  MacArthur,MacArthur,Tom,Tom MacArthur,"Republican Party, New Jersey, US Representative",tom_macarthur_red.png,tom_macarthur_blue.png
+John  Moolenaar,Moolenaar,John,John Moolenaar,"Republican Party, Michigan, US Representative",john_moolenaar_red.png,john_moolenaar_blue.png
+Alex  Mooney,Mooney,Alex,Alex Mooney,"Republican Party, West Virginia, US Representative",alex_mooney_red.png,alex_mooney_blue.png
+Seth  Moulton,Moulton,Seth,Seth Moulton,"Democratic Party, Massachusetts, US Representative",seth_moulton_red.png,seth_moulton_blue.png
+Martha  McSally,McSally,Martha,Martha McSally,"Republican Party, Arizona, US Representative",martha_mcsally_red.png,martha_mcsally_blue.png
+Roger  Marshall,Marshall,Roger,Roger Marshall,"Republican Party, Kansas, US Representative",roger_marshall_red.png,roger_marshall_blue.png
+Brian  Mast,Mast,Brian,Brian Mast,"Republican Party, Florida, US Representative",brian_mast_red.png,brian_mast_blue.png
+A.  McEachin,McEachin,A.,A. McEachin,"Democratic Party, Virginia, US Representative",a._mceachin_red.png,a._mceachin_blue.png
+Paul  Mitchell,Mitchell,Paul,Paul Mitchell,"Republican Party, Michigan, US Representative",paul_mitchell_red.png,paul_mitchell_blue.png
+Stephanie  Murphy,Murphy,Stephanie,Stephanie Murphy,"Democratic Party, Florida, US Representative",stephanie_murphy_red.png,stephanie_murphy_blue.png
+Jerrold L. Nadler,Nadler,Jerrold L.,Jerrold L. Nadler,"Democratic Party, New York, US Representative",jerrold_nadler_red.png,jerrold_nadler_blue.png
+Richard E. Neal,Neal,Richard E.,Richard E. Neal,"Democratic Party, Massachusetts, US Representative",richard_neal_red.png,richard_neal_blue.png
+Bill  Nelson,Nelson,Bill,Bill Nelson,"Democratic Party, Florida, Senator",bill_nelson_red.png,bill_nelson_blue.png
+Richard M. Nolan,Nolan,Richard M.,Richard M. Nolan,"Democratic Party, Minnesota, US Representative",richard_nolan_red.png,richard_nolan_blue.png
+Charles W. Norwood,Norwood,Charles W.,Charles W. Norwood,"Republican Party, Georgia, US Representative",charles_norwood_red.png,charles_norwood_blue.png
+Grace F. Napolitano,Napolitano,Grace F.,Grace F. Napolitano,"Democratic Party, California, US Representative",grace_napolitano_red.png,grace_napolitano_blue.png
+Ben E. Nelson,Nelson,Ben E.,Ben E. Nelson,"Democratic Party, Nebraska, Senator",ben_nelson_red.png,ben_nelson_blue.png
+Devin G. Nunes,Nunes,Devin G.,Devin G. Nunes,"Republican Party, California, US Representative",devin_nunes_red.png,devin_nunes_blue.png
+Randy  Neugebauer,Neugebauer,Randy,Randy Neugebauer,"Republican Party, Texas, US Representative",randy_neugebauer_red.png,randy_neugebauer_blue.png
+Glenn C. Nye,Nye,Glenn C.,Glenn C. Nye,"Democratic Party, Virginia, US Representative",glenn_nye_red.png,glenn_nye_blue.png
+Kristi L. Noem,Noem,Kristi L.,Kristi L. Noem,"Republican Party, South Dakota, US Representative",kristi_noem_red.png,kristi_noem_blue.png
+Richard B. Nugent,Nugent,Richard B.,Richard B. Nugent,"Republican Party, Florida, US Representative",richard_nugent_red.png,richard_nugent_blue.png
+Alan  Nunnelee,Nunnelee,Alan,Alan Nunnelee,"Republican Party, Mississippi, US Representative",alan_nunnelee_red.png,alan_nunnelee_blue.png
+Donald W. Norcross,Norcross,Donald W.,Donald W. Norcross,"Democratic Party, New Jersey, US Representative",donald_norcross_red.png,donald_norcross_blue.png
+Dan  Newhouse,Newhouse,Dan,Dan Newhouse,"Republican Party, Washington, US Representative",dan_newhouse_red.png,dan_newhouse_blue.png
+James L. Oberstar,Oberstar,James L.,James L. Oberstar,"Democratic Party, Minnesota, US Representative",james_oberstar_red.png,james_oberstar_blue.png
+David Ross Obey,Obey,David Ross,David Ross Obey,"Democratic Party, Wisconsin, US Representative",david_obey_red.png,david_obey_blue.png
+John W. Olver,Olver,John W.,John W. Olver,"Democratic Party, Massachusetts, US Representative",john_olver_red.png,john_olver_blue.png
+Solomon P. Ortiz,Ortiz,Solomon P.,Solomon P. Ortiz,"Democratic Party, Texas, US Representative",solomon_ortiz_red.png,solomon_ortiz_blue.png
+Pete  Olson,Olson,Pete,Pete Olson,"Republican Party, Texas, US Representative",pete_olson_red.png,pete_olson_blue.png
+William L. Owens,Owens,William L.,William L. Owens,"Democratic Party, New York, US Representative",william_owens_red.png,william_owens_blue.png
+Beto  O'Rourke,O'Rourke,Beto,Beto O'Rourke,"Democratic Party, Texas, US Representative",beto_o'rourke_red.png,beto_o'rourke_blue.png
+Tom  O'Halleran,O'Halleran,Tom,Tom O'Halleran,"Democratic Party, Arizona, US Representative",tom_o'halleran_red.png,tom_o'halleran_blue.png
+Frank J. Pallone,Pallone,Frank J.,Frank J. Pallone,"Democratic Party, New Jersey, US Representative",frank_pallone_red.png,frank_pallone_blue.png
+Bill J. Pascrell,Pascrell,Bill J.,Bill J. Pascrell,"Democratic Party, New Jersey, US Representative",bill_pascrell_red.png,bill_pascrell_blue.png
+Ed  Pastor,Pastor,Ed,Ed Pastor,"Democratic Party, Arizona, US Representative",ed_pastor_red.png,ed_pastor_blue.png
+Nancy  Pelosi,Pelosi,Nancy,Nancy Pelosi,"Democratic Party, California, US Representative",nancy_pelosi_red.png,nancy_pelosi_blue.png
+Collin Clark Peterson,Peterson,Collin Clark,Collin Clark Peterson,"Democratic Party, Minnesota, US Representative",collin_peterson_red.png,collin_peterson_blue.png
+John E. Peterson,Peterson,John E.,John E. Peterson,"Republican Party, Pennsylvania, US Representative",john_peterson_red.png,john_peterson_blue.png
+Thomas E. Petri,Petri,Thomas E.,Thomas E. Petri,"Republican Party, Wisconsin, US Representative",thomas_petri_red.png,thomas_petri_blue.png
+Charles W. Pickering,Pickering,Charles W.,Charles W. Pickering,"Republican Party, Mississippi, US Representative",charles_pickering_red.png,charles_pickering_blue.png
+Joseph R. Pitts,Pitts,Joseph R.,Joseph R. Pitts,"Republican Party, Pennsylvania, US Representative",joseph_pitts_red.png,joseph_pitts_blue.png
+Earl Ralph Pomeroy,Pomeroy,Earl Ralph,Earl Ralph Pomeroy,"Democratic Party, North Dakota, US Representative",earl_pomeroy_red.png,earl_pomeroy_blue.png
+Robert J. Portman,Portman,Robert J.,Robert J. Portman,"Republican Party, Ohio, Senator",robert_portman_red.png,robert_portman_blue.png
+David E. Price,Price,David E.,David E. Price,"Democratic Party, North Carolina, US Representative",david_price_red.png,david_price_blue.png
+Deborah D. Pryce,Pryce,Deborah D.,Deborah D. Pryce,"Republican Party, Ohio, US Representative",deborah_pryce_red.png,deborah_pryce_blue.png
+Ronald E. Paul,Paul,Ronald E.,Ronald E. Paul,"Republican Party, Texas, US Representative",ronald_paul_red.png,ronald_paul_blue.png
+Todd R. Platts,Platts,Todd R.,Todd R. Platts,"Republican Party, Pennsylvania, US Representative",todd_platts_red.png,todd_platts_blue.png
+Adam H. Putnam,Putnam,Adam H.,Adam H. Putnam,"Republican Party, Florida, US Representative",adam_putnam_red.png,adam_putnam_blue.png
+Mike  Pence,Pence,Mike,Mike Pence,"Republican Party, Indiana, US Representative",mike_pence_red.png,mike_pence_blue.png
+Stevan E. Pearce,Pearce,Stevan E.,Stevan E. Pearce,"Republican Party, New Mexico, US Representative",stevan_pearce_red.png,stevan_pearce_blue.png
+Jon Christopher Porter,Porter,Jon Christopher,Jon Christopher Porter,"Republican Party, Nevada, US Representative",jon_porter_red.png,jon_porter_blue.png
+Mark  Pryor,Pryor,Mark,Mark Pryor,"Democratic Party, Arkansas, Senator",mark_pryor_red.png,mark_pryor_blue.png
+Tom  Price,Price,Tom,Tom Price,"Republican Party, Georgia, US Representative",tom_price_red.png,tom_price_blue.png
+Ted  Poe,Poe,Ted,Ted Poe,"Republican Party, Texas, US Representative",ted_poe_red.png,ted_poe_blue.png
+Ed  Perlmutter,Perlmutter,Ed,Ed Perlmutter,"Democratic Party, Colorado, US Representative",ed_perlmutter_red.png,ed_perlmutter_blue.png
+Erik  Paulsen,Paulsen,Erik,Erik Paulsen,"Republican Party, Minnesota, US Representative",erik_paulsen_red.png,erik_paulsen_blue.png
+Gary C. Peters,Peters,Gary C.,Gary C. Peters,"Democratic Party, Michigan, Senator",gary_peters_red.png,gary_peters_blue.png
+Chellie  Pingree,Pingree,Chellie,Chellie Pingree,"Democratic Party, Maine, US Representative",chellie_pingree_red.png,chellie_pingree_blue.png
+Jared  Polis,Polis,Jared,Jared Polis,"Democratic Party, Colorado, US Representative",jared_polis_red.png,jared_polis_blue.png
+Bill  Posey,Posey,Bill,Bill Posey,"Republican Party, Florida, US Representative",bill_posey_red.png,bill_posey_blue.png
+Thomas S. P. Perriello,Perriello,Thomas S. P.,Thomas S. P. Perriello,"Democratic Party, Virginia, US Representative",thomas_perriello_red.png,thomas_perriello_blue.png
+Steven M. Palazzo,Palazzo,Steven M.,Steven M. Palazzo,"Republican Party, Mississippi, US Representative",steven_palazzo_red.png,steven_palazzo_blue.png
+Mike  Pompeo,Pompeo,Mike,Mike Pompeo,"Republican Party, Kansas, US Representative",mike_pompeo_red.png,mike_pompeo_blue.png
+Donald M. Payne,Payne,Donald M.,Donald M. Payne,"Democratic Party, New Jersey, US Representative",donald_payne_red.png,donald_payne_blue.png
+Scott  Perry,Perry,Scott,Scott Perry,"Republican Party, Pennsylvania, US Representative",scott_perry_red.png,scott_perry_blue.png
+Robert  Pittenger,Pittenger,Robert,Robert Pittenger,"Republican Party, North Carolina, US Representative",robert_pittenger_red.png,robert_pittenger_blue.png
+Mark  Pocan,Pocan,Mark,Mark Pocan,"Democratic Party, Wisconsin, US Representative",mark_pocan_red.png,mark_pocan_blue.png
+Scott H. Peters,Peters,Scott H.,Scott H. Peters,"Democratic Party, California, US Representative",scott_peters_red.png,scott_peters_blue.png
+Gary  Palmer,Palmer,Gary,Gary Palmer,"Republican Party, Alabama, US Representative",gary_palmer_red.png,gary_palmer_blue.png
+Bruce  Poliquin,Poliquin,Bruce,Bruce Poliquin,"Republican Party, Maine, US Representative",bruce_poliquin_red.png,bruce_poliquin_blue.png
+David  Perdue,Perdue,David,David Perdue,"Republican Party, Georgia, Senator",david_perdue_red.png,david_perdue_blue.png
+Jimmy  Panetta,Panetta,Jimmy,Jimmy Panetta,"Democratic Party, California, US Representative",jimmy_panetta_red.png,jimmy_panetta_blue.png
+Mike  Quigley,Quigley,Mike,Mike Quigley,"Democratic Party, Illinois, US Representative",mike_quigley_red.png,mike_quigley_blue.png
+Ben  Quayle,Quayle,Ben,Ben Quayle,"Republican Party, Arizona, US Representative",ben_quayle_red.png,ben_quayle_blue.png
+George P. Radanovich,Radanovich,George P.,George P. Radanovich,"Republican Party, California, US Representative",george_radanovich_red.png,george_radanovich_blue.png
+Nick J. Rahall,Rahall,Nick J.,Nick J. Rahall,"Democratic Party, West Virginia, US Representative",nick_rahall_red.png,nick_rahall_blue.png
+James M. Ramstad,Ramstad,James M.,James M. Ramstad,"Republican Party, Minnesota, US Representative",james_ramstad_red.png,james_ramstad_blue.png
+Charles B. Rangel,Rangel,Charles B.,Charles B. Rangel,"Democratic Party, New York, US Representative",charles_rangel_red.png,charles_rangel_blue.png
+John F. Reed,Reed,John F.,John F. Reed,"Democratic Party, Rhode Island, Senator",john_reed_red.png,john_reed_blue.png
+Ralph  Regula,Regula,Ralph,Ralph Regula,"Republican Party, Ohio, US Representative",ralph_regula_red.png,ralph_regula_blue.png
+Harry M. Reid,Reid,Harry M.,Harry M. Reid,"Democratic Party, Nevada, Senator",harry_reid_red.png,harry_reid_blue.png
+Silvestre  Reyes,Reyes,Silvestre,Silvestre Reyes,"Democratic Party, Texas, US Representative",silvestre_reyes_red.png,silvestre_reyes_blue.png
+Pat  Roberts,Roberts,Pat,Pat Roberts,"Republican Party, Kansas, Senator",pat_roberts_red.png,pat_roberts_blue.png
+John D. Rockefeller,Rockefeller,John D.,John D. Rockefeller,"Democratic Party, West Virginia, Senator",john_rockefeller_red.png,john_rockefeller_blue.png
+Harold  Rogers,Rogers,Harold,Harold Rogers,"Republican Party, Kentucky, US Representative",harold_rogers_red.png,harold_rogers_blue.png
+Dana T. Rohrabacher,Rohrabacher,Dana T.,Dana T. Rohrabacher,"Republican Party, California, US Representative",dana_rohrabacher_red.png,dana_rohrabacher_blue.png
+Ileana  Ros-Lehtinen,Ros-Lehtinen,Ileana,Ileana Ros-Lehtinen,"Republican Party, Florida, US Representative",ileana_ros-lehtinen_red.png,ileana_ros-lehtinen_blue.png
+Steven R. Rothman,Rothman,Steven R.,Steven R. Rothman,"Democratic Party, New Jersey, US Representative",steven_rothman_red.png,steven_rothman_blue.png
+Lucille  Roybal-Allard,Roybal-Allard,Lucille,Lucille Roybal-Allard,"Democratic Party, California, US Representative",lucille_roybal-allard_red.png,lucille_roybal-allard_blue.png
+Edward R. Royce,Royce,Edward R.,Edward R. Royce,"Republican Party, California, US Representative",edward_royce_red.png,edward_royce_blue.png
+Bobby L. Rush,Rush,Bobby L.,Bobby L. Rush,"Democratic Party, Illinois, US Representative",bobby_rush_red.png,bobby_rush_blue.png
+Ciro D. Rodriguez,Rodriguez,Ciro D.,Ciro D. Rodriguez,"Democratic Party, Texas, US Representative",ciro_rodriguez_red.png,ciro_rodriguez_blue.png
+Thomas M. Reynolds,Reynolds,Thomas M.,Thomas M. Reynolds,"Republican Party, New York, US Representative",thomas_reynolds_red.png,thomas_reynolds_blue.png
+Paul D. Ryan,Ryan,Paul D.,Paul D. Ryan,"Republican Party, Wisconsin, US Representative",paul_ryan_red.png,paul_ryan_blue.png
+Dennis  Rehberg,Rehberg,Dennis,Dennis Rehberg,"Republican Party, Montana, US Representative",dennis_rehberg_red.png,dennis_rehberg_blue.png
+Mike  Ross,Ross,Mike,Mike Ross,"Democratic Party, Arkansas, US Representative",mike_ross_red.png,mike_ross_blue.png
+Rick  Renzi,Renzi,Rick,Rick Renzi,"Republican Party, Arizona, US Representative",rick_renzi_red.png,rick_renzi_blue.png
+Mike  Rogers,Rogers,Mike,Mike Rogers,"Republican Party, Alabama, US Representative",mike_rogers_red.png,mike_rogers_blue.png
+C. A. Dutch Ruppersberger,Ruppersberger,C. A. Dutch,C. A. Dutch Ruppersberger,"Democratic Party, Maryland, US Representative",c._ruppersberger_red.png,c._ruppersberger_blue.png
+Tim J. Ryan,Ryan,Tim J.,Tim J. Ryan,"Democratic Party, Ohio, US Representative",tim_ryan_red.png,tim_ryan_blue.png
+David G. Reichert,Reichert,David G.,David G. Reichert,"Republican Party, Washington, US Representative",david_reichert_red.png,david_reichert_blue.png
+Peter J. Roskam,Roskam,Peter J.,Peter J. Roskam,"Republican Party, Illinois, US Representative",peter_roskam_red.png,peter_roskam_blue.png
+Laura  Richardson,Richardson,Laura,Laura Richardson,"Democratic Party, California, US Representative",laura_richardson_red.png,laura_richardson_blue.png
+David P. Roe,Roe,David P.,David P. Roe,"Republican Party, Tennessee, US Representative",david_roe_red.png,david_roe_blue.png
+Thomas J. Rooney,Rooney,Thomas J.,Thomas J. Rooney,"Republican Party, Florida, US Representative",thomas_rooney_red.png,thomas_rooney_blue.png
+James  Risch,Risch,James,James Risch,"Republican Party, Idaho, Senator",james_risch_red.png,james_risch_blue.png
+Tom W. Reed,Reed,Tom W.,Tom W. Reed,"Republican Party, New York, US Representative",tom_reed_red.png,tom_reed_blue.png
+James B. Renacci,Renacci,James B.,James B. Renacci,"Republican Party, Ohio, US Representative",james_renacci_red.png,james_renacci_blue.png
+Reid J. Ribble,Ribble,Reid J.,Reid J. Ribble,"Republican Party, Wisconsin, US Representative",reid_ribble_red.png,reid_ribble_blue.png
+Cedric L. Richmond,Richmond,Cedric L.,Cedric L. Richmond,"Democratic Party, Louisiana, US Representative",cedric_richmond_red.png,cedric_richmond_blue.png
+Edward Scott Rigell,Rigell,Edward Scott,Edward Scott Rigell,"Republican Party, Virginia, US Representative",edward_rigell_red.png,edward_rigell_blue.png
+David  Rivera,Rivera,David,David Rivera,"Republican Party, Florida, US Representative",david_rivera_red.png,david_rivera_blue.png
+Martha  Roby,Roby,Martha,Martha Roby,"Republican Party, Alabama, US Representative",martha_roby_red.png,martha_roby_blue.png
+Todd  Rokita,Rokita,Todd,Todd Rokita,"Republican Party, Indiana, US Representative",todd_rokita_red.png,todd_rokita_blue.png
+Dennis A. Ross,Ross,Dennis A.,Dennis A. Ross,"Republican Party, Florida, US Representative",dennis_ross_red.png,dennis_ross_blue.png
+Jon  Runyan,Runyan,Jon,Jon Runyan,"Republican Party, New Jersey, US Representative",jon_runyan_red.png,jon_runyan_blue.png
+Tom  Rice,Rice,Tom,Tom Rice,"Republican Party, South Carolina, US Representative",tom_rice_red.png,tom_rice_blue.png
+Keith J. Rothfus,Rothfus,Keith J.,Keith J. Rothfus,"Republican Party, Pennsylvania, US Representative",keith_rothfus_red.png,keith_rothfus_blue.png
+Raul  Ruiz,Ruiz,Raul,Raul Ruiz,"Democratic Party, California, US Representative",raul_ruiz_red.png,raul_ruiz_blue.png
+John  Ratcliffe,Ratcliffe,John,John Ratcliffe,"Republican Party, Texas, US Representative",john_ratcliffe_red.png,john_ratcliffe_blue.png
+Kathleen  Rice,Rice,Kathleen,Kathleen Rice,"Democratic Party, New York, US Representative",kathleen_rice_red.png,kathleen_rice_blue.png
+David  Rouzer,Rouzer,David,David Rouzer,"Republican Party, North Carolina, US Representative",david_rouzer_red.png,david_rouzer_blue.png
+Steve  Russell,Russell,Steve,Steve Russell,"Republican Party, Oklahoma, US Representative",steve_russell_red.png,steve_russell_blue.png
+Mike  Rounds,Rounds,Mike,Mike Rounds,"Republican Party, South Dakota, Senator",mike_rounds_red.png,mike_rounds_blue.png
+Jamie  Raskin,Raskin,Jamie,Jamie Raskin,"Democratic Party, Maryland, US Representative",jamie_raskin_red.png,jamie_raskin_blue.png
+Francis  Rooney,Rooney,Francis,Francis Rooney,"Republican Party, Florida, US Representative",francis_rooney_red.png,francis_rooney_blue.png
+Jacky  Rosen,Rosen,Jacky,Jacky Rosen,"Democratic Party, Nevada, US Representative",jacky_rosen_red.png,jacky_rosen_blue.png
+John  Rutherford,Rutherford,John,John Rutherford,"Republican Party, Florida, US Representative",john_rutherford_red.png,john_rutherford_blue.png
+Loretta B. Sanchez,Sanchez,Loretta B.,Loretta B. Sanchez,"Democratic Party, California, US Representative",loretta_sanchez_red.png,loretta_sanchez_blue.png
+Bernard  Sanders,Sanders,Bernard,Bernard Sanders,"Independent, Vermont, Senator",bernard_sanders_red.png,bernard_sanders_blue.png
+Marshall  Sanford,Sanford,Marshall,Marshall Sanford,"Republican Party, South Carolina, US Representative",marshall_sanford_red.png,marshall_sanford_blue.png
+H. James Saxton,Saxton,H. James,H. James Saxton,"Republican Party, New Jersey, US Representative",h._saxton_red.png,h._saxton_blue.png
+Charles E. Schumer,Schumer,Charles E.,Charles E. Schumer,"Democratic Party, New York, Senator",charles_schumer_red.png,charles_schumer_blue.png
+Robert C. Scott,Scott,Robert C.,Robert C. Scott,"Democratic Party, Virginia, US Representative",robert_scott_red.png,robert_scott_blue.png
+F. James Sensenbrenner,Sensenbrenner,F. James,F. James Sensenbrenner,"Republican Party, Wisconsin, US Representative",f._sensenbrenner_red.png,f._sensenbrenner_blue.png
+Jos√© E. Serrano,Serrano,Jos√© E.,Jos√© E. Serrano,"Democratic Party, New York, US Representative",jos„©_serrano_red.png,jos„©_serrano_blue.png
+Pete A. Sessions,Sessions,Pete A.,Pete A. Sessions,"Republican Party, Texas, US Representative",pete_sessions_red.png,pete_sessions_blue.png
+John B. Shadegg,Shadegg,John B.,John B. Shadegg,"Republican Party, Arizona, US Representative",john_shadegg_red.png,john_shadegg_blue.png
+Richard C. Shelby,Shelby,Richard C.,Richard C. Shelby,"Republican Party, Alabama, Senator",richard_shelby_red.png,richard_shelby_blue.png
+Brad J. Sherman,Sherman,Brad J.,Brad J. Sherman,"Democratic Party, California, US Representative",brad_sherman_red.png,brad_sherman_blue.png
+John M. Shimkus,Shimkus,John M.,John M. Shimkus,"Republican Party, Illinois, US Representative",john_shimkus_red.png,john_shimkus_blue.png
+Ike  Skelton,Skelton,Ike,Ike Skelton,"Democratic Party, Missouri, US Representative",ike_skelton_red.png,ike_skelton_blue.png
+Louise McIntosh Slaughter,Slaughter,Louise McIntosh,Louise McIntosh Slaughter,"Democratic Party, New York, US Representative",louise_slaughter_red.png,louise_slaughter_blue.png
+Adam  Smith,Smith,Adam,Adam Smith,"Democratic Party, Washington, US Representative",adam_smith_red.png,adam_smith_blue.png
+Christopher H. Smith,Smith,Christopher H.,Christopher H. Smith,"Republican Party, New Jersey, US Representative",christopher_smith_red.png,christopher_smith_blue.png
+Lamar S. Smith,Smith,Lamar S.,Lamar S. Smith,"Republican Party, Texas, US Representative",lamar_smith_red.png,lamar_smith_blue.png
+Olympia J. Snowe,Snowe,Olympia J.,Olympia J. Snowe,"Republican Party, Maine, Senator",olympia_snowe_red.png,olympia_snowe_blue.png
+Victor F. Snyder,Snyder,Victor F.,Victor F. Snyder,"Democratic Party, Arkansas, US Representative",victor_snyder_red.png,victor_snyder_blue.png
+Arlen  Specter,Specter,Arlen,Arlen Specter,"Democratic Party, Pennsylvania, Senator",arlen_specter_red.png,arlen_specter_blue.png
+John McKee Spratt,Spratt,John McKee,John McKee Spratt,"Democratic Party, South Carolina, US Representative",john_spratt_red.png,john_spratt_blue.png
+Debbie Ann Stabenow,Stabenow,Debbie Ann,Debbie Ann Stabenow,"Democratic Party, Michigan, Senator",debbie_stabenow_red.png,debbie_stabenow_blue.png
+Fortney H. Stark,Stark,Fortney H.,Fortney H. Stark,"Democratic Party, California, US Representative",fortney_stark_red.png,fortney_stark_blue.png
+Clifford B. Stearns,Stearns,Clifford B.,Clifford B. Stearns,"Republican Party, Florida, US Representative",clifford_stearns_red.png,clifford_stearns_blue.png
+Ted F. Stevens,Stevens,Ted F.,Ted F. Stevens,"Republican Party, Alaska, Senator",ted_stevens_red.png,ted_stevens_blue.png
+Bart T. Stupak,Stupak,Bart T.,Bart T. Stupak,"Democratic Party, Michigan, US Representative",bart_stupak_red.png,bart_stupak_blue.png
+John E. Sununu,Sununu,John E.,John E. Sununu,"Republican Party, New Hampshire, Senator",john_sununu_red.png,john_sununu_blue.png
+Jefferson B. Sessions,Sessions,Jefferson B.,Jefferson B. Sessions,"Republican Party, Alabama, Senator",jefferson_sessions_red.png,jefferson_sessions_blue.png
+Gordon Harold Smith,Smith,Gordon Harold,Gordon Harold Smith,"Republican Party, Oregon, Senator",gordon_smith_red.png,gordon_smith_blue.png
+Mark Edward Souder,Souder,Mark Edward,Mark Edward Souder,"Republican Party, Indiana, US Representative",mark_souder_red.png,mark_souder_blue.png
+Christopher H. Shays,Shays,Christopher H.,Christopher H. Shays,"Republican Party, Connecticut, US Representative",christopher_shays_red.png,christopher_shays_blue.png
+Janice D. Schakowsky,Schakowsky,Janice D.,Janice D. Schakowsky,"Democratic Party, Illinois, US Representative",janice_schakowsky_red.png,janice_schakowsky_blue.png
+Michael K. Simpson,Simpson,Michael K.,Michael K. Simpson,"Republican Party, Idaho, US Representative",michael_simpson_red.png,michael_simpson_blue.png
+Adam B. Schiff,Schiff,Adam B.,Adam B. Schiff,"Democratic Party, California, US Representative",adam_schiff_red.png,adam_schiff_blue.png
+Hilda L. Solis,Solis,Hilda L.,Hilda L. Solis,"Democratic Party, California, US Representative",hilda_solis_red.png,hilda_solis_blue.png
+Bill  Shuster,Shuster,Bill,Bill Shuster,"Republican Party, Pennsylvania, US Representative",bill_shuster_red.png,bill_shuster_blue.png
+John A. Sullivan,Sullivan,John A.,John A. Sullivan,"Republican Party, Oklahoma, US Representative",john_sullivan_red.png,john_sullivan_blue.png
+Linda T. S√°nchez,S√°nchez,Linda T.,Linda T. S√°nchez,"Democratic Party, California, US Representative",linda_s„°nchez_red.png,linda_s„°nchez_blue.png
+David  Scott,Scott,David,David Scott,"Democratic Party, Georgia, US Representative",david_scott_red.png,david_scott_blue.png
+John Tony Salazar,Salazar,John Tony,John Tony Salazar,"Democratic Party, Colorado, US Representative",john_salazar_red.png,john_salazar_blue.png
+Allyson Y. Schwartz,Schwartz,Allyson Y.,Allyson Y. Schwartz,"Democratic Party, Pennsylvania, US Representative",allyson_schwartz_red.png,allyson_schwartz_blue.png
+Ken  Salazar,Salazar,Ken,Ken Salazar,"Democratic Party, Colorado, Senator",ken_salazar_red.png,ken_salazar_blue.png
+Jean  Schmidt,Schmidt,Jean,Jean Schmidt,"Republican Party, Ohio, US Representative",jean_schmidt_red.png,jean_schmidt_blue.png
+Albio  Sires,Sires,Albio,Albio Sires,"Democratic Party, New Jersey, US Representative",albio_sires_red.png,albio_sires_blue.png
+Bill  Sali,Sali,Bill,Bill Sali,"Republican Party, Idaho, US Representative",bill_sali_red.png,bill_sali_blue.png
+John P. Sarbanes,Sarbanes,John P.,John P. Sarbanes,"Democratic Party, Maryland, US Representative",john_sarbanes_red.png,john_sarbanes_blue.png
+Joe  Sestak,Sestak,Joe,Joe Sestak,"Democratic Party, Pennsylvania, US Representative",joe_sestak_red.png,joe_sestak_blue.png
+Carol  Shea-Porter,Shea-Porter,Carol,Carol Shea-Porter,"Democratic Party, New Hampshire, US Representative",carol_shea-porter_red.png,carol_shea-porter_blue.png
+Heath  Shuler,Shuler,Heath,Heath Shuler,"Democratic Party, North Carolina, US Representative",heath_shuler_red.png,heath_shuler_blue.png
+Adrian  Smith,Smith,Adrian,Adrian Smith,"Republican Party, Nebraska, US Representative",adrian_smith_red.png,adrian_smith_blue.png
+Zachary T. Space,Space,Zachary T.,Zachary T. Space,"Democratic Party, Ohio, US Representative",zachary_space_red.png,zachary_space_blue.png
+Betty  Sutton,Sutton,Betty,Betty Sutton,"Democratic Party, Ohio, US Representative",betty_sutton_red.png,betty_sutton_blue.png
+Jackie  Speier,Speier,Jackie,Jackie Speier,"Democratic Party, California, US Representative",jackie_speier_red.png,jackie_speier_blue.png
+Steve Joseph Scalise,Scalise,Steve Joseph,Steve Joseph Scalise,"Republican Party, Louisiana, US Representative",steve_scalise_red.png,steve_scalise_blue.png
+Mark H. Schauer,Schauer,Mark H.,Mark H. Schauer,"Democratic Party, Michigan, US Representative",mark_schauer_red.png,mark_schauer_blue.png
+Aaron  Schock,Schock,Aaron,Aaron Schock,"Republican Party, Illinois, US Representative",aaron_schock_red.png,aaron_schock_blue.png
+Kurt  Schrader,Schrader,Kurt,Kurt Schrader,"Democratic Party, Oregon, US Representative",kurt_schrader_red.png,kurt_schrader_blue.png
+Jeanne  Shaheen,Shaheen,Jeanne,Jeanne Shaheen,"Democratic Party, New Hampshire, Senator",jeanne_shaheen_red.png,jeanne_shaheen_blue.png
+Robert T. Schilling,Schilling,Robert T.,Robert T. Schilling,"Republican Party, Illinois, US Representative",robert_schilling_red.png,robert_schilling_blue.png
+David  Schweikert,Schweikert,David,David Schweikert,"Republican Party, Arizona, US Representative",david_schweikert_red.png,david_schweikert_blue.png
+Tim  Scott,Scott,Tim,Tim Scott,"Republican Party, South Carolina, Senator",tim_scott_red.png,tim_scott_blue.png
+Terri A. Sewell,Sewell,Terri A.,Terri A. Sewell,"Democratic Party, Alabama, US Representative",terri_sewell_red.png,terri_sewell_blue.png
+Steve  Southerland,Southerland,Steve,Steve Southerland,"Republican Party, Florida, US Representative",steve_southerland_red.png,steve_southerland_blue.png
+Steve  Stivers,Stivers,Steve,Steve Stivers,"Republican Party, Ohio, US Representative",steve_stivers_red.png,steve_stivers_blue.png
+Marlin A. Stutzman,Stutzman,Marlin A.,Marlin A. Stutzman,"Republican Party, Indiana, US Representative",marlin_stutzman_red.png,marlin_stutzman_blue.png
+Austin  Scott,Scott,Austin,Austin Scott,"Republican Party, Georgia, US Representative",austin_scott_red.png,austin_scott_blue.png
+Bradley S. Schneider,Schneider,Bradley S.,Bradley S. Schneider,"Democratic Party, Illinois, US Representative",bradley_schneider_red.png,bradley_schneider_blue.png
+Kyrsten  Sinema,Sinema,Kyrsten,Kyrsten Sinema,"Democratic Party, Arizona, US Representative",kyrsten_sinema_red.png,kyrsten_sinema_blue.png
+Chris  Stewart,Stewart,Chris,Chris Stewart,"Republican Party, Utah, US Representative",chris_stewart_red.png,chris_stewart_blue.png
+Eric  Swalwell,Swalwell,Eric,Eric Swalwell,"Democratic Party, California, US Representative",eric_swalwell_red.png,eric_swalwell_blue.png
+Brian Emanuel Schatz,Schatz,Brian Emanuel,Brian Emanuel Schatz,"Democratic Party, Hawaii, Senator",brian_schatz_red.png,brian_schatz_blue.png
+Jason T. Smith,Smith,Jason T.,Jason T. Smith,"Republican Party, Missouri, US Representative",jason_smith_red.png,jason_smith_blue.png
+Elise  Stefanik,Stefanik,Elise,Elise Stefanik,"Republican Party, New York, US Representative",elise_stefanik_red.png,elise_stefanik_blue.png
+Benjamin Eric Sasse,Sasse,Benjamin Eric,Benjamin Eric Sasse,"Republican Party, Nebraska, Senator",benjamin_sasse_red.png,benjamin_sasse_blue.png
+Dan  Sullivan,Sullivan,Dan,Dan Sullivan,"Republican Party, Alaska, Senator",dan_sullivan_red.png,dan_sullivan_blue.png
+Lloyd  Smucker,Smucker,Lloyd,Lloyd Smucker,"Republican Party, Pennsylvania, US Representative",lloyd_smucker_red.png,lloyd_smucker_blue.png
+Darren  Soto,Soto,Darren,Darren Soto,"Democratic Party, Florida, US Representative",darren_soto_red.png,darren_soto_blue.png
+Thomas  Suozzi,Suozzi,Thomas,Thomas Suozzi,"Democratic Party, New York, US Representative",thomas_suozzi_red.png,thomas_suozzi_blue.png
+John S. Tanner,Tanner,John S.,John S. Tanner,"Democratic Party, Tennessee, US Representative",john_tanner_red.png,john_tanner_blue.png
+Ellen O. Tauscher,Tauscher,Ellen O.,Ellen O. Tauscher,"Democratic Party, California, US Representative",ellen_tauscher_red.png,ellen_tauscher_blue.png
+Gene  Taylor,Taylor,Gene,Gene Taylor,"Democratic Party, Mississippi, US Representative",gene_taylor_red.png,gene_taylor_blue.png
+Bennie G. Thompson,Thompson,Bennie G.,Bennie G. Thompson,"Democratic Party, Mississippi, US Representative",bennie_thompson_red.png,bennie_thompson_blue.png
+Mac M. Thornberry,Thornberry,Mac M.,Mac M. Thornberry,"Republican Party, Texas, US Representative",mac_thornberry_red.png,mac_thornberry_blue.png
+John  Thune,Thune,John,John Thune,"Republican Party, South Dakota, Senator",john_thune_red.png,john_thune_blue.png
+Todd  Tiahrt,Tiahrt,Todd,Todd Tiahrt,"Republican Party, Kansas, US Representative",todd_tiahrt_red.png,todd_tiahrt_blue.png
+John F. Tierney,Tierney,John F.,John F. Tierney,"Democratic Party, Massachusetts, US Representative",john_tierney_red.png,john_tierney_blue.png
+Edolphus  Towns,Towns,Edolphus,Edolphus Towns,"Democratic Party, New York, US Representative",edolphus_towns_red.png,edolphus_towns_blue.png
+Thomas G. Tancredo,Tancredo,Thomas G.,Thomas G. Tancredo,"Republican Party, Colorado, US Representative",thomas_tancredo_red.png,thomas_tancredo_blue.png
+Lee R. Terry,Terry,Lee R.,Lee R. Terry,"Republican Party, Nebraska, US Representative",lee_terry_red.png,lee_terry_blue.png
+Mike Michael Thompson,Thompson,Mike Michael,Mike Michael Thompson,"Democratic Party, California, US Representative",mike_thompson_red.png,mike_thompson_blue.png
+Patrick J. Toomey,Toomey,Patrick J.,Patrick J. Toomey,"Republican Party, Pennsylvania, Senator",patrick_toomey_red.png,patrick_toomey_blue.png
+Patrick J. Tiberi,Tiberi,Patrick J.,Patrick J. Tiberi,"Republican Party, Ohio, US Representative",patrick_tiberi_red.png,patrick_tiberi_blue.png
+Michael R. Turner,Turner,Michael R.,Michael R. Turner,"Republican Party, Ohio, US Representative",michael_turner_red.png,michael_turner_blue.png
+Jon  Tester,Tester,Jon,Jon Tester,"Democratic Party, Montana, Senator",jon_tester_red.png,jon_tester_blue.png
+Niki S. Tsongas,Tsongas,Niki S.,Niki S. Tsongas,"Democratic Party, Massachusetts, US Representative",niki_tsongas_red.png,niki_tsongas_blue.png
+Harry  Teague,Teague,Harry,Harry Teague,"Democratic Party, New Mexico, US Representative",harry_teague_red.png,harry_teague_blue.png
+Glenn  Thompson,Thompson,Glenn,Glenn Thompson,"Republican Party, Pennsylvania, US Representative",glenn_thompson_red.png,glenn_thompson_blue.png
+Dina  Titus,Titus,Dina,Dina Titus,"Democratic Party, Nevada, US Representative",dina_titus_red.png,dina_titus_blue.png
+Paul  Tonko,Tonko,Paul,Paul Tonko,"Democratic Party, New York, US Representative",paul_tonko_red.png,paul_tonko_blue.png
+Scott R. Tipton,Tipton,Scott R.,Scott R. Tipton,"Republican Party, Colorado, US Representative",scott_tipton_red.png,scott_tipton_blue.png
+Robert L. Turner,Turner,Robert L.,Robert L. Turner,"Republican Party, New York, US Representative",robert_turner_red.png,robert_turner_blue.png
+Mark  Takano,Takano,Mark,Mark Takano,"Democratic Party, California, US Representative",mark_takano_red.png,mark_takano_blue.png
+Norma  Torres,Torres,Norma,Norma Torres,"Democratic Party, California, US Representative",norma_torres_red.png,norma_torres_blue.png
+Dave  Trott,Trott,Dave,Dave Trott,"Republican Party, Michigan, US Representative",dave_trott_red.png,dave_trott_blue.png
+Thom  Tillis,Tillis,Thom,Thom Tillis,"Republican Party, North Carolina, Senator",thom_tillis_red.png,thom_tillis_blue.png
+Scott  Taylor,Taylor,Scott,Scott Taylor,"Republican Party, Virginia, US Representative",scott_taylor_red.png,scott_taylor_blue.png
+Claudia  Tenney,Tenney,Claudia,Claudia Tenney,"Republican Party, New York, US Representative",claudia_tenney_red.png,claudia_tenney_blue.png
+Fred Stephen Upton,Upton,Fred Stephen,Fred Stephen Upton,"Republican Party, Michigan, US Representative",fred_upton_red.png,fred_upton_blue.png
+Mark E. Udall,Udall,Mark E.,Mark E. Udall,"Democratic Party, Colorado, Senator",mark_udall_red.png,mark_udall_blue.png
+Tom S. Udall,Udall,Tom S.,Tom S. Udall,"Democratic Party, New Mexico, Senator",tom_udall_red.png,tom_udall_blue.png
+Nydia M. Vel√°zquez,Vel√°zquez,Nydia M.,Nydia M. Vel√°zquez,"Democratic Party, New York, US Representative",nydia_vel„°zquez_red.png,nydia_vel„°zquez_blue.png
+Peter J. Visclosky,Visclosky,Peter J.,Peter J. Visclosky,"Democratic Party, Indiana, US Representative",peter_visclosky_red.png,peter_visclosky_blue.png
+George V. Voinovich,Voinovich,George V.,George V. Voinovich,"Republican Party, Ohio, Senator",george_voinovich_red.png,george_voinovich_blue.png
+David  Vitter,Vitter,David,David Vitter,"Republican Party, Louisiana, Senator",david_vitter_red.png,david_vitter_blue.png
+Chris  Van Hollen,Van Hollen,Chris,Chris Van Hollen,"Democratic Party, Maryland, Senator",chris_van_hollen_red.png,chris_van_hollen_blue.png
+David G. Valadao,Valadao,David G.,David G. Valadao,"Republican Party, California, US Representative",david_valadao_red.png,david_valadao_blue.png
+Juan  Vargas,Vargas,Juan,Juan Vargas,"Democratic Party, California, US Representative",juan_vargas_red.png,juan_vargas_blue.png
+Marc A. Veasey,Veasey,Marc A.,Marc A. Veasey,"Democratic Party, Texas, US Representative",marc_veasey_red.png,marc_veasey_blue.png
+Filemon  Vela,Vela,Filemon,Filemon Vela,"Democratic Party, Texas, US Representative",filemon_vela_red.png,filemon_vela_blue.png
+James T. Walsh,Walsh,James T.,James T. Walsh,"Republican Party, New York, US Representative",james_walsh_red.png,james_walsh_blue.png
+Zach  Wamp,Wamp,Zach,Zach Wamp,"Republican Party, Tennessee, US Representative",zach_wamp_red.png,zach_wamp_blue.png
+John W. Warner,Warner,John W.,John W. Warner,"Republican Party, Virginia, Senator",john_warner_red.png,john_warner_blue.png
+Maxine  Waters,Waters,Maxine,Maxine Waters,"Democratic Party, California, US Representative",maxine_waters_red.png,maxine_waters_blue.png
+Melvin L. Watt,Watt,Melvin L.,Melvin L. Watt,"Democratic Party, North Carolina, US Representative",melvin_watt_red.png,melvin_watt_blue.png
+Henry A. Waxman,Waxman,Henry A.,Henry A. Waxman,"Democratic Party, California, US Representative",henry_waxman_red.png,henry_waxman_blue.png
+David J. Weldon,Weldon,David J.,David J. Weldon,"Republican Party, Florida, US Representative",david_weldon_red.png,david_weldon_blue.png
+Gerald C. Weller,Weller,Gerald C.,Gerald C. Weller,"Republican Party, Illinois, US Representative",gerald_weller_red.png,gerald_weller_blue.png
+Robert  Wexler,Wexler,Robert,Robert Wexler,"Democratic Party, Florida, US Representative",robert_wexler_red.png,robert_wexler_blue.png
+Ed  Whitfield,Whitfield,Ed,Ed Whitfield,"Republican Party, Kentucky, US Representative",ed_whitfield_red.png,ed_whitfield_blue.png
+Roger F. Wicker,Wicker,Roger F.,Roger F. Wicker,"Republican Party, Mississippi, Senator",roger_wicker_red.png,roger_wicker_blue.png
+Frank R. Wolf,Wolf,Frank R.,Frank R. Wolf,"Republican Party, Virginia, US Representative",frank_wolf_red.png,frank_wolf_blue.png
+Lynn C. Woolsey,Woolsey,Lynn C.,Lynn C. Woolsey,"Democratic Party, California, US Representative",lynn_woolsey_red.png,lynn_woolsey_blue.png
+Ron  Wyden,Wyden,Ron,Ron Wyden,"Democratic Party, Oregon, Senator",ron_wyden_red.png,ron_wyden_blue.png
+Albert Russell Wynn,Wynn,Albert Russell,Albert Russell Wynn,"Democratic Party, Maryland, US Representative",albert_wynn_red.png,albert_wynn_blue.png
+Heather A. Wilson,Wilson,Heather A.,Heather A. Wilson,"Republican Party, New Mexico, US Representative",heather_wilson_red.png,heather_wilson_blue.png
+Greg P. Walden,Walden,Greg P.,Greg P. Walden,"Republican Party, Oregon, US Representative",greg_walden_red.png,greg_walden_blue.png
+Anthony David Weiner,Weiner,Anthony David,Anthony David Weiner,"Democratic Party, New York, US Representative",anthony_weiner_red.png,anthony_weiner_blue.png
+David  Wu,Wu,David,David Wu,"Democratic Party, Oregon, US Representative",david_wu_red.png,david_wu_blue.png
+Diane E. Watson,Watson,Diane E.,Diane E. Watson,"Democratic Party, California, US Representative",diane_watson_red.png,diane_watson_blue.png
+Joe G. Wilson,Wilson,Joe G.,Joe G. Wilson,"Republican Party, South Carolina, US Representative",joe_wilson_red.png,joe_wilson_blue.png
+Lynn A. Westmoreland,Westmoreland,Lynn A.,Lynn A. Westmoreland,"Republican Party, Georgia, US Representative",lynn_westmoreland_red.png,lynn_westmoreland_blue.png
+Debbie  Wasserman Schultz,Wasserman Schultz,Debbie,Debbie Wasserman Schultz,"Democratic Party, Florida, US Representative",debbie_wasserman_schultz_red.png,debbie_wasserman_schultz_blue.png
+Tim  Walberg,Walberg,Tim,Tim Walberg,"Republican Party, Michigan, US Representative",tim_walberg_red.png,tim_walberg_blue.png
+Timothy James Walz,Walz,Timothy James,Timothy James Walz,"Democratic Party, Minnesota, US Representative",timothy_walz_red.png,timothy_walz_blue.png
+Peter  Welch,Welch,Peter,Peter Welch,"Democratic Party, Vermont, US Representative",peter_welch_red.png,peter_welch_blue.png
+Charles A. Wilson,Wilson,Charles A.,Charles A. Wilson,"Democratic Party, Ohio, US Representative",charles_wilson_red.png,charles_wilson_blue.png
+Sheldon  Whitehouse,Whitehouse,Sheldon,Sheldon Whitehouse,"Democratic Party, Rhode Island, Senator",sheldon_whitehouse_red.png,sheldon_whitehouse_blue.png
+Robert J. Wittman,Wittman,Robert J.,Robert J. Wittman,"Republican Party, Virginia, US Representative",robert_wittman_red.png,robert_wittman_blue.png
+Mark  Warner,Warner,Mark,Mark Warner,"Democratic Party, Virginia, Senator",mark_warner_red.png,mark_warner_blue.png
+Daniel  Webster,Webster,Daniel,Daniel Webster,"Republican Party, Florida, US Representative",daniel_webster_red.png,daniel_webster_blue.png
+Allen  West,West,Allen,Allen West,"Republican Party, Florida, US Representative",allen_west_red.png,allen_west_blue.png
+Frederica S. Wilson,Wilson,Frederica S.,Frederica S. Wilson,"Democratic Party, Florida, US Representative",frederica_wilson_red.png,frederica_wilson_blue.png
+Steve  Womack,Womack,Steve,Steve Womack,"Republican Party, Arkansas, US Representative",steve_womack_red.png,steve_womack_blue.png
+Rob  Woodall,Woodall,Rob,Rob Woodall,"Republican Party, Georgia, US Representative",rob_woodall_red.png,rob_woodall_blue.png
+Joe  Walsh,Walsh,Joe,Joe Walsh,"Republican Party, Illinois, US Representative",joe_walsh_red.png,joe_walsh_blue.png
+Ann  Wagner,Wagner,Ann,Ann Wagner,"Republican Party, Missouri, US Representative",ann_wagner_red.png,ann_wagner_blue.png
+Jackie  Walorski,Walorski,Jackie,Jackie Walorski,"Republican Party, Indiana, US Representative",jackie_walorski_red.png,jackie_walorski_blue.png
+Randy K. Weber,Weber,Randy K.,Randy K. Weber,"Republican Party, Texas, US Representative",randy_weber_red.png,randy_weber_blue.png
+Brad R. Wenstrup,Wenstrup,Brad R.,Brad R. Wenstrup,"Republican Party, Ohio, US Representative",brad_wenstrup_red.png,brad_wenstrup_blue.png
+Roger  Williams,Williams,Roger,Roger Williams,"Republican Party, Texas, US Representative",roger_williams_red.png,roger_williams_blue.png
+Elizabeth  Warren,Warren,Elizabeth,Elizabeth Warren,"Democratic Party, Massachusetts, Senator",elizabeth_warren_red.png,elizabeth_warren_blue.png
+Mark  Walker,Walker,Mark,Mark Walker,"Republican Party, North Carolina, US Representative",mark_walker_red.png,mark_walker_blue.png
+Mimi  Walters,Walters,Mimi,Mimi Walters,"Republican Party, California, US Representative",mimi_walters_red.png,mimi_walters_blue.png
+Bruce  Westerman,Westerman,Bruce,Bruce Westerman,"Republican Party, Arkansas, US Representative",bruce_westerman_red.png,bruce_westerman_blue.png
+Bonnie  Watson Coleman,Watson Coleman,Bonnie,Bonnie Watson Coleman,"Democratic Party, New Jersey, US Representative",bonnie_watson_coleman_red.png,bonnie_watson_coleman_blue.png
+C. W. Bill Young,Young,C. W. Bill,C. W. Bill Young,"Republican Party, Florida, US Representative",c._young_red.png,c._young_blue.png
+Don E. Young,Young,Don E.,Don E. Young,"Republican Party, Alaska, US Representative",don_young_red.png,don_young_blue.png
+John A. Yarmuth,Yarmuth,John A.,John A. Yarmuth,"Democratic Party, Kentucky, US Representative",john_yarmuth_red.png,john_yarmuth_blue.png
+Kevin  Yoder,Yoder,Kevin,Kevin Yoder,"Republican Party, Kansas, US Representative",kevin_yoder_red.png,kevin_yoder_blue.png
+Todd C. Young,Young,Todd C.,Todd C. Young,"Republican Party, Indiana, Senator",todd_young_red.png,todd_young_blue.png
+Ted S. Yoho,Yoho,Ted S.,Ted S. Yoho,"Republican Party, Florida, US Representative",ted_yoho_red.png,ted_yoho_blue.png
+David  Young,Young,David,David Young,"Republican Party, Iowa, US Representative",david_young_red.png,david_young_blue.png
+Lee  Zeldin,Zeldin,Lee,Lee Zeldin,"Republican Party, New York, US Representative",lee_zeldin_red.png,lee_zeldin_blue.png
+Ryan  Zinke,Zinke,Ryan,Ryan Zinke,"Republican Party, Montana, US Representative",ryan_zinke_red.png,ryan_zinke_blue.png
