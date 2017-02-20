@@ -2,7 +2,6 @@
 /public/node_modules
 /public/bower_components
 /public/js/bundled.js
-/public/build/js/bundled.js
 /public/storage
 /storage/*.key
 /vendor
