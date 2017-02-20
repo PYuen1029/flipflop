@@ -11,10 +11,12 @@
 	require('angular-aria');
 	require('angular-ui-bootstrap');
 
-	var ModalDialog = require('./directives/ModalDialogDir');
+	var ModalDialogDir = require('./directives/ModalDialogDir');
+	var TagPenDir = require('./directives/TagPenDir');
 	var homepageCtrl = require('./controllers/HomepageCtrl');
 	var submitCtrl = require('./controllers/SubmitCtrl');
 	var GetCardsSvc = require('./services/GetCardsSvc');
+	var GetTagsSvc = require('./services/GetTagsSvc');
 	var GetPoliticiansSvc = require('./services/GetPoliticiansSvc');
 	var FlipFlopsApiSvc = require('./services/FlipFlopsApiSvc');
 	var CardFcty = require('./factories/CardFcty');
@@ -57,14 +59,16 @@
 	.factory('CardFcty', ['$http', 'IMGSRC', CardFcty])
 	.factory('FlipFlopsApiSvc', ['$http', '$location', FlipFlopsApiSvc])
 	.service('GetCardsSvc', ['$http', 'CardFcty', GetCardsSvc])
+	.service('GetTagsSvc', ['$http', GetTagsSvc])
 	.factory('GetPoliticiansSvc', ['$http', GetPoliticiansSvc])
 	
 	//controllers
-	.controller('HomepageController', ['$scope', '$http', 'GetCardsSvc', homepageCtrl])
+	.controller('HomepageController', ['$scope', 'GetCardsSvc', homepageCtrl])
 	.controller('SubmitController', ['$scope', '$http', 'FlipFlopsApiSvc', 'GetPoliticiansSvc', '$location', submitCtrl])
 	
 	// directives
-	.directive('modalDialog', ModalDialog)
+	.directive('modalDialogDir', ModalDialogDir)
+	.directive('tagPenDir', ['GetTagsSvc', TagPenDir])
 	.directive('readMore', ReadMore)
 	.directive('stopEvent', function () {
         return {

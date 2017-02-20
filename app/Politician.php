@@ -24,6 +24,11 @@ class Politician extends Model
 		return $this->hasMany('App\Flipflop');
 	}
 
+	public function tags()
+	{
+		return $this->morphToMany('App\Tag', 'taggable');
+	}
+
 	/**
 	 * METHODS
 	 */
@@ -32,4 +37,15 @@ class Politician extends Model
 	{
 		return $this->first_name . ' ' . $this->last_name;
 	}
+
+	/**
+	 * ACCESSORS AND MUTATORS
+	 */
+	
+	// public function getTagsAttribute($value)
+	// {
+	// 	return explode(', ', $value);
+	// }
+
+
 }

@@ -29,3 +29,9 @@
 div.projects-holder-3 {
 	margin-top: 50px;
 }
+ul.project-filter{
+    padding: 20px;
+    background: #eae3ca;
+    height: 200px;
+    overflow-y: scroll;
+}

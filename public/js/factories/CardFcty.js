@@ -1,4 +1,85 @@
 module.exports = function($http, IMGSRC) {
+	
+	// CARD PROTOTYPE
+	var Card = function(data) {
+		for (var key in data) {
+			this[key] = data[key];
+		}
+
+		this.setContentStrategy(this.source_type);
+
+		this.sourceType = this.source_type;
+		this.content = this.contentStrategy.content;
+		this.source = this.contentStrategy.source;
+		this.sourceDate = this.contentStrategy.sourceDate;
+
+		this.background = this.flipBackground;
+
+		var imgPromise = $http.get(IMGSRC.imgSrc + this.background);
+
+		imgPromise.then(
+			// success
+			function(data) {
+				this.style = {
+					backgroundImage: 'url( ' + IMGSRC.imgSrc + this.background + ')',
+					backgroundSize: 'cover'
+				};
+			}.bind(this),
+			// failure
+			function(data){
+				this.background = IMGSRC.defaultFlip;
+
+				this.style = {
+					backgroundImage: 'url( ' + IMGSRC.imgSrc + this.background + ')',
+					backgroundSize: 'cover'
+				};
+			}.bind(this)
+		);
+
+	};
+
+	Card.prototype = {
+		setContentStrategy: function(type) {
+			switch (type) {
+				case 'text':
+					this.contentStrategy = new TextContentStrategy(this);
+					break;
+				case 'youtube':
+					this.contentStrategy = new YoutubeContentStrategy(this);
+					break;
+			}
+		},
+
+		flipCard: function() {
+			this.content = this.contentStrategy.flipCard();
+			this.source = this.contentStrategy.source;
+			this.sourceDate = this.contentStrategy.sourceDate;
+			this.background = (this.contentStrategy.flipped) ? this.flopBackground : this.flipBackground;
+			var imgPromise = $http.get(IMGSRC.imgSrc + this.background);
+
+			imgPromise.then(
+				// success
+				function(data) {
+					this.style = {
+						backgroundImage: 'url( ' + IMGSRC.imgSrc + this.background + ')',
+						backgroundSize: 'cover'
+					};					
+				}.bind(this),
+				// failure
+				function(data){
+					this.background = (this.contentStrategy.flipped) ? IMGSRC.defaultFlop : IMGSRC.defaultFlip;
+
+					this.style = {
+						backgroundImage: 'url( ' + IMGSRC.imgSrc + this.background + ')',
+						backgroundSize: 'cover'
+					};					
+				}.bind(this)
+			);
+		}
+	};
+
+
+
 	// CONTENT STRATEGIES PROTOTYPES
 	/**	
 	 * Abstract Class that is extended by TextContentStrategy, YoutubeContentStrategy, etc.
@@ -94,84 +175,6 @@ module.exports = function($http, IMGSRC) {
 
 			return this.content;
 		};
-
-	// CARD PROTOTYPE
-	var Card = function(data) {
-		for (var key in data) {
-			this[key] = data[key];
-		}
-	
-		this.setContentStrategy(this.source_type);
-
-		this.sourceType = this.source_type;
-		this.content = this.contentStrategy.content;
-		this.source = this.contentStrategy.source;
-		this.sourceDate = this.contentStrategy.sourceDate;
-
-		this.background = this.flipBackground;
-
-		var imgPromise = $http.get(IMGSRC.imgSrc + this.background);
-
-		imgPromise.then(
-			// success
-			function(data) {
-				this.style = {
-					backgroundImage: 'url( ' + IMGSRC.imgSrc + this.background + ')',
-					backgroundSize: 'cover'
-				};
-			}.bind(this),
-			// failure
-			function(data){
-				this.background = IMGSRC.defaultFlip;
-
-				this.style = {
-					backgroundImage: 'url( ' + IMGSRC.imgSrc + this.background + ')',
-					backgroundSize: 'cover'
-				};
-			}.bind(this)
-		);
-
-	};
-
-	Card.prototype = {
-		setContentStrategy: function(type) {
-			switch (type) {
-				case 'text':
-					this.contentStrategy = new TextContentStrategy(this);
-					break;
-				case 'youtube':
-					this.contentStrategy = new YoutubeContentStrategy(this);
-					break;
-			}
-		},
-
-		flipCard: function() {
-			this.content = this.contentStrategy.flipCard();
-			this.source = this.contentStrategy.source;
-			this.sourceDate = this.contentStrategy.sourceDate;
-			this.background = (this.contentStrategy.flipped) ? this.flopBackground : this.flipBackground;
-			var imgPromise = $http.get(IMGSRC.imgSrc + this.background);
-
-			imgPromise.then(
-				// success
-				function(data) {
-					this.style = {
-						backgroundImage: 'url( ' + IMGSRC.imgSrc + this.background + ')',
-						backgroundSize: 'cover'
-					};					
-				}.bind(this),
-				// failure
-				function(data){
-					this.background = (this.contentStrategy.flipped) ? IMGSRC.defaultFlop : IMGSRC.defaultFlip;
-
-					this.style = {
-						backgroundImage: 'url( ' + IMGSRC.imgSrc + this.background + ')',
-						backgroundSize: 'cover'
-					};					
-				}.bind(this)
-			);
-		}
-	};
 
 	var create = function(data) {
 		return new Card(data);

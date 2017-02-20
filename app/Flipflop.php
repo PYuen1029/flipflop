@@ -11,10 +11,10 @@ class Flipflop extends Model
      *
      * @var array
      */
-    protected $fillable = [
-        'title', 'summary', 'flip', 'flop', 'source_type', 'flip_source', 'flop_source', 'politician_id',
-    ];
-		
+	protected $fillable = [
+		'title', 'summary', 'flip', 'flop', 'source_type', 'flip_source', 'flop_source', 'politician_id',
+	];
+
 	/**
 	 * RELATIONSHIPS
 	 */
@@ -22,6 +22,11 @@ class Flipflop extends Model
 	public function politicians()
 	{
 		return $this->belongsTo('App\Politician', 'politician_id');
+	}
+
+	public function tags()
+	{
+		return $this->morphToMany('App\Tag', 'taggable');
 	}
 
 	public static function selfCreate($request)
@@ -36,7 +41,7 @@ class Flipflop extends Model
 			'flip_source' => ($request['flip_source']) ? $request['flip_source'] : $request['flip'],
 			'flop' => $request['flop'],
 			'flop_source' => ($request['flop_source']) ? $request['flop_source'] : $request['flop'],
-		]);
+			]);
 
 		// attach politician to the flipflop
 		if($flipflop->politicians()->associate($pol)) {

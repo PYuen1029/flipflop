@@ -2,9 +2,10 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
 use App\Flipflop;
 use App\Politician;
+use Illuminate\Database\Eloquent\Collection;
+use Illuminate\Http\Request;
 
 class FlipflopController extends Controller
 {
@@ -18,14 +19,21 @@ class FlipflopController extends Controller
 	{
 		$flipflops = Flipflop::get()
 		->map(function($val) {
-		   $pol = $val->politicians;
-		   $newArr = $val->toArray();
-		   $newArr['flipBackground'] = $pol->flip_background; 
-		   $newArr['flopBackground'] = $pol->flop_background;
-		   $newArr['name'] = $pol->getFullName();
+			$pol = $val->politicians;
+			
+			$polTags = $pol->tags;
+			$flipflopTags = $val->tags;
 
-		   return $newArr;
-	   });
+
+			$newArr = $val->toArray();
+			$newArr['flipBackground'] = $pol->flip_background; 
+			$newArr['flopBackground'] = $pol->flop_background;
+			$newArr['name'] = $pol->getFullName();
+			$newArr['tags'] = $polTags->merge($flipflopTags)->transform(function ($value, $key) {
+				return $value->tag;
+			})->toArray();
+			return $newArr;
+		});
 
 		return $flipflops->toJson();
 	}

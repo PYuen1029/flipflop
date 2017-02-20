@@ -20,3 +20,5 @@ use Illuminate\Http\Request;
 Route::resource('flipflop', 'FlipflopController');
 
 Route::resource('politician', 'PoliticianController');
+
+Route::resource('tag', 'TagController');

@@ -13,14 +13,15 @@
 	<link rel="stylesheet" href="/bower_components/fontawesome/css/font-awesome.css"/>
 	<link rel="stylesheet" href="/bower_components/animate.css/animate.css"/>
 	<link rel="stylesheet" href="/bower_components/bootstrap/dist/css/bootstrap.css">
-	<!-- 
-	<link rel="stylesheet" href="/css/main.css"/>
-	<link rel="stylesheet" href="/css/homepage.css"/> -->
+
+	
 	<link rel="stylesheet" href="/css/main.css"/>
 	<link rel="stylesheet" href="/css/modalDialog.css"/>
 	<link rel="stylesheet" href="/css/submit.css"/>
 	<link rel="stylesheet" href="css/templatemo-misc.css">
 	<link rel="stylesheet" href="css/templatemo-style.css">
+	<link rel="stylesheet" href="css/hover-min.css">
+	
 	<script src="/bower_components/templatemo_423_artcore/js/vendor/modernizr-2.6.1-respond-1.1.0.min.js"></script>
 
   </head>
@@ -75,9 +76,9 @@
 		//<![CDATA[
 		$(window).load(function() { 
 			$('.loader-item').fadeOut(); 
-			$('#pageloader').delay(350).fadeOut('slow');
-			$('body').delay(550).css({'overflow-y':'visible'});
-		})
+			$('#pageloader').delay(1000).fadeOut('slow');
+			$('body').delay(1000).css({'overflow-y':'visible'});
+		});
 		//]]>
 	</script>
   </body>

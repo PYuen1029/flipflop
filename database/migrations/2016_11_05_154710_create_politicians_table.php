@@ -20,7 +20,6 @@ class CreatePoliticiansTable extends Migration
             $table->string('last_name');
             $table->string('flip_background')->default('default_red.png');
             $table->string('flop_background')->default('default_blue.png');
-            $table->string('tags')->nullable();
             $table->timestamps();
 
             $table->engine = 'InnoDB';

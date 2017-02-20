@@ -1,13 +1,5 @@
 <div class="projects-holder-3">
-	<!-- <div class="filter-categories">
-		<ul class="project-filter">
-			<li class="filter" data-filter="all"><span>All</span></li>
-			<li class="filter" data-filter="buildings"><span>Buildings</span></li>
-			<li class="filter" data-filter="design"><span>Design</span></li>
-			<li class="filter" data-filter="architecture"><span>Architecture</span></li>
-			<li class="filter" data-filter="nature"><span>Nature</span></li>
-		</ul>
-	</div> -->
+	<tag-pen-dir filters="filters"></tag-pen-dir>
 	<div class="projects-holder">
 		<div class="row">
 			<!-- <div class="homepage__card" ng-repeat="card in cards" ng-click="toggleModal(cards.indexOf(card))" ng-style="card.style">
@@ -16,10 +8,8 @@
 				</span>
 			</div> -->
 
-
-
 			<div class="col-md-4 project-item design"
-			ng-repeat="card in cards"
+			ng-repeat="card in filteredCards(cards)"
 			ng-click="toggleModal(cards.indexOf(card))"
 			>
 				<div class="project-thumb">
@@ -42,7 +32,7 @@
 		</div> <!-- /.row -->
 	</div> <!-- /.projects-holder -->
 </div> <!-- /.projects-holder-2 -->
-<modal-dialog></modal-dialog>
+<modal-dialog-dir></modal-dialog-dir>
 
 <!-- <div class="container">
 	<div class="content">

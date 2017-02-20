@@ -26,6 +26,26 @@ module.exports = function($scope, $http, FlipFlopsApiSvc, GetPoliticiansSvc, $lo
 			data.flop_source = $('#submit__flop-source').val();
 		}
 
+		// if type is video, append youtube time if it's set
+		if(data.sourceType == 'youtube') {
+			var flipTimeString = $('#submit__flip-yt-time').val();
+			
+			var re = /(\d{2})/gi;
+
+			if(flipTimeString) {
+				var matches1 = flipTimeString.match(re);
+
+				data.flip += "&t=" + matches1[0] + 'm' + matches1[1] + 's';
+			}
+
+			var flopTimeString = $('#submit__flop-yt-time').val();
+			if(flopTimeString) {
+				var matches2 = flopTimeString.match(re);
+
+				data.flop += "&t=" + matches2[0] + 'm' + matches2[1] + 's';
+			}
+		}
+
 		FlipFlopsApiSvc.post(data).then(function(data){
 			if (data) {
 				$location.path('/');

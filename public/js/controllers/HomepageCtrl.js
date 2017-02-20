@@ -1,5 +1,27 @@
-module.exports = function($scope, $http, GetCardsSvc) {
+module.exports = function($scope, GetCardsSvc) {
 	$scope.flipToggle = false;
+
+	///**            BEGIN FILTER CODE             **///
+	
+	$scope.filters = [];
+
+	$scope.filteredCards = function () {
+		if($scope.filters.length === 0) {
+			return $scope.cards;
+		} else {
+			return $scope.cards.filter(function (val) {
+				return val.tags.some(function(val){
+					return $scope.filters.indexOf(val) !== -1;
+				});
+			});
+		}
+
+	};
+	
+	///**            END FILTER CODE             **///
+	
+
+
 	
 	$scope.currentVideo = '';
 
