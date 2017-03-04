@@ -22,7 +22,11 @@
 					<youtube-video video-url="currentVideo" player-width="'100%'" player-height="'290px'" ng-switch-when="youtube"></youtube-video>
 				</div>
 				
+				<p class="flip-modal__tags">
+					Tags: {{ currCard.tags.join(' - ') }}
+				</p>
 			</div>
+
 			<div class="homepage__pager">
 				<div ng-class="{'disabled': cards.indexOf(currCard) === 0}" 
 					class="homepage__prev-btn btn btn-default" 

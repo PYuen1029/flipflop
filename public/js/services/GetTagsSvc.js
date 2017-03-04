@@ -10,6 +10,9 @@ module.exports = function($http, tagFcty) {
 		tagsPromise.then(
 			// SUCCESS
 			function(data) {
+				console.log('GetTagsSvc.js: Line 13 -- data:');
+				console.dir(data);
+
 				for(var i = 0; i < data.data.length; i++) {
 					tags.push({
 						value: data.data[i].tag,

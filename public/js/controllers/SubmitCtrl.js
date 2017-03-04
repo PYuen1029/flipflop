@@ -54,8 +54,8 @@ module.exports = function($scope, $http, FlipFlopsApiSvc, GetPoliticiansSvc, $lo
 	};
 
 	// handle sourceType radio buttons on change
-	$scope.type = 'text';
-	$scope.typeText = 'Text';
+	$scope.type = 'youtube';
+	$scope.typeText = 'Youtube';
 	
 	$scope.changeForm = function(type) {
 		switch (type) {

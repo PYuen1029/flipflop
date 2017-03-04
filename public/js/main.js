@@ -14,6 +14,7 @@
 	var ModalDialogDir = require('./directives/ModalDialogDir');
 	var TagPenDir = require('./directives/TagPenDir');
 	var homepageCtrl = require('./controllers/HomepageCtrl');
+	var politiciansCtrl = require('./controllers/PoliticiansCtrl');
 	var submitCtrl = require('./controllers/SubmitCtrl');
 	var GetCardsSvc = require('./services/GetCardsSvc');
 	var GetTagsSvc = require('./services/GetTagsSvc');
@@ -48,6 +49,10 @@
 					templateUrl: "./partials/submit.html",
 					controller: "SubmitController"
 				})
+				.when('/politicians', {
+					templateUrl: "./partials/politicians.html",
+					controller: "PoliticiansController"
+				})				
 				.otherwise({
 					 redirectTo: '/'
 				});
@@ -64,6 +69,7 @@
 	
 	//controllers
 	.controller('HomepageController', ['$scope', 'GetCardsSvc', homepageCtrl])
+	.controller('PoliticiansController', ['$scope', 'GetPoliticiansSvc', politiciansCtrl])
 	.controller('SubmitController', ['$scope', '$http', 'FlipFlopsApiSvc', 'GetPoliticiansSvc', '$location', submitCtrl])
 	
 	// directives

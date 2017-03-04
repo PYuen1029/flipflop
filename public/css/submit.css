@@ -20,3 +20,7 @@ div.submit__container {
 	margin-top:50px;
 	margin-bottom: 150px;
 }
+
+.submit__button {
+	margin-left: 5px;
+}

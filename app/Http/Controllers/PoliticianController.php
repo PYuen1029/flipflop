@@ -14,7 +14,15 @@ class PoliticianController extends Controller
      */
     public function index()
     {
-        return Politician::orderBy('first_name')->get();
+        $ret = Politician::with('tags')
+                ->orderBy('first_name')
+                ->get(['first_name', 'last_name', 'id'])
+                ->map(function($val) {
+                    $val->name = $val->getFullName();
+                    return $val;
+                });
+
+        return $ret->toJson();
     }
 
     /**

@@ -14,9 +14,28 @@ class TagController extends Controller
      */
     public function index()
     {
-        return Tag::orderBy('tag')
-            ->get()
-            ->toJson();
+        $tags = Tag::orderBy('tag')
+            ->get();
+
+        $tags = $tags->filter(function($val, $key) {
+            // check if $val has flipflops
+            $valHasFlipflops = !$val->flipflops->isEmpty();
+
+            // check if $val has politicians that have flipflops
+            $pols = $val->politicians;
+            foreach($pols as $pol) {
+                if(!$pol->flipflops->isEmpty()) {
+                    $polsHaveFlipflops = true;
+                    break;
+                }
+
+                $polsHaveFlipflops = false;
+            }
+
+            return $valHasFlipflops || $polsHaveFlipflops;
+        });
+
+        return $tags->values()->toJson();
     }
 
     /**

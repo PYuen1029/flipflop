@@ -4,13 +4,16 @@
 
 .logo > h1 a {
 	font-family: "Roboto Slab", serif;
-	color: #2C2C2C;
+	color: #4282bd;
 	text-decoration: none;
 	display: inline-block;
 	font-size: 2em;
 	text-transform: uppercase;
 	font-weight: 700;
 	letter-spacing: 1px;
+	-webkit-transition: all 550ms ease-in-out;
+	-moz-transition: all 550ms ease-in-out;
+	transition: all 550ms ease-in-out;
 }
 
 .logo > h1 em {
@@ -22,8 +25,12 @@
 	transition: all 550ms ease-in-out;
 }
 
+.logo > h1:hover a {
+	color: #BE1919;
+}
+
 .logo > h1:hover em {
-	color: #1546B5;
+	color: #4282bd;
 }
 
 div.projects-holder-3 {
@@ -32,6 +39,6 @@ div.projects-holder-3 {
 ul.project-filter{
     padding: 20px;
     background: #eae3ca;
-    height: 200px;
-    overflow-y: scroll;
+    max-height: 200px;
+    overflow-y: auto;
 }
