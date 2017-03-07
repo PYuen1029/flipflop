@@ -4,6 +4,10 @@ module.exports = function($scope, $http, FlipFlopsApiSvc, GetPoliticiansSvc, $lo
 	
 	politiciansPromise.then(function(data) {
 		$scope.politicians = data.data;
+
+		$('.loader-item').fadeOut(); 
+		$('#pageloader').delay(1000).fadeOut('slow');
+		$('body').delay(1000).css({'overflow-y':'visible'});
 	});
 
 	$scope.flipflopCreate = function() {

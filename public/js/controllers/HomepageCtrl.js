@@ -19,10 +19,7 @@ module.exports = function($scope, GetCardsSvc) {
 	};
 	
 	///**            END FILTER CODE             **///
-	
-
-
-	
+		
 	$scope.currentVideo = '';
 
 	// use GetCardsSvc to get the cards

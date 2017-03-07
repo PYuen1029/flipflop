@@ -4,15 +4,12 @@ module.exports = function($http, tagFcty) {
 		var tags = [];
 		
 		// it needs to get the tags promise
-		var tagsPromise = $http.get('/api/tag');
+		var tagsPromise = $http.get('/api/tag', {cache: true});
 
 		// when the promise resolves, add to tags
 		tagsPromise.then(
 			// SUCCESS
 			function(data) {
-				console.log('GetTagsSvc.js: Line 13 -- data:');
-				console.dir(data);
-
 				for(var i = 0; i < data.data.length; i++) {
 					tags.push({
 						value: data.data[i].tag,
@@ -20,6 +17,10 @@ module.exports = function($http, tagFcty) {
 						on: false
 					});
 				}
+
+				$('.loader-item').fadeOut(); 
+				$('#pageloader').delay(1000).fadeOut('slow');
+				$('body').delay(1000).css({'overflow-y':'visible'});
 			},
 			function(data) {
 				console.log('GetTagsSvc.js: Line 16 -- failure:');

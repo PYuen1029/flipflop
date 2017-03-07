@@ -4,7 +4,7 @@ module.exports = function($http, CardFcty) {
 		var cards = [];
 		
 		// it needs to get the cards promise
-		var cardsPromise = $http.get('/api/flipflop');
+		var cardsPromise = $http.get('/api/flipflop', {cache: true});
 
 		// when the promise resolves, add to cards
 		cardsPromise.then(

@@ -17,23 +17,25 @@ class FlipflopController extends Controller
 	 */
 	public function index()
 	{
-		$flipflops = Flipflop::get()
-		->map(function($val) {
-			$pol = $val->politicians;
-			
-			$polTags = $pol->tags;
-			$flipflopTags = $val->tags;
+		$flipflops = Flipflop::where('approved', true)
+			->get()
+			->map(function($val) {
+				$pol = $val->politicians;
+				
+				$polTags = $pol->tags;
+				$flipflopTags = $val->tags;
 
 
-			$newArr = $val->toArray();
-			$newArr['flipBackground'] = $pol->flip_background; 
-			$newArr['flopBackground'] = $pol->flop_background;
-			$newArr['name'] = $pol->getFullName();
-			$newArr['tags'] = $polTags->merge($flipflopTags)->transform(function ($value, $key) {
-				return $value->tag;
-			})->toArray();
-			return $newArr;
-		});
+				$newArr = $val->toArray();
+				$newArr['flipBackground'] = $pol->flip_background; 
+				$newArr['flopBackground'] = $pol->flop_background;
+				$newArr['name'] = $pol->getFullName();
+				$newArr['tags'] = $polTags->merge($flipflopTags)->transform(function ($value, $key) {
+					return $value->tag;
+				})->toArray();
+				return $newArr;
+			}
+		);
 
 		return $flipflops->toJson();
 	}

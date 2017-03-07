@@ -1,6 +1,6 @@
 module.exports = function($http) {
 	var get = function() {
-		return $http.get('/api/politician');
+		return $http.get('/api/politician', {cache: true});
 	};
 
 	return {

@@ -77,11 +77,11 @@
 	<!-- Preloader -->
 	<script type="text/javascript">
 		//<![CDATA[
-		$(window).load(function() { 
-			$('.loader-item').fadeOut(); 
-			$('#pageloader').delay(1000).fadeOut('slow');
-			$('body').delay(1000).css({'overflow-y':'visible'});
-		});
+		// $(window).load(function() { 
+		// 	$('.loader-item').fadeOut(); 
+		// 	$('#pageloader').delay(1000).fadeOut('slow');
+		// 	$('body').delay(1000).css({'overflow-y':'visible'});
+		// });
 		//]]>
 	</script>
   </body>

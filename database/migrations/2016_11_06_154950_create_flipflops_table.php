@@ -22,6 +22,7 @@ class CreateFlipflopsTable extends Migration
             $table->string('source_type')->default('text');
             $table->string('flip_source');
             $table->string('flop_source');
+            $table->boolean('approved')->default(false);
             $table->timestamps();
             
             //  FOREIGN KEYS

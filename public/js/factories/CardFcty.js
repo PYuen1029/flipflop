@@ -15,7 +15,7 @@ module.exports = function($http, IMGSRC) {
 
 		this.background = this.flipBackground;
 
-		var imgPromise = $http.get(IMGSRC.imgSrc + this.background);
+		var imgPromise = $http.get(IMGSRC.imgSrc + this.background, {cache: true});
 
 		imgPromise.then(
 			// success
