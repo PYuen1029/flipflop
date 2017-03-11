@@ -46,6 +46,12 @@ module.exports = function($scope, GetCardsSvc) {
 		$scope.currCard = $scope.cards[cardIndex];
 		$scope.modalShown = !$scope.modalShown;
 		$scope.currentVideo = $scope.currCard.content;
+
+		if (!$scope.currCard.contentStrategy.flipped) {
+			$scope.flipToggle = false;
+		} else {
+			$scope.flipToggle = true;
+		}
 	};
 
 	$scope.hideModal = function() {
